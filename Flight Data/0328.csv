@@ -1,0 +1,1960 @@
+departure_time,arrival_time,airfare,airline,duration,num_stops,departure_date,days_to_departure
+7:00pm,9:45am,$822 ,Philippine Airlines,47h 45m,(2 stops),03/29/2019,1
+3:15pm,9:35am,$919 ,Cathay Pacific,27h 20m,(1 stop),03/29/2019,1
+3:15pm,11:50am,$919 ,Cathay Pacific,29h 35m,(1 stop),03/29/2019,1
+3:15pm,8:45pm,$934 ,Cathay Pacific,38h 30m,(1 stop),03/29/2019,1
+3:15pm,7:15am,$934 ,Cathay Pacific,49h 0m,(1 stop),03/29/2019,1
+7:00pm,10:00pm,$984 ,Philippine Airlines,36h 0m,(2 stops),03/29/2019,1
+1:25pm,9:45am,"$1,018 ",Multiple Airlines,29h 20m,(1 stop),03/29/2019,1
+1:25pm,1:35pm,"$1,018 ",Multiple Airlines,33h 10m,(1 stop),03/29/2019,1
+6:25pm,7:40am,"$1,059 ",United,22h 15m,(1 stop),03/29/2019,1
+6:30pm,7:45am,"$1,059 ",United,22h 15m,(1 stop),03/29/2019,1
+5:15pm,8:00am,"$1,059 ",United,23h 45m,(1 stop),03/29/2019,1
+4:20pm,7:40am,"$1,059 ",United,24h 20m,(1 stop),03/29/2019,1
+2:05pm,8:00am,"$1,059 ",United,26h 55m,(1 stop),03/29/2019,1
+12:40pm,8:00am,"$1,059 ",United,28h 20m,(1 stop),03/29/2019,1
+9:30am,8:00am,"$1,059 ",United,31h 30m,(1 stop),03/29/2019,1
+7:59am,8:00am,"$1,059 ",United,33h 1m,(1 stop),03/29/2019,1
+4:50pm,8:00am,"$1,064 ",United,24h 10m,(2 stops),03/29/2019,1
+3:15pm,7:40am,"$1,064 ",United,25h 25m,(2 stops),03/29/2019,1
+2:50pm,7:40am,"$1,064 ",United,25h 50m,(2 stops),03/29/2019,1
+2:55pm,7:45am,"$1,064 ",United,25h 50m,(2 stops),03/29/2019,1
+2:50pm,7:45am,"$1,064 ",United,25h 55m,(2 stops),03/29/2019,1
+2:50pm,7:45am,"$1,064 ",United,25h 55m,(2 stops),03/29/2019,1
+2:55pm,8:00am,"$1,064 ",United,26h 5m,(2 stops),03/29/2019,1
+2:50pm,8:00am,"$1,064 ",United,26h 10m,(2 stops),03/29/2019,1
+8:00am,7:40am,"$1,117 ",United,32h 40m,(1 stop),03/29/2019,1
+3:30pm,7:10am,"$1,144 ",Delta,24h 40m,(2 stops),03/29/2019,1
+1:36pm,7:10am,"$1,144 ",Delta,26h 34m,(2 stops),03/29/2019,1
+11:59am,7:10am,"$1,144 ",Delta,28h 11m,(2 stops),03/29/2019,1
+11:47am,7:10am,"$1,144 ",Delta,28h 23m,(2 stops),03/29/2019,1
+11:45am,8:00am,"$1,144 ",American Airlines,29h 15m,(2 stops),03/29/2019,1
+11:45am,8:00am,"$1,144 ",American Airlines,29h 15m,(2 stops),03/29/2019,1
+11:45am,8:00am,"$1,144 ",American Airlines,29h 15m,(2 stops),03/29/2019,1
+10:30am,7:10am,"$1,144 ",Delta,29h 40m,(2 stops),03/29/2019,1
+11:59am,7:10am,"$1,162 ",Delta,28h 11m,(2 stops),03/29/2019,1
+11:47am,7:10am,"$1,162 ",Delta,28h 23m,(2 stops),03/29/2019,1
+11:45am,8:00am,"$1,162 ",American Airlines,29h 15m,(2 stops),03/29/2019,1
+10:30am,7:10am,"$1,162 ",Delta,29h 40m,(2 stops),03/29/2019,1
+10:30am,7:10am,"$1,162 ",Delta,29h 40m,(2 stops),03/29/2019,1
+9:50am,7:10am,"$1,162 ",Delta,30h 20m,(2 stops),03/29/2019,1
+9:50am,7:10am,"$1,162 ",Delta,30h 20m,(2 stops),03/29/2019,1
+1:25pm,10:00am,"$1,166 ",Multiple Airlines,29h 35m,(1 stop),03/29/2019,1
+10:55pm,7:30am,"$1,244 ",Etihad Airways,41h 35m,(1 stop),03/29/2019,1
+10:55pm,7:35pm,"$1,249 ",Etihad Airways,29h 40m,(1 stop),03/29/2019,1
+11:47am,7:55am,"$1,256 ",Delta,29h 8m,(2 stops),03/29/2019,1
+10:30am,7:10am,"$1,256 ",Delta,29h 40m,(2 stops),03/29/2019,1
+9:50am,7:10am,"$1,256 ",Delta,30h 20m,(2 stops),03/29/2019,1
+6:25pm,7:55am,"$1,263 ",Multiple Airlines,22h 30m,(1 stop),03/29/2019,1
+12:40pm,6:55am,"$1,275 ",Korean Air,27h 15m,(1 stop),03/29/2019,1
+2:30pm,7:30pm,"$1,308 ",Emirates,38h 0m,(1 stop),03/29/2019,1
+2:30pm,10:30pm,"$1,308 ",Emirates,41h 0m,(1 stop),03/29/2019,1
+2:30pm,7:00am,"$1,308 ",Emirates,49h 30m,(1 stop),03/29/2019,1
+2:30pm,9:00am,"$1,309 ",Emirates,51h 30m,(2 stops),03/29/2019,1
+8:00am,7:35am,"$1,339 ",Multiple Airlines,32h 35m,(1 stop),03/29/2019,1
+7:45am,6:40am,"$1,602 ",Japan Airlines,31h 55m,(2 stops),03/29/2019,1
+4:25pm,1:35pm,"$1,622 ",China Eastern Airlines,30h 10m,(1 stop),03/29/2019,1
+9:30pm,8:15pm,"$1,803 ",Singapore Airlines,31h 45m,(2 stops),03/29/2019,1
+9:30pm,9:10pm,"$1,803 ",Singapore Airlines,32h 40m,(2 stops),03/29/2019,1
+11:59am,7:10am,"$1,925 ",Delta,28h 11m,(2 stops),03/29/2019,1
+9:55am,7:35am,"$2,077 ",Qantas Airways,30h 40m,(1 stop),03/29/2019,1
+6:06am,9:25am,"$2,221 ",China Southern Airlines,36h 19m,(2 stops),03/29/2019,1
+6:06am,8:40pm,"$2,221 ",China Southern Airlines,47h 34m,(2 stops),03/29/2019,1
+9:55am,7:10am,"$2,470 ",Delta,30h 15m,(1 stop),03/29/2019,1
+1:36pm,7:55am,"$2,475 ",Delta,27h 19m,(2 stops),03/29/2019,1
+11:47am,7:55am,"$2,493 ",Delta,29h 8m,(2 stops),03/29/2019,1
+9:50am,7:55am,"$2,493 ",Delta,31h 5m,(2 stops),03/29/2019,1
+12:40pm,8:30am,"$2,728 ",Multiple Airlines,28h 50m,(1 stop),03/29/2019,1
+5:40pm,10:40am,"$3,295 ",United,26h 0m,(2 stops),03/29/2019,1
+4:10pm,10:40am,"$3,295 ",United,27h 30m,(2 stops),03/29/2019,1
+4:50pm,8:00am,"$3,296 ",United,24h 10m,(2 stops),03/29/2019,1
+4:20pm,7:45am,"$3,296 ",United,24h 25m,(2 stops),03/29/2019,1
+12:40pm,8:00am,"$3,296 ",United,28h 20m,(2 stops),03/29/2019,1
+8:00pm,9:30am,"$3,819 ",Air Canada,22h 30m,(1 stop),03/29/2019,1
+8:00pm,12:40pm,"$3,908 ",Air Canada,25h 40m,(2 stops),03/29/2019,1
+1:35am,9:45am,$822 ,Philippine Airlines,41h 10m,(1 stop),03/30/2019,2
+1:20am,8:45pm,$919 ,Cathay Pacific,28h 25m,(1 stop),03/30/2019,2
+1:20am,7:15am,$919 ,Cathay Pacific,38h 55m,(1 stop),03/30/2019,2
+1:20am,9:50am,$919 ,Cathay Pacific,41h 30m,(1 stop),03/30/2019,2
+1:20am,11:50am,$919 ,Cathay Pacific,43h 30m,(1 stop),03/30/2019,2
+1:35am,10:00pm,$984 ,Philippine Airlines,29h 25m,(1 stop),03/30/2019,2
+6:25pm,7:55am,"$1,059 ",United,22h 30m,(1 stop),03/30/2019,2
+12:00pm,7:55am,"$1,059 ",United,28h 55m,(1 stop),03/30/2019,2
+3:15pm,7:55am,"$1,064 ",United,25h 40m,(2 stops),03/30/2019,2
+1:44pm,7:55am,"$1,064 ",United,27h 11m,(2 stops),03/30/2019,2
+1:44pm,7:55am,"$1,064 ",United,27h 11m,(2 stops),03/30/2019,2
+1:44pm,7:55am,"$1,064 ",United,27h 11m,(2 stops),03/30/2019,2
+1:44pm,7:55am,"$1,064 ",United,27h 11m,(2 stops),03/30/2019,2
+11:07am,7:55am,"$1,064 ",United,29h 48m,(2 stops),03/30/2019,2
+11:07am,7:55am,"$1,064 ",United,29h 48m,(2 stops),03/30/2019,2
+10:25am,7:55am,"$1,064 ",United,30h 30m,(2 stops),03/30/2019,2
+10:25am,7:55am,"$1,064 ",United,30h 30m,(2 stops),03/30/2019,2
+10:25am,7:55am,"$1,082 ",United,30h 30m,(2 stops),03/30/2019,2
+10:25am,7:55am,"$1,082 ",United,30h 30m,(2 stops),03/30/2019,2
+10:25am,7:55am,"$1,082 ",United,30h 30m,(2 stops),03/30/2019,2
+6:40am,6:05am,"$1,083 ",Multiple Airlines,32h 25m,(1 stop),03/30/2019,2
+7:55pm,8:00am,"$1,110 ",United,45h 5m,(1 stop),03/30/2019,2
+8:00am,7:55am,"$1,117 ",United,32h 55m,(1 stop),03/30/2019,2
+8:00am,7:55am,"$1,118 ",United,32h 55m,(1 stop),03/30/2019,2
+3:10pm,8:15am,"$1,144 ",American Airlines,26h 5m,(2 stops),03/30/2019,2
+12:53pm,8:15am,"$1,144 ",American Airlines,28h 22m,(2 stops),03/30/2019,2
+12:53pm,8:15am,"$1,144 ",American Airlines,28h 22m,(2 stops),03/30/2019,2
+11:59am,7:35am,"$1,144 ",Delta,28h 36m,(2 stops),03/30/2019,2
+11:45am,8:15am,"$1,144 ",American Airlines,29h 30m,(2 stops),03/30/2019,2
+11:45am,8:15am,"$1,144 ",American Airlines,29h 30m,(2 stops),03/30/2019,2
+11:45am,8:15am,"$1,144 ",American Airlines,29h 30m,(2 stops),03/30/2019,2
+10:30am,7:35am,"$1,144 ",Delta,30h 5m,(2 stops),03/30/2019,2
+9:50am,7:35am,"$1,144 ",Delta,30h 45m,(2 stops),03/30/2019,2
+7:45am,8:15am,"$1,144 ",American Airlines,33h 30m,(2 stops),03/30/2019,2
+7:45am,8:15am,"$1,144 ",American Airlines,33h 30m,(2 stops),03/30/2019,2
+7:45am,7:10am,"$1,148 ",Japan Airlines,32h 25m,(2 stops),03/30/2019,2
+1:30am,8:40pm,"$1,153 ",China Southern Airlines,28h 10m,(1 stop),03/30/2019,2
+1:30am,9:25am,"$1,153 ",China Southern Airlines,40h 55m,(1 stop),03/30/2019,2
+11:59am,7:35am,"$1,162 ",Delta,28h 36m,(2 stops),03/30/2019,2
+11:45am,8:15am,"$1,162 ",American Airlines,29h 30m,(2 stops),03/30/2019,2
+10:30am,7:35am,"$1,162 ",Delta,30h 5m,(2 stops),03/30/2019,2
+10:30am,7:35am,"$1,162 ",Delta,30h 5m,(2 stops),03/30/2019,2
+7:45am,8:15am,"$1,162 ",American Airlines,33h 30m,(2 stops),03/30/2019,2
+7:45am,8:15am,"$1,162 ",American Airlines,33h 30m,(2 stops),03/30/2019,2
+7:45am,8:15am,"$1,162 ",American Airlines,33h 30m,(2 stops),03/30/2019,2
+7:45am,8:15am,"$1,162 ",American Airlines,33h 30m,(2 stops),03/30/2019,2
+6:15am,7:35am,"$1,162 ",Delta,34h 20m,(2 stops),03/30/2019,2
+6:00am,8:15am,"$1,162 ",American Airlines,35h 15m,(2 stops),03/30/2019,2
+6:00am,8:15am,"$1,162 ",American Airlines,35h 15m,(2 stops),03/30/2019,2
+7:45am,7:10am,"$1,194 ",Japan Airlines,32h 25m,(2 stops),03/30/2019,2
+11:07am,7:55am,"$1,210 ",United,29h 48m,(2 stops),03/30/2019,2
+8:00am,8:55am,"$1,255 ",Virgin Australia,33h 55m,(2 stops),03/30/2019,2
+8:00am,9:25am,"$1,255 ",Virgin Australia,34h 25m,(2 stops),03/30/2019,2
+8:00am,9:55am,"$1,255 ",Virgin Australia,34h 55m,(2 stops),03/30/2019,2
+8:00am,10:25am,"$1,255 ",Virgin Australia,35h 25m,(2 stops),03/30/2019,2
+10:34am,7:55am,"$1,256 ",Delta,30h 21m,(2 stops),03/30/2019,2
+10:55pm,6:50pm,"$1,274 ",Etihad Airways,28h 55m,(1 stop),03/30/2019,2
+10:55pm,7:30am,"$1,274 ",Etihad Airways,41h 35m,(1 stop),03/30/2019,2
+12:00pm,7:35am,"$1,277 ",Multiple Airlines,28h 35m,(1 stop),03/30/2019,2
+1:00pm,9:25am,"$1,304 ",Multiple Airlines,29h 25m,(1 stop),03/30/2019,2
+1:00pm,10:00am,"$1,304 ",Multiple Airlines,30h 0m,(1 stop),03/30/2019,2
+2:30pm,6:20pm,"$1,308 ",Emirates,36h 50m,(1 stop),03/30/2019,2
+2:30pm,10:30pm,"$1,308 ",Emirates,41h 0m,(1 stop),03/30/2019,2
+4:25pm,6:10am,"$1,334 ",China Eastern Airlines,46h 45m,(2 stops),03/30/2019,2
+8:00am,7:35am,"$1,339 ",Multiple Airlines,32h 35m,(1 stop),03/30/2019,2
+2:45pm,3:50pm,"$1,387 ",Air China,34h 5m,(1 stop),03/30/2019,2
+7:59am,8:40am,"$1,409 ",Air New Zealand,33h 41m,(2 stops),03/30/2019,2
+12:40pm,7:15am,"$1,557 ",Korean Air,27h 35m,(1 stop),03/30/2019,2
+10:30pm,6:55am,"$1,790 ",Turkish Airlines,41h 25m,(2 stops),03/30/2019,2
+10:30pm,11:25am,"$1,790 ",Turkish Airlines,45h 55m,(2 stops),03/30/2019,2
+8:35pm,8:15pm,"$1,828 ",Singapore Airlines,32h 40m,(2 stops),03/30/2019,2
+10:34am,7:55am,"$1,925 ",Delta,30h 21m,(2 stops),03/30/2019,2
+10:34am,7:55am,"$1,943 ",Delta,30h 21m,(2 stops),03/30/2019,2
+9:00am,9:20am,"$2,203 ",Air Canada,33h 20m,(1 stop),03/30/2019,2
+9:50am,7:55am,"$2,761 ",Delta,31h 5m,(2 stops),03/30/2019,2
+1:45pm,7:35am,"$3,428 ",Delta,26h 50m,(2 stops),03/30/2019,2
+10:34am,7:35am,"$4,413 ",Delta,30h 1m,(2 stops),03/30/2019,2
+4:20pm,7:35am,"$4,586 ",Multiple Airlines,24h 15m,(1 stop),03/30/2019,2
+2:30pm,6:20pm,"$5,177 ",Multiple Airlines,36h 50m,(1 stop),03/30/2019,2
+1:15am,10:00pm,$691 ,Philippine Airlines,29h 45m,(1 stop),03/31/2019,3
+1:15am,9:45am,$691 ,Philippine Airlines,41h 30m,(1 stop),03/31/2019,3
+11:30pm,9:45am,$691 ,Philippine Airlines,43h 15m,(1 stop),03/31/2019,3
+1:45am,8:45pm,$919 ,Cathay Pacific,28h 0m,(1 stop),03/31/2019,3
+3:30pm,11:50am,$919 ,Cathay Pacific,29h 20m,(1 stop),03/31/2019,3
+1:45am,7:15am,$919 ,Cathay Pacific,38h 30m,(1 stop),03/31/2019,3
+1:45am,11:50am,$919 ,Cathay Pacific,43h 5m,(1 stop),03/31/2019,3
+3:30pm,8:45pm,$934 ,Cathay Pacific,38h 15m,(1 stop),03/31/2019,3
+1:30am,8:40pm,"$1,004 ",China Southern Airlines,28h 10m,(1 stop),03/31/2019,3
+4:25pm,8:40am,"$1,031 ",China Eastern Airlines,49h 15m,(3 stops),03/31/2019,3
+4:25pm,8:40am,"$1,031 ",China Eastern Airlines,49h 15m,(3 stops),03/31/2019,3
+4:25pm,9:30am,"$1,031 ",China Eastern Airlines,74h 5m,(3 stops),03/31/2019,3
+10:30pm,6:55am,"$1,052 ",Turkish Airlines,41h 25m,(2 stops),03/31/2019,3
+5:25pm,8:00am,"$1,059 ",United,23h 35m,(1 stop),03/31/2019,3
+2:05pm,8:00am,"$1,059 ",United,26h 55m,(1 stop),03/31/2019,3
+12:40pm,8:00am,"$1,059 ",United,28h 20m,(1 stop),03/31/2019,3
+9:00am,8:00am,"$1,059 ",United,32h 0m,(1 stop),03/31/2019,3
+7:59am,8:00am,"$1,059 ",United,33h 1m,(1 stop),03/31/2019,3
+3:14pm,7:55am,"$1,064 ",United,25h 41m,(2 stops),03/31/2019,3
+2:50pm,7:55am,"$1,064 ",United,26h 5m,(2 stops),03/31/2019,3
+2:50pm,8:00am,"$1,064 ",United,26h 10m,(2 stops),03/31/2019,3
+11:16am,7:55am,"$1,064 ",United,29h 39m,(2 stops),03/31/2019,3
+11:16am,7:55am,"$1,064 ",United,29h 39m,(2 stops),03/31/2019,3
+11:16am,7:55am,"$1,064 ",United,29h 39m,(2 stops),03/31/2019,3
+1:00pm,9:25am,"$1,107 ",Multiple Airlines,29h 25m,(1 stop),03/31/2019,3
+1:00pm,10:00am,"$1,107 ",Multiple Airlines,30h 0m,(1 stop),03/31/2019,3
+6:55am,7:55am,"$1,118 ",United,34h 0m,(1 stop),03/31/2019,3
+6:40am,6:25am,"$1,135 ",Multiple Airlines,32h 45m,(1 stop),03/31/2019,3
+3:30pm,7:35am,"$1,144 ",Delta,25h 5m,(2 stops),03/31/2019,3
+12:53pm,8:15am,"$1,144 ",American Airlines,28h 22m,(2 stops),03/31/2019,3
+12:53pm,8:15am,"$1,144 ",American Airlines,28h 22m,(2 stops),03/31/2019,3
+12:53pm,8:15am,"$1,144 ",American Airlines,28h 22m,(2 stops),03/31/2019,3
+11:59am,7:35am,"$1,144 ",Delta,28h 36m,(2 stops),03/31/2019,3
+11:59am,7:35am,"$1,144 ",Delta,28h 36m,(2 stops),03/31/2019,3
+10:30am,7:35am,"$1,144 ",Delta,30h 5m,(2 stops),03/31/2019,3
+1:30am,9:25am,"$1,153 ",China Southern Airlines,40h 55m,(1 stop),03/31/2019,3
+11:59am,7:35am,"$1,162 ",Delta,28h 36m,(2 stops),03/31/2019,3
+10:30am,7:35am,"$1,162 ",Delta,30h 5m,(2 stops),03/31/2019,3
+10:30am,7:35am,"$1,162 ",Delta,30h 5m,(2 stops),03/31/2019,3
+11:50am,6:25am,"$1,166 ",Multiple Airlines,27h 35m,(1 stop),03/31/2019,3
+2:45pm,3:50pm,"$1,178 ",Air China,34h 5m,(1 stop),03/31/2019,3
+4:50pm,8:00am,"$1,192 ",United,24h 10m,(2 stops),03/31/2019,3
+10:30pm,11:25am,"$1,208 ",Turkish Airlines,45h 55m,(2 stops),03/31/2019,3
+10:30pm,5:50pm,"$1,208 ",Turkish Airlines,52h 20m,(2 stops),03/31/2019,3
+10:30pm,9:10pm,"$1,208 ",Turkish Airlines,55h 40m,(2 stops),03/31/2019,3
+10:20pm,6:50pm,"$1,239 ",Etihad Airways,29h 30m,(1 stop),03/31/2019,3
+10:20pm,7:30am,"$1,239 ",Etihad Airways,42h 10m,(1 stop),03/31/2019,3
+11:50am,6:25am,"$1,289 ",Qantas Airways,27h 35m,(1 stop),03/31/2019,3
+2:30pm,6:20pm,"$1,308 ",Emirates,36h 50m,(1 stop),03/31/2019,3
+2:30pm,10:30pm,"$1,308 ",Emirates,41h 0m,(1 stop),03/31/2019,3
+7:59am,8:40am,"$1,409 ",Air New Zealand,33h 41m,(2 stops),03/31/2019,3
+7:45am,7:10am,"$1,514 ",Japan Airlines,32h 25m,(2 stops),03/31/2019,3
+12:40pm,7:15am,"$1,557 ",Korean Air,27h 35m,(1 stop),03/31/2019,3
+8:35pm,8:15pm,"$1,678 ",Singapore Airlines,32h 40m,(2 stops),03/31/2019,3
+8:35pm,9:10pm,"$1,678 ",Singapore Airlines,33h 35m,(2 stops),03/31/2019,3
+1:45pm,8:30am,"$2,180 ",Asiana Airlines,27h 45m,(1 stop),03/31/2019,3
+12:40pm,8:30am,"$2,772 ",Multiple Airlines,28h 50m,(1 stop),03/31/2019,3
+2:45pm,2:20pm,"$3,238 ",Multiple Airlines,32h 35m,(1 stop),03/31/2019,3
+2:55pm,7:55am,"$3,296 ",United,26h 0m,(2 stops),03/31/2019,3
+2:55pm,8:00am,"$3,296 ",United,26h 5m,(2 stops),03/31/2019,3
+12:40pm,8:00am,"$3,296 ",United,28h 20m,(2 stops),03/31/2019,3
+12:55pm,8:00am,"$3,314 ",United,28h 5m,(2 stops),03/31/2019,3
+11:16am,7:55am,"$3,314 ",United,29h 39m,(2 stops),03/31/2019,3
+11:16am,7:55am,"$3,314 ",United,29h 39m,(2 stops),03/31/2019,3
+10:34am,7:35am,"$4,413 ",Delta,30h 1m,(2 stops),03/31/2019,3
+3:37pm,7:35am,"$4,418 ",Delta,24h 58m,(2 stops),03/31/2019,3
+1:36pm,7:35am,"$4,418 ",Delta,26h 59m,(2 stops),03/31/2019,3
+11:47am,7:35am,"$4,418 ",Delta,28h 48m,(2 stops),03/31/2019,3
+9:50am,7:35am,"$4,418 ",Delta,30h 45m,(2 stops),03/31/2019,3
+1:36pm,7:35am,"$4,436 ",Delta,26h 59m,(2 stops),03/31/2019,3
+11:47am,7:35am,"$4,436 ",Delta,28h 48m,(2 stops),03/31/2019,3
+9:50am,7:35am,"$4,436 ",Delta,30h 45m,(2 stops),03/31/2019,3
+9:50am,7:35am,"$4,436 ",Delta,30h 45m,(2 stops),03/31/2019,3
+1:00pm,6:25am,"$4,586 ",Multiple Airlines,26h 25m,(1 stop),03/31/2019,3
+9:30am,6:25am,"$4,586 ",Multiple Airlines,29h 55m,(1 stop),03/31/2019,3
+1:36pm,8:30am,"$5,357 ",Delta,27h 54m,(2 stops),03/31/2019,3
+1:36pm,8:30am,"$5,375 ",Delta,27h 54m,(2 stops),03/31/2019,3
+3:30pm,11:00am,"$5,820 ",Multiple Airlines,28h 30m,(1 stop),03/31/2019,3
+7:40am,7:10am,"$6,169 ",Japan Airlines,32h 30m,(2 stops),03/31/2019,3
+6:30pm,8:30am,"$6,449 ",Multiple Airlines,23h 0m,(1 stop),03/31/2019,3
+11:30pm,10:00pm,$691 ,Philippine Airlines,31h 30m,(1 stop),04/01/2019,4
+2:45pm,9:30am,$726 ,Multiple Airlines,51h 45m,(2 stops),04/01/2019,4
+1:45am,8:45pm,$904 ,Cathay Pacific,28h 0m,(1 stop),04/01/2019,4
+1:45am,9:50am,$904 ,Cathay Pacific,41h 5m,(1 stop),04/01/2019,4
+1:45am,11:50am,$904 ,Cathay Pacific,43h 5m,(1 stop),04/01/2019,4
+1:00pm,9:25am,$994 ,Multiple Airlines,29h 25m,(1 stop),04/01/2019,4
+1:00pm,10:00am,$994 ,Multiple Airlines,30h 0m,(1 stop),04/01/2019,4
+1:00pm,1:35pm,$994 ,Multiple Airlines,33h 35m,(1 stop),04/01/2019,4
+1:30am,8:40pm,"$1,004 ",China Southern Airlines,28h 10m,(1 stop),04/01/2019,4
+1:30am,9:25am,"$1,004 ",China Southern Airlines,40h 55m,(1 stop),04/01/2019,4
+7:21pm,7:55am,"$1,029 ",United,21h 34m,(1 stop),04/01/2019,4
+6:50pm,7:55am,"$1,029 ",United,22h 5m,(1 stop),04/01/2019,4
+5:25pm,8:00am,"$1,029 ",United,23h 35m,(1 stop),04/01/2019,4
+4:20pm,7:55am,"$1,029 ",United,24h 35m,(1 stop),04/01/2019,4
+2:05pm,8:00am,"$1,029 ",United,26h 55m,(1 stop),04/01/2019,4
+12:40pm,8:00am,"$1,029 ",United,28h 20m,(1 stop),04/01/2019,4
+9:30am,8:00am,"$1,029 ",United,31h 30m,(1 stop),04/01/2019,4
+7:59am,8:00am,"$1,029 ",United,33h 1m,(1 stop),04/01/2019,4
+4:50pm,8:00am,"$1,034 ",United,24h 10m,(2 stops),04/01/2019,4
+4:15pm,7:55am,"$1,034 ",United,24h 40m,(2 stops),04/01/2019,4
+4:15pm,8:00am,"$1,034 ",United,24h 45m,(2 stops),04/01/2019,4
+3:14pm,7:55am,"$1,034 ",United,25h 41m,(2 stops),04/01/2019,4
+2:55pm,7:55am,"$1,034 ",United,26h 0m,(2 stops),04/01/2019,4
+2:50pm,7:55am,"$1,034 ",United,26h 5m,(2 stops),04/01/2019,4
+2:50pm,7:55am,"$1,034 ",United,26h 5m,(2 stops),04/01/2019,4
+2:55pm,8:00am,"$1,034 ",United,26h 5m,(2 stops),04/01/2019,4
+2:50pm,8:00am,"$1,034 ",United,26h 10m,(2 stops),04/01/2019,4
+2:35pm,8:00am,"$1,034 ",United,26h 25m,(2 stops),04/01/2019,4
+1:51pm,7:55am,"$1,034 ",United,27h 4m,(2 stops),04/01/2019,4
+1:51pm,7:55am,"$1,034 ",United,27h 4m,(2 stops),04/01/2019,4
+1:51pm,7:55am,"$1,034 ",United,27h 4m,(2 stops),04/01/2019,4
+11:16am,7:55am,"$1,034 ",United,29h 39m,(2 stops),04/01/2019,4
+11:16am,7:55am,"$1,034 ",United,29h 39m,(2 stops),04/01/2019,4
+11:16am,7:55am,"$1,034 ",United,29h 39m,(2 stops),04/01/2019,4
+11:16am,7:55am,"$1,034 ",United,29h 39m,(2 stops),04/01/2019,4
+4:20pm,6:05am,"$1,040 ",Multiple Airlines,22h 45m,(1 stop),04/01/2019,4
+11:50am,6:25am,"$1,040 ",Multiple Airlines,27h 35m,(1 stop),04/01/2019,4
+7:59am,8:40am,"$1,046 ",Air New Zealand,33h 41m,(2 stops),04/01/2019,4
+6:40am,6:25am,"$1,091 ",Multiple Airlines,32h 45m,(1 stop),04/01/2019,4
+3:30pm,7:35am,"$1,099 ",Delta,25h 5m,(2 stops),04/01/2019,4
+3:10pm,8:15am,"$1,099 ",American Airlines,26h 5m,(2 stops),04/01/2019,4
+1:36pm,7:35am,"$1,099 ",Delta,26h 59m,(2 stops),04/01/2019,4
+1:36pm,8:30am,"$1,099 ",Delta,27h 54m,(2 stops),04/01/2019,4
+12:53pm,8:15am,"$1,099 ",American Airlines,28h 22m,(2 stops),04/01/2019,4
+12:53pm,8:15am,"$1,099 ",American Airlines,28h 22m,(2 stops),04/01/2019,4
+12:53pm,8:15am,"$1,099 ",American Airlines,28h 22m,(2 stops),04/01/2019,4
+12:53pm,8:15am,"$1,099 ",American Airlines,28h 22m,(2 stops),04/01/2019,4
+11:59am,7:35am,"$1,099 ",Delta,28h 36m,(2 stops),04/01/2019,4
+11:59am,7:35am,"$1,099 ",Delta,28h 36m,(2 stops),04/01/2019,4
+11:47am,7:35am,"$1,099 ",Delta,28h 48m,(2 stops),04/01/2019,4
+10:34am,7:35am,"$1,099 ",Delta,30h 1m,(2 stops),04/01/2019,4
+10:34am,7:35am,"$1,099 ",Delta,30h 1m,(2 stops),04/01/2019,4
+10:30am,7:35am,"$1,099 ",Delta,30h 5m,(2 stops),04/01/2019,4
+10:30am,7:35am,"$1,099 ",Delta,30h 5m,(2 stops),04/01/2019,4
+7:45am,8:15am,"$1,099 ",American Airlines,33h 30m,(2 stops),04/01/2019,4
+7:45am,8:15am,"$1,099 ",American Airlines,33h 30m,(2 stops),04/01/2019,4
+6:25pm,8:30am,"$1,104 ",Multiple Airlines,23h 5m,(1 stop),04/01/2019,4
+1:36pm,8:30am,"$1,117 ",Delta,27h 54m,(2 stops),04/01/2019,4
+11:59am,7:35am,"$1,117 ",Delta,28h 36m,(2 stops),04/01/2019,4
+10:34am,7:35am,"$1,117 ",Delta,30h 1m,(2 stops),04/01/2019,4
+10:30am,7:35am,"$1,117 ",Delta,30h 5m,(2 stops),04/01/2019,4
+10:59am,8:15am,"$1,117 ",American Airlines,30h 16m,(2 stops),04/01/2019,4
+10:34am,8:30am,"$1,117 ",Delta,30h 56m,(2 stops),04/01/2019,4
+4:25pm,1:35pm,"$1,123 ",China Eastern Airlines,30h 10m,(1 stop),04/01/2019,4
+11:50am,6:25am,"$1,134 ",Qantas Airways,27h 35m,(1 stop),04/01/2019,4
+2:45pm,3:50pm,"$1,156 ",Air China,34h 5m,(1 stop),04/01/2019,4
+7:45am,7:10am,"$1,178 ",Japan Airlines,32h 25m,(2 stops),04/01/2019,4
+6:25pm,8:30am,"$1,207 ",Virgin Australia,23h 5m,(1 stop),04/01/2019,4
+2:30pm,6:20pm,"$1,263 ",Emirates,36h 50m,(1 stop),04/01/2019,4
+5:55pm,6:50pm,"$1,349 ",Etihad Airways,33h 55m,(2 stops),04/01/2019,4
+12:53pm,7:30am,"$1,360 ",Qantas Airways,27h 37m,(2 stops),04/01/2019,4
+12:53pm,7:30am,"$1,360 ",Qantas Airways,27h 37m,(2 stops),04/01/2019,4
+12:40pm,7:15am,"$1,557 ",Korean Air,27h 35m,(1 stop),04/01/2019,4
+8:35pm,8:15pm,"$1,678 ",Singapore Airlines,32h 40m,(2 stops),04/01/2019,4
+12:00pm,8:30am,"$1,832 ",Virgin Australia,29h 30m,(1 stop),04/01/2019,4
+9:55am,7:30am,"$1,835 ",Qantas Airways,30h 35m,(1 stop),04/01/2019,4
+1:45pm,8:15am,"$2,136 ",Asiana Airlines,27h 30m,(1 stop),04/01/2019,4
+9:50am,8:20am,"$2,976 ",Thai Airways International,31h 30m,(2 stops),04/01/2019,4
+4:20pm,9:15am,"$5,148 ",Air Canada,25h 55m,(2 stops),04/01/2019,4
+12:30am,8:40pm,$795 ,China Southern Airlines,28h 10m,(1 stop),04/02/2019,5
+12:30am,6:45am,$795 ,China Southern Airlines,38h 15m,(1 stop),04/02/2019,5
+12:30am,9:25am,$795 ,China Southern Airlines,40h 55m,(1 stop),04/02/2019,5
+7:00pm,7:55pm,$899 ,China Airlines,32h 55m,(2 stops),04/02/2019,5
+4:00pm,7:55pm,$899 ,China Airlines,35h 55m,(2 stops),04/02/2019,5
+7:00pm,12:15pm,$899 ,China Airlines,49h 15m,(2 stops),04/02/2019,5
+4:00pm,12:15pm,$899 ,China Airlines,52h 15m,(2 stops),04/02/2019,5
+1:20am,8:50pm,$904 ,Cathay Pacific,27h 30m,(1 stop),04/02/2019,5
+1:20am,7:25am,$904 ,Cathay Pacific,38h 5m,(1 stop),04/02/2019,5
+1:20am,9:35am,$904 ,Cathay Pacific,40h 15m,(1 stop),04/02/2019,5
+1:20am,12:00pm,$904 ,Cathay Pacific,42h 40m,(1 stop),04/02/2019,5
+6:25pm,8:55am,$939 ,Virgin Australia,22h 30m,(1 stop),04/02/2019,5
+4:20pm,8:55am,$939 ,Virgin Australia,24h 35m,(1 stop),04/02/2019,5
+12:00pm,8:55am,$939 ,Virgin Australia,28h 55m,(1 stop),04/02/2019,5
+3:40pm,8:55am,$944 ,Delta,25h 15m,(2 stops),04/02/2019,5
+3:14pm,8:45am,$944 ,American Airlines,25h 31m,(2 stops),04/02/2019,5
+3:14pm,8:45am,$944 ,American Airlines,25h 31m,(2 stops),04/02/2019,5
+12:25pm,8:55am,$944 ,Delta,28h 30m,(2 stops),04/02/2019,5
+12:00pm,8:55am,$944 ,Delta,28h 55m,(2 stops),04/02/2019,5
+12:00pm,8:55am,$944 ,Delta,28h 55m,(2 stops),04/02/2019,5
+12:00pm,8:55am,$944 ,Delta,28h 55m,(2 stops),04/02/2019,5
+11:55am,8:55am,$944 ,Delta,29h 0m,(2 stops),04/02/2019,5
+11:45am,8:45am,$944 ,American Airlines,29h 0m,(2 stops),04/02/2019,5
+11:45am,8:45am,$944 ,American Airlines,29h 0m,(2 stops),04/02/2019,5
+10:30am,8:55am,$944 ,Delta,30h 25m,(2 stops),04/02/2019,5
+10:30am,8:55am,$944 ,Delta,30h 25m,(2 stops),04/02/2019,5
+10:30am,8:55am,$944 ,Delta,30h 25m,(2 stops),04/02/2019,5
+10:20am,8:55am,$944 ,Delta,30h 35m,(2 stops),04/02/2019,5
+10:20am,8:55am,$944 ,Delta,30h 35m,(2 stops),04/02/2019,5
+8:16am,8:45am,$944 ,American Airlines,32h 29m,(2 stops),04/02/2019,5
+8:16am,8:45am,$944 ,American Airlines,32h 29m,(2 stops),04/02/2019,5
+4:20pm,10:40am,$953 ,Virgin Australia,26h 20m,(2 stops),04/02/2019,5
+4:20pm,11:40am,$953 ,Virgin Australia,27h 20m,(2 stops),04/02/2019,5
+4:20pm,12:40pm,$953 ,Virgin Australia,28h 20m,(2 stops),04/02/2019,5
+4:20pm,1:40pm,$953 ,Virgin Australia,29h 20m,(2 stops),04/02/2019,5
+2:45pm,9:30am,$726 ,Multiple Airlines,51h 45m,(2 stops),04/03/2019,6
+11:30pm,9:45am,$798 ,Philippine Airlines,43h 15m,(1 stop),04/03/2019,6
+4:25pm,1:35pm,$820 ,China Eastern Airlines,30h 10m,(1 stop),04/03/2019,6
+1:30am,8:40pm,$884 ,China Southern Airlines,28h 10m,(1 stop),04/03/2019,6
+1:30am,9:25am,$884 ,China Southern Airlines,40h 55m,(1 stop),04/03/2019,6
+1:45am,8:45pm,$904 ,Cathay Pacific,28h 0m,(1 stop),04/03/2019,6
+1:45am,7:15am,$904 ,Cathay Pacific,38h 30m,(1 stop),04/03/2019,6
+1:45am,9:50am,$904 ,Cathay Pacific,41h 5m,(1 stop),04/03/2019,6
+1:45am,11:50am,$904 ,Cathay Pacific,43h 5m,(1 stop),04/03/2019,6
+1:00pm,10:00am,"$1,009 ",Multiple Airlines,30h 0m,(1 stop),04/03/2019,6
+1:00pm,1:35pm,"$1,009 ",Multiple Airlines,33h 35m,(1 stop),04/03/2019,6
+7:21pm,7:55am,"$1,029 ",United,21h 34m,(1 stop),04/03/2019,6
+6:50pm,7:55am,"$1,029 ",United,22h 5m,(1 stop),04/03/2019,6
+5:25pm,8:00am,"$1,029 ",United,23h 35m,(1 stop),04/03/2019,6
+4:20pm,7:55am,"$1,029 ",United,24h 35m,(1 stop),04/03/2019,6
+2:05pm,8:00am,"$1,029 ",United,26h 55m,(1 stop),04/03/2019,6
+12:40pm,8:00am,"$1,029 ",United,28h 20m,(1 stop),04/03/2019,6
+9:30am,8:00am,"$1,029 ",United,31h 30m,(1 stop),04/03/2019,6
+7:59am,8:00am,"$1,029 ",United,33h 1m,(1 stop),04/03/2019,6
+4:15pm,7:55am,"$1,034 ",United,24h 40m,(2 stops),04/03/2019,6
+4:15pm,8:00am,"$1,034 ",United,24h 45m,(2 stops),04/03/2019,6
+2:55pm,7:55am,"$1,034 ",United,26h 0m,(2 stops),04/03/2019,6
+2:50pm,7:55am,"$1,034 ",United,26h 5m,(2 stops),04/03/2019,6
+2:50pm,7:55am,"$1,034 ",United,26h 5m,(2 stops),04/03/2019,6
+2:55pm,8:00am,"$1,034 ",United,26h 5m,(2 stops),04/03/2019,6
+2:50pm,8:00am,"$1,034 ",United,26h 10m,(2 stops),04/03/2019,6
+2:35pm,8:00am,"$1,034 ",United,26h 25m,(2 stops),04/03/2019,6
+1:51pm,7:55am,"$1,034 ",United,27h 4m,(2 stops),04/03/2019,6
+1:51pm,7:55am,"$1,034 ",United,27h 4m,(2 stops),04/03/2019,6
+1:25pm,8:00am,"$1,034 ",United,27h 35m,(2 stops),04/03/2019,6
+12:20pm,7:55am,"$1,034 ",United,28h 35m,(2 stops),04/03/2019,6
+12:20pm,7:55am,"$1,034 ",United,28h 35m,(2 stops),04/03/2019,6
+12:20pm,7:55am,"$1,034 ",United,28h 35m,(2 stops),04/03/2019,6
+11:16am,7:55am,"$1,034 ",United,29h 39m,(2 stops),04/03/2019,6
+4:20pm,6:05am,"$1,040 ",Multiple Airlines,22h 45m,(1 stop),04/03/2019,6
+11:50am,6:25am,"$1,040 ",Multiple Airlines,27h 35m,(1 stop),04/03/2019,6
+8:00am,6:05am,"$1,040 ",Multiple Airlines,31h 5m,(1 stop),04/03/2019,6
+7:00am,6:25am,"$1,040 ",Multiple Airlines,32h 25m,(1 stop),04/03/2019,6
+11:16am,10:40am,"$1,046 ",Air New Zealand,32h 24m,(2 stops),04/03/2019,6
+11:50am,6:25am,"$1,050 ",Qantas Airways,27h 35m,(1 stop),04/03/2019,6
+4:20pm,8:40am,"$1,094 ",Air New Zealand,25h 20m,(2 stops),04/03/2019,6
+6:25pm,8:30am,"$1,094 ",Virgin Australia,23h 5m,(1 stop),04/03/2019,6
+3:30pm,7:35am,"$1,099 ",Delta,25h 5m,(2 stops),04/03/2019,6
+1:55pm,7:35am,"$1,099 ",Delta,26h 40m,(2 stops),04/03/2019,6
+1:55pm,8:30am,"$1,099 ",Delta,27h 35m,(2 stops),04/03/2019,6
+1:00pm,8:25am,"$1,099 ",American Airlines,28h 25m,(2 stops),04/03/2019,6
+1:00pm,8:25am,"$1,099 ",American Airlines,28h 25m,(2 stops),04/03/2019,6
+1:00pm,8:25am,"$1,099 ",American Airlines,28h 25m,(2 stops),04/03/2019,6
+12:03pm,7:35am,"$1,099 ",Delta,28h 32m,(2 stops),04/03/2019,6
+11:55am,7:35am,"$1,099 ",Delta,28h 40m,(2 stops),04/03/2019,6
+11:55am,7:35am,"$1,099 ",Delta,28h 40m,(2 stops),04/03/2019,6
+12:03pm,8:30am,"$1,099 ",Delta,29h 27m,(2 stops),04/03/2019,6
+11:45am,8:25am,"$1,099 ",American Airlines,29h 40m,(2 stops),04/03/2019,6
+11:45am,8:25am,"$1,099 ",American Airlines,29h 40m,(2 stops),04/03/2019,6
+10:30am,7:35am,"$1,099 ",Delta,30h 5m,(2 stops),04/03/2019,6
+10:30am,7:35am,"$1,099 ",Delta,30h 5m,(2 stops),04/03/2019,6
+10:30am,7:35am,"$1,099 ",Delta,30h 5m,(2 stops),04/03/2019,6
+10:30am,7:35am,"$1,099 ",Delta,30h 5m,(2 stops),04/03/2019,6
+10:00am,7:35am,"$1,099 ",Delta,30h 35m,(2 stops),04/03/2019,6
+8:15am,8:25am,"$1,099 ",American Airlines,33h 10m,(2 stops),04/03/2019,6
+6:25pm,8:30am,"$1,104 ",Multiple Airlines,23h 5m,(1 stop),04/03/2019,6
+4:20pm,8:30am,"$1,104 ",Multiple Airlines,25h 10m,(1 stop),04/03/2019,6
+8:15am,7:10am,"$1,133 ",Japan Airlines,31h 55m,(2 stops),04/03/2019,6
+9:55am,7:30am,"$1,134 ",Qantas Airways,30h 35m,(1 stop),04/03/2019,6
+2:30pm,6:20pm,"$1,263 ",Emirates,36h 50m,(1 stop),04/03/2019,6
+2:30pm,10:30pm,"$1,263 ",Emirates,41h 0m,(1 stop),04/03/2019,6
+12:40pm,7:15am,"$1,275 ",Korean Air,27h 35m,(1 stop),04/03/2019,6
+5:55pm,6:50pm,"$1,349 ",Etihad Airways,33h 55m,(2 stops),04/03/2019,6
+8:15pm,9:20am,"$1,401 ",Air Canada,22h 5m,(1 stop),04/03/2019,6
+6:00pm,9:20am,"$1,401 ",Air Canada,24h 20m,(1 stop),04/03/2019,6
+5:55pm,9:20am,"$1,401 ",Air Canada,24h 25m,(2 stops),04/03/2019,6
+4:00pm,9:20am,"$1,401 ",Air Canada,26h 20m,(1 stop),04/03/2019,6
+2:40pm,9:20am,"$1,401 ",Air Canada,27h 40m,(2 stops),04/03/2019,6
+9:50am,8:20am,"$1,518 ",Thai Airways International,31h 30m,(2 stops),04/03/2019,6
+7:00pm,11:45am,"$1,602 ",China Airlines,49h 45m,(2 stops),04/03/2019,6
+8:35pm,8:15pm,"$1,828 ",Singapore Airlines,32h 40m,(2 stops),04/03/2019,6
+4:20pm,8:30am,"$1,832 ",Virgin Australia,25h 10m,(1 stop),04/03/2019,6
+4:20pm,9:40am,"$1,846 ",Virgin Australia,26h 20m,(2 stops),04/03/2019,6
+1:45pm,8:15am,"$2,136 ",Asiana Airlines,27h 30m,(1 stop),04/03/2019,6
+1:40pm,9:55am,"$5,485 ",All Nippon Airways,29h 15m,(1 stop),04/03/2019,6
+4:25pm,7:40am,$741 ,China Eastern Airlines,73h 15m,(2 stops),04/04/2019,7
+1:30am,8:40pm,$884 ,China Southern Airlines,28h 10m,(1 stop),04/04/2019,7
+1:30am,9:25am,$884 ,China Southern Airlines,40h 55m,(1 stop),04/04/2019,7
+1:45am,8:45pm,$904 ,Cathay Pacific,28h 0m,(1 stop),04/04/2019,7
+1:45am,7:15am,$904 ,Cathay Pacific,38h 30m,(1 stop),04/04/2019,7
+1:45am,9:50am,$904 ,Cathay Pacific,41h 5m,(1 stop),04/04/2019,7
+10:20pm,6:50pm,$933 ,Etihad Airways,29h 30m,(1 stop),04/04/2019,7
+11:30pm,8:45am,$961 ,Philippine Airlines,43h 15m,(1 stop),04/04/2019,7
+4:20pm,6:05am,$998 ,Multiple Airlines,22h 45m,(1 stop),04/04/2019,7
+11:50am,6:25am,$998 ,Multiple Airlines,27h 35m,(1 stop),04/04/2019,7
+8:00am,6:05am,$998 ,Multiple Airlines,31h 5m,(1 stop),04/04/2019,7
+7:00am,6:25am,$998 ,Multiple Airlines,32h 25m,(1 stop),04/04/2019,7
+11:50am,6:25am,"$1,007 ",Qantas Airways,27h 35m,(1 stop),04/04/2019,7
+1:00pm,9:25am,"$1,009 ",Multiple Airlines,29h 25m,(1 stop),04/04/2019,7
+1:00pm,10:00am,"$1,009 ",Multiple Airlines,30h 0m,(1 stop),04/04/2019,7
+3:38pm,7:35am,"$1,023 ",Delta,24h 57m,(2 stops),04/04/2019,7
+3:30pm,7:35am,"$1,023 ",Delta,25h 5m,(2 stops),04/04/2019,7
+3:38pm,8:30am,"$1,023 ",Delta,25h 52m,(2 stops),04/04/2019,7
+3:38pm,8:30am,"$1,023 ",Delta,25h 52m,(2 stops),04/04/2019,7
+3:11pm,8:25am,"$1,023 ",American Airlines,26h 14m,(2 stops),04/04/2019,7
+1:55pm,7:35am,"$1,023 ",Delta,26h 40m,(2 stops),04/04/2019,7
+1:55pm,8:30am,"$1,023 ",Delta,27h 35m,(2 stops),04/04/2019,7
+1:00pm,8:25am,"$1,023 ",American Airlines,28h 25m,(2 stops),04/04/2019,7
+1:00pm,8:25am,"$1,023 ",American Airlines,28h 25m,(2 stops),04/04/2019,7
+1:00pm,8:25am,"$1,023 ",American Airlines,28h 25m,(2 stops),04/04/2019,7
+12:03pm,7:35am,"$1,023 ",Delta,28h 32m,(2 stops),04/04/2019,7
+11:55am,7:35am,"$1,023 ",Delta,28h 40m,(2 stops),04/04/2019,7
+11:55am,7:35am,"$1,023 ",Delta,28h 40m,(2 stops),04/04/2019,7
+11:55am,7:35am,"$1,023 ",Delta,28h 40m,(2 stops),04/04/2019,7
+11:55am,8:30am,"$1,023 ",Delta,29h 35m,(2 stops),04/04/2019,7
+11:45am,8:25am,"$1,023 ",American Airlines,29h 40m,(2 stops),04/04/2019,7
+11:45am,8:25am,"$1,023 ",American Airlines,29h 40m,(2 stops),04/04/2019,7
+10:30am,7:35am,"$1,023 ",Delta,30h 5m,(2 stops),04/04/2019,7
+10:30am,7:35am,"$1,023 ",Delta,30h 5m,(2 stops),04/04/2019,7
+10:30am,7:35am,"$1,023 ",Delta,30h 5m,(2 stops),04/04/2019,7
+10:00am,7:35am,"$1,023 ",Delta,30h 35m,(2 stops),04/04/2019,7
+8:15am,8:25am,"$1,023 ",American Airlines,33h 10m,(2 stops),04/04/2019,7
+6:25pm,8:30am,"$1,027 ",Multiple Airlines,23h 5m,(1 stop),04/04/2019,7
+7:21pm,7:55am,"$1,029 ",United,21h 34m,(1 stop),04/04/2019,7
+6:50pm,7:55am,"$1,029 ",United,22h 5m,(1 stop),04/04/2019,7
+6:25pm,8:00am,"$1,029 ",United,22h 35m,(1 stop),04/04/2019,7
+4:20pm,7:55am,"$1,029 ",United,24h 35m,(1 stop),04/04/2019,7
+12:00pm,8:00am,"$1,029 ",United,29h 0m,(1 stop),04/04/2019,7
+4:15pm,8:00am,"$1,034 ",United,24h 45m,(2 stops),04/04/2019,7
+3:14pm,8:00am,"$1,034 ",United,25h 46m,(2 stops),04/04/2019,7
+2:55pm,7:55am,"$1,034 ",United,26h 0m,(2 stops),04/04/2019,7
+2:50pm,7:55am,"$1,034 ",United,26h 5m,(2 stops),04/04/2019,7
+2:50pm,7:55am,"$1,034 ",United,26h 5m,(2 stops),04/04/2019,7
+1:51pm,7:55am,"$1,034 ",United,27h 4m,(2 stops),04/04/2019,7
+1:51pm,8:00am,"$1,034 ",United,27h 9m,(2 stops),04/04/2019,7
+1:51pm,8:00am,"$1,034 ",United,27h 9m,(2 stops),04/04/2019,7
+12:20pm,7:55am,"$1,034 ",United,28h 35m,(2 stops),04/04/2019,7
+7:59am,8:40am,"$1,046 ",Air New Zealand,33h 41m,(2 stops),04/04/2019,7
+6:25pm,8:30am,"$1,094 ",Virgin Australia,23h 5m,(1 stop),04/04/2019,7
+12:00pm,8:30am,"$1,104 ",Multiple Airlines,29h 30m,(1 stop),04/04/2019,7
+8:15am,7:10am,"$1,133 ",Japan Airlines,31h 55m,(2 stops),04/04/2019,7
+9:55am,7:30am,"$1,134 ",Qantas Airways,30h 35m,(1 stop),04/04/2019,7
+7:45am,7:10am,"$1,178 ",Japan Airlines,32h 25m,(2 stops),04/04/2019,7
+12:40pm,7:15am,"$1,275 ",Korean Air,27h 35m,(1 stop),04/04/2019,7
+8:15pm,9:20am,"$1,401 ",Air Canada,22h 5m,(1 stop),04/04/2019,7
+6:00pm,9:20am,"$1,401 ",Air Canada,24h 20m,(1 stop),04/04/2019,7
+4:00pm,9:20am,"$1,401 ",Air Canada,26h 20m,(1 stop),04/04/2019,7
+2:00pm,9:20am,"$1,401 ",Air Canada,28h 20m,(1 stop),04/04/2019,7
+12:00pm,9:20am,"$1,401 ",Air Canada,30h 20m,(1 stop),04/04/2019,7
+10:15pm,10:45am,"$1,629 ",China Airlines,46h 30m,(2 stops),04/04/2019,7
+8:35pm,9:10pm,"$2,003 ",Singapore Airlines,33h 35m,(2 stops),04/04/2019,7
+11:30pm,8:45am,$716 ,Philippine Airlines,43h 15m,(1 stop),04/05/2019,8
+11:30pm,9:00pm,$822 ,Philippine Airlines,31h 30m,(1 stop),04/05/2019,8
+1:30am,8:40pm,$884 ,China Southern Airlines,28h 10m,(1 stop),04/05/2019,8
+1:30am,8:25am,$884 ,China Southern Airlines,40h 55m,(1 stop),04/05/2019,8
+3:30pm,8:50am,$919 ,Cathay Pacific,27h 20m,(1 stop),04/05/2019,8
+1:45am,8:45pm,$919 ,Cathay Pacific,28h 0m,(1 stop),04/05/2019,8
+3:30pm,10:50am,$919 ,Cathay Pacific,29h 20m,(1 stop),04/05/2019,8
+1:45am,6:15am,$919 ,Cathay Pacific,38h 30m,(1 stop),04/05/2019,8
+1:45am,8:50am,$919 ,Cathay Pacific,41h 5m,(1 stop),04/05/2019,8
+1:45am,10:50am,$919 ,Cathay Pacific,43h 5m,(1 stop),04/05/2019,8
+10:20pm,5:50pm,$933 ,Etihad Airways,29h 30m,(1 stop),04/05/2019,8
+10:20pm,6:30am,$933 ,Etihad Airways,42h 10m,(1 stop),04/05/2019,8
+3:30pm,8:20pm,$934 ,Cathay Pacific,38h 50m,(1 stop),04/05/2019,8
+3:30pm,6:15am,$934 ,Cathay Pacific,48h 45m,(1 stop),04/05/2019,8
+1:00pm,12:35pm,"$1,018 ",Multiple Airlines,33h 35m,(1 stop),04/05/2019,8
+1:00pm,9:00am,"$1,033 ",Multiple Airlines,30h 0m,(1 stop),04/05/2019,8
+6:50pm,6:05am,"$1,040 ",Multiple Airlines,21h 15m,(1 stop),04/05/2019,8
+6:40pm,6:25am,"$1,040 ",Multiple Airlines,21h 45m,(1 stop),04/05/2019,8
+4:20pm,6:30am,"$1,040 ",Multiple Airlines,24h 10m,(1 stop),04/05/2019,8
+11:50am,6:25am,"$1,040 ",Multiple Airlines,28h 35m,(1 stop),04/05/2019,8
+1:00pm,8:25am,"$1,047 ",Multiple Airlines,29h 25m,(1 stop),04/05/2019,8
+11:50am,6:25am,"$1,050 ",Qantas Airways,28h 35m,(1 stop),04/05/2019,8
+7:21pm,6:55am,"$1,059 ",United,21h 34m,(1 stop),04/05/2019,8
+5:25pm,7:00am,"$1,059 ",United,23h 35m,(1 stop),04/05/2019,8
+2:05pm,7:00am,"$1,059 ",United,26h 55m,(1 stop),04/05/2019,8
+12:40pm,7:00am,"$1,059 ",United,28h 20m,(1 stop),04/05/2019,8
+9:30am,7:00am,"$1,059 ",United,31h 30m,(1 stop),04/05/2019,8
+7:59am,7:00am,"$1,059 ",United,33h 1m,(1 stop),04/05/2019,8
+4:50pm,7:00am,"$1,064 ",United,24h 10m,(2 stops),04/05/2019,8
+2:55pm,6:55am,"$1,064 ",United,26h 0m,(2 stops),04/05/2019,8
+2:50pm,6:55am,"$1,064 ",United,26h 5m,(2 stops),04/05/2019,8
+2:50pm,6:55am,"$1,064 ",United,26h 5m,(2 stops),04/05/2019,8
+2:55pm,7:00am,"$1,064 ",United,26h 5m,(2 stops),04/05/2019,8
+2:50pm,7:00am,"$1,064 ",United,26h 10m,(2 stops),04/05/2019,8
+2:35pm,7:00am,"$1,064 ",United,26h 25m,(2 stops),04/05/2019,8
+12:20pm,6:55am,"$1,064 ",United,28h 35m,(2 stops),04/05/2019,8
+12:20pm,6:55am,"$1,064 ",United,28h 35m,(2 stops),04/05/2019,8
+5:40pm,7:30am,"$1,067 ",Delta,23h 50m,(2 stops),04/05/2019,8
+3:38pm,6:35am,"$1,067 ",Delta,24h 57m,(2 stops),04/05/2019,8
+3:30pm,6:35am,"$1,067 ",Delta,25h 5m,(2 stops),04/05/2019,8
+3:38pm,7:30am,"$1,067 ",Delta,25h 52m,(2 stops),04/05/2019,8
+3:38pm,7:30am,"$1,067 ",Delta,25h 52m,(2 stops),04/05/2019,8
+3:11pm,7:25am,"$1,067 ",American Airlines,26h 14m,(2 stops),04/05/2019,8
+1:55pm,6:35am,"$1,067 ",Delta,26h 40m,(2 stops),04/05/2019,8
+1:00pm,7:25am,"$1,067 ",American Airlines,28h 25m,(2 stops),04/05/2019,8
+12:03pm,6:35am,"$1,067 ",Delta,28h 32m,(2 stops),04/05/2019,8
+11:55am,6:35am,"$1,067 ",Delta,28h 40m,(2 stops),04/05/2019,8
+11:55am,6:35am,"$1,067 ",Delta,28h 40m,(2 stops),04/05/2019,8
+11:55am,6:35am,"$1,067 ",Delta,28h 40m,(2 stops),04/05/2019,8
+12:03pm,7:30am,"$1,067 ",Delta,29h 27m,(2 stops),04/05/2019,8
+11:45am,7:25am,"$1,067 ",American Airlines,29h 40m,(2 stops),04/05/2019,8
+11:45am,7:25am,"$1,067 ",American Airlines,29h 40m,(2 stops),04/05/2019,8
+10:30am,6:35am,"$1,067 ",Delta,30h 5m,(2 stops),04/05/2019,8
+10:30am,6:35am,"$1,067 ",Delta,30h 5m,(2 stops),04/05/2019,8
+10:30am,6:35am,"$1,067 ",Delta,30h 5m,(2 stops),04/05/2019,8
+8:15am,7:25am,"$1,067 ",American Airlines,33h 10m,(2 stops),04/05/2019,8
+8:15am,7:25am,"$1,067 ",American Airlines,33h 10m,(2 stops),04/05/2019,8
+4:00pm,10:40am,"$1,067 ",Air New Zealand,28h 40m,(2 stops),04/05/2019,8
+12:00pm,10:40am,"$1,067 ",Air New Zealand,32h 40m,(2 stops),04/05/2019,8
+4:20pm,7:30am,"$1,072 ",Multiple Airlines,25h 10m,(1 stop),04/05/2019,8
+7:00am,6:25am,"$1,091 ",Multiple Airlines,33h 25m,(1 stop),04/05/2019,8
+4:25pm,12:35pm,"$1,123 ",China Eastern Airlines,30h 10m,(1 stop),04/05/2019,8
+7:00pm,6:55pm,"$1,127 ",China Airlines,33h 55m,(2 stops),04/05/2019,8
+8:00am,7:30am,"$1,130 ",Multiple Airlines,33h 30m,(1 stop),04/05/2019,8
+8:15am,6:10am,"$1,148 ",Japan Airlines,31h 55m,(2 stops),04/05/2019,8
+12:00pm,7:30am,"$1,263 ",Multiple Airlines,29h 30m,(1 stop),04/05/2019,8
+12:40pm,6:15am,"$1,275 ",Korean Air,27h 35m,(1 stop),04/05/2019,8
+2:30pm,5:20pm,"$1,308 ",Emirates,36h 50m,(1 stop),04/05/2019,8
+2:30pm,10:05pm,"$1,308 ",Emirates,41h 35m,(1 stop),04/05/2019,8
+8:15pm,8:20am,"$1,433 ",Air Canada,22h 5m,(1 stop),04/05/2019,8
+6:00pm,8:20am,"$1,433 ",Air Canada,24h 20m,(1 stop),04/05/2019,8
+4:00pm,8:20am,"$1,433 ",Air Canada,26h 20m,(1 stop),04/05/2019,8
+12:00pm,8:20am,"$1,433 ",Air Canada,30h 20m,(1 stop),04/05/2019,8
+10:00am,8:20am,"$1,433 ",Air Canada,32h 20m,(1 stop),04/05/2019,8
+6:25pm,7:30am,"$1,935 ",Multiple Airlines,23h 5m,(1 stop),04/05/2019,8
+2:30pm,10:00am,"$2,064 ",Malaysia Airlines,53h 30m,(2 stops),04/05/2019,8
+2:30pm,7:35pm,"$2,064 ",Malaysia Airlines,63h 5m,(2 stops),04/05/2019,8
+1:40pm,8:55am,"$5,485 ",All Nippon Airways,29h 15m,(1 stop),04/05/2019,8
+8:35pm,7:15pm,"$7,726 ",Singapore Airlines,32h 40m,(2 stops),04/05/2019,8
+11:30pm,9:00pm,$716 ,Philippine Airlines,31h 30m,(1 stop),04/06/2019,9
+11:30pm,8:45am,$716 ,Philippine Airlines,43h 15m,(1 stop),04/06/2019,9
+1:30am,7:40pm,$884 ,China Southern Airlines,28h 10m,(1 stop),04/06/2019,9
+1:30am,8:25am,$884 ,China Southern Airlines,40h 55m,(1 stop),04/06/2019,9
+1:45am,8:20pm,$919 ,Cathay Pacific,28h 35m,(1 stop),04/06/2019,9
+1:45am,6:15am,$919 ,Cathay Pacific,38h 30m,(1 stop),04/06/2019,9
+1:45am,8:50am,$919 ,Cathay Pacific,41h 5m,(1 stop),04/06/2019,9
+1:45am,10:50am,$919 ,Cathay Pacific,43h 5m,(1 stop),04/06/2019,9
+4:25pm,7:45pm,$950 ,China Eastern Airlines,37h 20m,(2 stops),04/06/2019,9
+10:20pm,5:50pm,$963 ,Etihad Airways,29h 30m,(1 stop),04/06/2019,9
+10:20pm,6:30am,$963 ,Etihad Airways,42h 10m,(1 stop),04/06/2019,9
+6:40pm,6:25am,"$1,040 ",Multiple Airlines,21h 45m,(1 stop),04/06/2019,9
+7:21pm,6:55am,"$1,059 ",United,21h 34m,(1 stop),04/06/2019,9
+6:25pm,7:00am,"$1,059 ",United,22h 35m,(1 stop),04/06/2019,9
+4:20pm,7:00am,"$1,059 ",United,24h 40m,(1 stop),04/06/2019,9
+3:45pm,6:55am,"$1,059 ",United,25h 10m,(2 stops),04/06/2019,9
+4:15pm,6:55am,"$1,064 ",United,24h 40m,(2 stops),04/06/2019,9
+4:15pm,7:00am,"$1,064 ",United,24h 45m,(2 stops),04/06/2019,9
+3:14pm,6:55am,"$1,064 ",United,25h 41m,(2 stops),04/06/2019,9
+2:55pm,6:55am,"$1,064 ",United,26h 0m,(2 stops),04/06/2019,9
+2:50pm,6:55am,"$1,064 ",United,26h 5m,(2 stops),04/06/2019,9
+2:50pm,6:55am,"$1,064 ",United,26h 5m,(2 stops),04/06/2019,9
+2:50pm,7:00am,"$1,064 ",United,26h 10m,(2 stops),04/06/2019,9
+1:51pm,6:55am,"$1,064 ",United,27h 4m,(2 stops),04/06/2019,9
+1:51pm,6:55am,"$1,064 ",United,27h 4m,(2 stops),04/06/2019,9
+1:51pm,7:00am,"$1,064 ",United,27h 9m,(2 stops),04/06/2019,9
+1:51pm,7:00am,"$1,064 ",United,27h 9m,(2 stops),04/06/2019,9
+12:20pm,6:55am,"$1,064 ",United,28h 35m,(2 stops),04/06/2019,9
+12:20pm,6:55am,"$1,064 ",United,28h 35m,(2 stops),04/06/2019,9
+12:20pm,7:00am,"$1,064 ",United,28h 40m,(2 stops),04/06/2019,9
+12:20pm,7:00am,"$1,064 ",United,28h 40m,(2 stops),04/06/2019,9
+11:16am,6:55am,"$1,064 ",United,29h 39m,(2 stops),04/06/2019,9
+3:11pm,7:25am,"$1,067 ",American Airlines,26h 14m,(2 stops),04/06/2019,9
+2:05pm,6:35am,"$1,067 ",Delta,26h 30m,(2 stops),04/06/2019,9
+2:05pm,7:30am,"$1,067 ",Delta,27h 25m,(2 stops),04/06/2019,9
+1:00pm,6:35am,"$1,067 ",Delta,27h 35m,(2 stops),04/06/2019,9
+1:00pm,7:25am,"$1,067 ",American Airlines,28h 25m,(2 stops),04/06/2019,9
+1:00pm,7:30am,"$1,067 ",Delta,28h 30m,(2 stops),04/06/2019,9
+11:55am,6:35am,"$1,067 ",Delta,28h 40m,(2 stops),04/06/2019,9
+11:55am,6:35am,"$1,067 ",Delta,28h 40m,(2 stops),04/06/2019,9
+11:45am,7:25am,"$1,067 ",American Airlines,29h 40m,(2 stops),04/06/2019,9
+11:45am,7:25am,"$1,067 ",American Airlines,29h 40m,(2 stops),04/06/2019,9
+11:28am,7:25am,"$1,067 ",American Airlines,29h 57m,(2 stops),04/06/2019,9
+10:30am,6:35am,"$1,067 ",Delta,30h 5m,(2 stops),04/06/2019,9
+10:30am,6:35am,"$1,067 ",Delta,30h 5m,(2 stops),04/06/2019,9
+10:30am,6:35am,"$1,067 ",Delta,30h 5m,(2 stops),04/06/2019,9
+10:19am,6:35am,"$1,067 ",Delta,30h 16m,(2 stops),04/06/2019,9
+10:19am,6:35am,"$1,067 ",Delta,30h 16m,(2 stops),04/06/2019,9
+10:00am,6:35am,"$1,067 ",Delta,30h 35m,(2 stops),04/06/2019,9
+7:56am,7:25am,"$1,067 ",American Airlines,33h 29m,(2 stops),04/06/2019,9
+7:56am,7:25am,"$1,067 ",American Airlines,33h 29m,(2 stops),04/06/2019,9
+12:20pm,6:55am,"$1,082 ",United,28h 35m,(2 stops),04/06/2019,9
+2:05pm,7:30am,"$1,085 ",Delta,27h 25m,(2 stops),04/06/2019,9
+10:30am,6:35am,"$1,085 ",Delta,30h 5m,(2 stops),04/06/2019,9
+10:00am,6:35am,"$1,085 ",Delta,30h 35m,(2 stops),04/06/2019,9
+7:00am,6:25am,"$1,091 ",Multiple Airlines,33h 25m,(1 stop),04/06/2019,9
+5:25pm,8:40am,"$1,094 ",Air New Zealand,25h 15m,(2 stops),04/06/2019,9
+5:25pm,10:40am,"$1,094 ",Air New Zealand,27h 15m,(2 stops),04/06/2019,9
+7:56am,6:10am,"$1,148 ",Japan Airlines,32h 14m,(2 stops),04/06/2019,9
+4:20pm,7:30am,"$1,150 ",Multiple Airlines,25h 10m,(1 stop),04/06/2019,9
+10:30pm,5:55am,"$1,178 ",Turkish Airlines,41h 25m,(2 stops),04/06/2019,9
+10:30pm,10:25am,"$1,178 ",Turkish Airlines,45h 55m,(2 stops),04/06/2019,9
+1:00pm,8:25am,"$1,221 ",Multiple Airlines,29h 25m,(1 stop),04/06/2019,9
+12:40pm,6:15am,"$1,275 ",Korean Air,27h 35m,(1 stop),04/06/2019,9
+4:20pm,6:30am,"$1,277 ",Multiple Airlines,24h 10m,(1 stop),04/06/2019,9
+2:30pm,5:20pm,"$1,308 ",Emirates,36h 50m,(1 stop),04/06/2019,9
+8:15pm,8:20am,"$1,433 ",Air Canada,22h 5m,(1 stop),04/06/2019,9
+6:00pm,8:20am,"$1,433 ",Air Canada,24h 20m,(1 stop),04/06/2019,9
+5:00pm,8:20am,"$1,433 ",Air Canada,25h 20m,(1 stop),04/06/2019,9
+4:00pm,8:20am,"$1,433 ",Air Canada,26h 20m,(1 stop),04/06/2019,9
+10:00am,8:20am,"$1,433 ",Air Canada,32h 20m,(1 stop),04/06/2019,9
+10:15pm,10:45am,"$1,629 ",China Airlines,46h 30m,(2 stops),04/06/2019,9
+4:20pm,7:30am,"$1,920 ",Virgin Australia,25h 10m,(1 stop),04/06/2019,9
+8:35pm,7:15pm,"$2,003 ",Singapore Airlines,32h 40m,(2 stops),04/06/2019,9
+9:55am,6:30am,"$2,077 ",Qantas Airways,30h 35m,(1 stop),04/06/2019,9
+9:55am,8:10am,"$2,087 ",Qantas Airways,32h 15m,(2 stops),04/06/2019,9
+9:55am,8:25am,"$2,087 ",Qantas Airways,32h 30m,(2 stops),04/06/2019,9
+4:20pm,6:35am,"$2,738 ",Virgin Australia,24h 15m,(1 stop),04/06/2019,9
+1:40pm,8:55am,"$5,709 ",All Nippon Airways,29h 15m,(1 stop),04/06/2019,9
+11:30pm,8:45am,$748 ,Philippine Airlines,43h 15m,(1 stop),04/07/2019,10
+1:30am,7:40pm,$795 ,China Southern Airlines,28h 10m,(1 stop),04/07/2019,10
+4:25pm,7:40am,$815 ,China Eastern Airlines,49h 15m,(3 stops),04/07/2019,10
+4:25pm,7:40am,$815 ,China Eastern Airlines,49h 15m,(3 stops),04/07/2019,10
+4:25pm,8:30am,$815 ,China Eastern Airlines,74h 5m,(3 stops),04/07/2019,10
+3:30pm,8:50am,$919 ,Cathay Pacific,27h 20m,(1 stop),04/07/2019,10
+1:45am,8:20pm,$919 ,Cathay Pacific,28h 35m,(1 stop),04/07/2019,10
+3:30pm,10:50am,$919 ,Cathay Pacific,29h 20m,(1 stop),04/07/2019,10
+1:45am,6:15am,$919 ,Cathay Pacific,38h 30m,(1 stop),04/07/2019,10
+1:45am,8:50am,$919 ,Cathay Pacific,41h 5m,(1 stop),04/07/2019,10
+1:45am,10:50am,$919 ,Cathay Pacific,43h 5m,(1 stop),04/07/2019,10
+10:20pm,5:50pm,$933 ,Etihad Airways,29h 30m,(1 stop),04/07/2019,10
+10:20pm,6:30am,$933 ,Etihad Airways,42h 10m,(1 stop),04/07/2019,10
+3:30pm,8:20pm,$934 ,Cathay Pacific,38h 50m,(1 stop),04/07/2019,10
+3:30pm,6:15am,$934 ,Cathay Pacific,48h 45m,(1 stop),04/07/2019,10
+5:25pm,7:00am,"$1,059 ",United,23h 35m,(1 stop),04/07/2019,10
+2:05pm,7:00am,"$1,059 ",United,26h 55m,(1 stop),04/07/2019,10
+12:40pm,7:00am,"$1,059 ",United,28h 20m,(1 stop),04/07/2019,10
+9:00am,7:00am,"$1,059 ",United,32h 0m,(1 stop),04/07/2019,10
+7:59am,7:00am,"$1,059 ",United,33h 1m,(1 stop),04/07/2019,10
+4:50pm,7:00am,"$1,064 ",United,24h 10m,(2 stops),04/07/2019,10
+4:15pm,7:00am,"$1,064 ",United,24h 45m,(2 stops),04/07/2019,10
+2:55pm,6:55am,"$1,064 ",United,26h 0m,(2 stops),04/07/2019,10
+2:50pm,6:55am,"$1,064 ",United,26h 5m,(2 stops),04/07/2019,10
+2:55pm,7:00am,"$1,064 ",United,26h 5m,(2 stops),04/07/2019,10
+2:35pm,7:00am,"$1,064 ",United,26h 25m,(2 stops),04/07/2019,10
+1:51pm,6:55am,"$1,064 ",United,27h 4m,(2 stops),04/07/2019,10
+1:51pm,6:55am,"$1,064 ",United,27h 4m,(2 stops),04/07/2019,10
+1:51pm,6:55am,"$1,064 ",United,27h 4m,(2 stops),04/07/2019,10
+1:51pm,7:00am,"$1,064 ",United,27h 9m,(2 stops),04/07/2019,10
+1:51pm,7:00am,"$1,064 ",United,27h 9m,(2 stops),04/07/2019,10
+3:38pm,6:35am,"$1,067 ",Delta,24h 57m,(2 stops),04/07/2019,10
+3:30pm,6:35am,"$1,067 ",Delta,25h 5m,(2 stops),04/07/2019,10
+3:11pm,7:25am,"$1,067 ",American Airlines,26h 14m,(2 stops),04/07/2019,10
+1:55pm,6:35am,"$1,067 ",Delta,26h 40m,(2 stops),04/07/2019,10
+1:00pm,7:25am,"$1,067 ",American Airlines,28h 25m,(2 stops),04/07/2019,10
+1:00pm,7:25am,"$1,067 ",American Airlines,28h 25m,(2 stops),04/07/2019,10
+12:03pm,6:35am,"$1,067 ",Delta,28h 32m,(2 stops),04/07/2019,10
+11:55am,6:35am,"$1,067 ",Delta,28h 40m,(2 stops),04/07/2019,10
+11:55am,6:35am,"$1,067 ",Delta,28h 40m,(2 stops),04/07/2019,10
+11:55am,6:35am,"$1,067 ",Delta,28h 40m,(2 stops),04/07/2019,10
+11:45am,7:25am,"$1,067 ",American Airlines,29h 40m,(2 stops),04/07/2019,10
+11:45am,7:25am,"$1,067 ",American Airlines,29h 40m,(2 stops),04/07/2019,10
+10:30am,6:35am,"$1,067 ",Delta,30h 5m,(2 stops),04/07/2019,10
+10:00am,6:35am,"$1,067 ",Delta,30h 35m,(2 stops),04/07/2019,10
+8:15am,7:25am,"$1,067 ",American Airlines,33h 10m,(2 stops),04/07/2019,10
+8:15am,7:25am,"$1,067 ",American Airlines,33h 10m,(2 stops),04/07/2019,10
+12:03pm,6:35am,"$1,085 ",Delta,28h 32m,(2 stops),04/07/2019,10
+11:55am,6:35am,"$1,085 ",Delta,28h 40m,(2 stops),04/07/2019,10
+10:30am,6:35am,"$1,085 ",Delta,30h 5m,(2 stops),04/07/2019,10
+10:30am,6:35am,"$1,085 ",Delta,30h 5m,(2 stops),04/07/2019,10
+10:00am,6:35am,"$1,085 ",Delta,30h 35m,(2 stops),04/07/2019,10
+10:00am,6:35am,"$1,085 ",Delta,30h 35m,(2 stops),04/07/2019,10
+7:00am,6:25am,"$1,091 ",Multiple Airlines,33h 25m,(1 stop),04/07/2019,10
+7:59am,8:40am,"$1,094 ",Air New Zealand,34h 41m,(2 stops),04/07/2019,10
+8:15am,6:10am,"$1,148 ",Japan Airlines,31h 55m,(2 stops),04/07/2019,10
+6:35pm,6:25am,"$1,166 ",Multiple Airlines,21h 50m,(1 stop),04/07/2019,10
+11:50am,6:25am,"$1,166 ",Multiple Airlines,28h 35m,(1 stop),04/07/2019,10
+10:15pm,6:55pm,"$1,226 ",China Airlines,30h 40m,(2 stops),04/07/2019,10
+2:45pm,2:50pm,"$1,245 ",Air China,34h 5m,(1 stop),04/07/2019,10
+12:40pm,6:15am,"$1,275 ",Korean Air,27h 35m,(1 stop),04/07/2019,10
+11:50am,6:25am,"$1,289 ",Qantas Airways,28h 35m,(1 stop),04/07/2019,10
+2:30pm,5:20pm,"$1,308 ",Emirates,36h 50m,(1 stop),04/07/2019,10
+5:25pm,8:40am,"$1,409 ",Air New Zealand,25h 15m,(2 stops),04/07/2019,10
+5:25pm,10:40am,"$1,409 ",Air New Zealand,27h 15m,(2 stops),04/07/2019,10
+10:30pm,8:20am,"$1,426 ",Air Canada,43h 50m,(1 stop),04/07/2019,10
+8:15pm,8:20am,"$1,433 ",Air Canada,22h 5m,(1 stop),04/07/2019,10
+6:00pm,8:20am,"$1,433 ",Air Canada,24h 20m,(1 stop),04/07/2019,10
+5:55pm,8:20am,"$1,433 ",Air Canada,24h 25m,(2 stops),04/07/2019,10
+4:00pm,8:20am,"$1,433 ",Air Canada,26h 20m,(1 stop),04/07/2019,10
+8:35pm,7:15pm,"$1,678 ",Singapore Airlines,32h 40m,(2 stops),04/07/2019,10
+1:45pm,7:30am,"$2,136 ",Asiana Airlines,27h 45m,(1 stop),04/07/2019,10
+5:29pm,6:30am,"$4,208 ",Qantas Airways,47h 1m,(2 stops),04/07/2019,10
+1:00pm,6:30am,"$4,632 ",Qantas Airways,27h 30m,(2 stops),04/07/2019,10
+12:00pm,8:35am,"$5,373 ",Virgin Australia,30h 35m,(2 stops),04/07/2019,10
+12:00pm,9:10am,"$5,373 ",Virgin Australia,31h 10m,(2 stops),04/07/2019,10
+12:00pm,9:40am,"$5,373 ",Virgin Australia,31h 40m,(2 stops),04/07/2019,10
+12:00pm,10:40am,"$5,373 ",Virgin Australia,32h 40m,(2 stops),04/07/2019,10
+12:00pm,11:40am,"$5,373 ",Virgin Australia,33h 40m,(2 stops),04/07/2019,10
+1:40pm,8:55am,"$5,709 ",All Nippon Airways,29h 15m,(1 stop),04/07/2019,10
+11:30pm,10:00pm,$691 ,Philippine Airlines,31h 30m,(1 stop),04/08/2019,11
+2:45pm,9:30am,$726 ,Multiple Airlines,51h 45m,(2 stops),04/08/2019,11
+1:45am,8:45pm,$904 ,Cathay Pacific,28h 0m,(1 stop),04/08/2019,11
+1:45am,9:50am,$904 ,Cathay Pacific,41h 5m,(1 stop),04/08/2019,11
+1:45am,11:50am,$904 ,Cathay Pacific,43h 5m,(1 stop),04/08/2019,11
+1:00pm,9:25am,$994 ,Multiple Airlines,29h 25m,(1 stop),04/08/2019,11
+1:00pm,10:00am,$994 ,Multiple Airlines,30h 0m,(1 stop),04/08/2019,11
+1:00pm,1:35pm,$994 ,Multiple Airlines,33h 35m,(1 stop),04/08/2019,11
+1:30am,8:40pm,"$1,004 ",China Southern Airlines,28h 10m,(1 stop),04/08/2019,11
+1:30am,9:25am,"$1,004 ",China Southern Airlines,40h 55m,(1 stop),04/08/2019,11
+7:21pm,7:55am,"$1,029 ",United,21h 34m,(1 stop),04/08/2019,11
+6:50pm,7:55am,"$1,029 ",United,22h 5m,(1 stop),04/08/2019,11
+5:25pm,8:00am,"$1,029 ",United,23h 35m,(1 stop),04/08/2019,11
+4:20pm,7:55am,"$1,029 ",United,24h 35m,(1 stop),04/08/2019,11
+2:05pm,8:00am,"$1,029 ",United,26h 55m,(1 stop),04/08/2019,11
+12:40pm,8:00am,"$1,029 ",United,28h 20m,(1 stop),04/08/2019,11
+9:30am,8:00am,"$1,029 ",United,31h 30m,(1 stop),04/08/2019,11
+7:59am,8:00am,"$1,029 ",United,33h 1m,(1 stop),04/08/2019,11
+4:50pm,8:00am,"$1,034 ",United,24h 10m,(2 stops),04/08/2019,11
+4:15pm,7:55am,"$1,034 ",United,24h 40m,(2 stops),04/08/2019,11
+4:15pm,8:00am,"$1,034 ",United,24h 45m,(2 stops),04/08/2019,11
+3:14pm,7:55am,"$1,034 ",United,25h 41m,(2 stops),04/08/2019,11
+2:55pm,7:55am,"$1,034 ",United,26h 0m,(2 stops),04/08/2019,11
+2:50pm,7:55am,"$1,034 ",United,26h 5m,(2 stops),04/08/2019,11
+2:50pm,7:55am,"$1,034 ",United,26h 5m,(2 stops),04/08/2019,11
+2:55pm,8:00am,"$1,034 ",United,26h 5m,(2 stops),04/08/2019,11
+2:50pm,8:00am,"$1,034 ",United,26h 10m,(2 stops),04/08/2019,11
+2:35pm,8:00am,"$1,034 ",United,26h 25m,(2 stops),04/08/2019,11
+1:51pm,7:55am,"$1,034 ",United,27h 4m,(2 stops),04/08/2019,11
+1:51pm,7:55am,"$1,034 ",United,27h 4m,(2 stops),04/08/2019,11
+1:51pm,7:55am,"$1,034 ",United,27h 4m,(2 stops),04/08/2019,11
+11:16am,7:55am,"$1,034 ",United,29h 39m,(2 stops),04/08/2019,11
+11:16am,7:55am,"$1,034 ",United,29h 39m,(2 stops),04/08/2019,11
+11:16am,7:55am,"$1,034 ",United,29h 39m,(2 stops),04/08/2019,11
+11:16am,7:55am,"$1,034 ",United,29h 39m,(2 stops),04/08/2019,11
+4:25pm,7:40am,$671 ,China Eastern Airlines,73h 15m,(2 stops),04/09/2019,12
+11:30pm,8:45am,$880 ,Philippine Airlines,43h 15m,(1 stop),04/09/2019,12
+10:15pm,6:55pm,$899 ,China Airlines,30h 40m,(2 stops),04/09/2019,12
+10:15pm,10:45am,$899 ,China Airlines,46h 30m,(2 stops),04/09/2019,12
+1:45am,8:20pm,$904 ,Cathay Pacific,28h 35m,(1 stop),04/09/2019,12
+1:45am,6:15am,$904 ,Cathay Pacific,38h 30m,(1 stop),04/09/2019,12
+1:45am,8:50am,$904 ,Cathay Pacific,41h 5m,(1 stop),04/09/2019,12
+1:45am,10:50am,$904 ,Cathay Pacific,43h 5m,(1 stop),04/09/2019,12
+10:20pm,5:50pm,$933 ,Etihad Airways,29h 30m,(1 stop),04/09/2019,12
+10:20pm,6:30am,$933 ,Etihad Airways,42h 10m,(1 stop),04/09/2019,12
+4:25pm,8:40pm,$935 ,China Eastern Airlines,38h 15m,(2 stops),04/09/2019,12
+1:00pm,8:25am,$994 ,Multiple Airlines,29h 25m,(1 stop),04/09/2019,12
+1:00pm,9:00am,$994 ,Multiple Airlines,30h 0m,(1 stop),04/09/2019,12
+6:50pm,6:05am,$998 ,Multiple Airlines,21h 15m,(1 stop),04/09/2019,12
+3:30pm,6:35am,"$1,023 ",Delta,25h 5m,(2 stops),04/09/2019,12
+1:55pm,6:35am,"$1,023 ",Delta,26h 40m,(2 stops),04/09/2019,12
+1:00pm,7:25am,"$1,023 ",American Airlines,28h 25m,(2 stops),04/09/2019,12
+1:00pm,7:25am,"$1,023 ",American Airlines,28h 25m,(2 stops),04/09/2019,12
+1:00pm,7:25am,"$1,023 ",American Airlines,28h 25m,(2 stops),04/09/2019,12
+12:03pm,6:35am,"$1,023 ",Delta,28h 32m,(2 stops),04/09/2019,12
+11:55am,6:35am,"$1,023 ",Delta,28h 40m,(2 stops),04/09/2019,12
+11:55am,6:35am,"$1,023 ",Delta,28h 40m,(2 stops),04/09/2019,12
+10:30am,6:35am,"$1,023 ",Delta,30h 5m,(2 stops),04/09/2019,12
+10:30am,6:35am,"$1,023 ",Delta,30h 5m,(2 stops),04/09/2019,12
+10:30am,6:35am,"$1,023 ",Delta,30h 5m,(2 stops),04/09/2019,12
+10:30am,6:35am,"$1,023 ",Delta,30h 5m,(2 stops),04/09/2019,12
+10:00am,6:35am,"$1,023 ",Delta,30h 35m,(2 stops),04/09/2019,12
+6:25pm,7:30am,"$1,027 ",Multiple Airlines,23h 5m,(1 stop),04/09/2019,12
+7:21pm,6:55am,"$1,029 ",United,21h 34m,(1 stop),04/09/2019,12
+6:25pm,7:00am,"$1,029 ",United,22h 35m,(1 stop),04/09/2019,12
+4:20pm,7:00am,"$1,029 ",United,24h 40m,(1 stop),04/09/2019,12
+12:00pm,7:00am,"$1,029 ",United,29h 0m,(1 stop),04/09/2019,12
+4:15pm,7:00am,"$1,034 ",United,24h 45m,(2 stops),04/09/2019,12
+3:14pm,6:55am,"$1,034 ",United,25h 41m,(2 stops),04/09/2019,12
+3:14pm,7:00am,"$1,034 ",United,25h 46m,(2 stops),04/09/2019,12
+2:55pm,6:55am,"$1,034 ",United,26h 0m,(2 stops),04/09/2019,12
+2:50pm,6:55am,"$1,034 ",United,26h 5m,(2 stops),04/09/2019,12
+1:51pm,6:55am,"$1,034 ",United,27h 4m,(2 stops),04/09/2019,12
+1:51pm,6:55am,"$1,034 ",United,27h 4m,(2 stops),04/09/2019,12
+1:51pm,7:00am,"$1,034 ",United,27h 9m,(2 stops),04/09/2019,12
+1:51pm,7:00am,"$1,034 ",United,27h 9m,(2 stops),04/09/2019,12
+11:55am,6:35am,"$1,041 ",Delta,28h 40m,(2 stops),04/09/2019,12
+10:30am,6:35am,"$1,041 ",Delta,30h 5m,(2 stops),04/09/2019,12
+8:00am,6:05am,"$1,056 ",Multiple Airlines,32h 5m,(1 stop),04/09/2019,12
+6:25pm,7:30am,"$1,094 ",Virgin Australia,23h 5m,(1 stop),04/09/2019,12
+11:45am,7:25am,"$1,099 ",American Airlines,29h 40m,(2 stops),04/09/2019,12
+11:45am,7:25am,"$1,099 ",American Airlines,29h 40m,(2 stops),04/09/2019,12
+7:56am,7:25am,"$1,099 ",American Airlines,33h 29m,(2 stops),04/09/2019,12
+1:30am,7:40pm,"$1,116 ",China Southern Airlines,28h 10m,(1 stop),04/09/2019,12
+1:30am,8:25am,"$1,116 ",China Southern Airlines,40h 55m,(1 stop),04/09/2019,12
+1:00pm,6:30am,"$1,139 ",Qantas Airways,27h 30m,(2 stops),04/09/2019,12
+7:45am,6:10am,"$1,178 ",Japan Airlines,32h 25m,(2 stops),04/09/2019,12
+12:00pm,6:30am,"$1,234 ",Multiple Airlines,28h 30m,(1 stop),04/09/2019,12
+12:40pm,6:15am,"$1,275 ",Korean Air,27h 35m,(1 stop),04/09/2019,12
+8:00am,6:30am,"$1,296 ",Multiple Airlines,32h 30m,(1 stop),04/09/2019,12
+8:15pm,8:20am,"$1,401 ",Air Canada,22h 5m,(1 stop),04/09/2019,12
+6:00pm,8:20am,"$1,401 ",Air Canada,24h 20m,(1 stop),04/09/2019,12
+4:00pm,8:20am,"$1,401 ",Air Canada,26h 20m,(1 stop),04/09/2019,12
+12:00pm,8:20am,"$1,401 ",Air Canada,30h 20m,(1 stop),04/09/2019,12
+8:35pm,7:15pm,"$1,478 ",Singapore Airlines,32h 40m,(2 stops),04/09/2019,12
+4:20pm,8:40am,"$1,628 ",Air New Zealand,26h 20m,(2 stops),04/09/2019,12
+12:00pm,7:30am,"$1,832 ",Virgin Australia,29h 30m,(1 stop),04/09/2019,12
+12:00pm,8:35am,"$1,846 ",Virgin Australia,30h 35m,(2 stops),04/09/2019,12
+12:00pm,9:10am,"$1,846 ",Virgin Australia,31h 10m,(2 stops),04/09/2019,12
+12:00pm,9:40am,"$1,846 ",Virgin Australia,31h 40m,(2 stops),04/09/2019,12
+9:55am,6:30am,"$2,029 ",Qantas Airways,30h 35m,(1 stop),04/09/2019,12
+1:40pm,8:55am,"$5,485 ",All Nippon Airways,29h 15m,(1 stop),04/09/2019,12
+1:30am,7:40pm,$795 ,China Southern Airlines,28h 10m,(1 stop),04/10/2019,13
+3:30pm,8:50am,$904 ,Cathay Pacific,27h 20m,(1 stop),04/10/2019,13
+1:45am,8:20pm,$904 ,Cathay Pacific,28h 35m,(1 stop),04/10/2019,13
+3:30pm,10:50am,$904 ,Cathay Pacific,29h 20m,(1 stop),04/10/2019,13
+1:45am,6:15am,$904 ,Cathay Pacific,38h 30m,(1 stop),04/10/2019,13
+4:25pm,7:40am,$671 ,China Eastern Airlines,73h 15m,(2 stops),04/11/2019,14
+1:45am,8:20pm,$904 ,Cathay Pacific,28h 35m,(1 stop),04/11/2019,14
+1:45am,6:15am,$904 ,Cathay Pacific,38h 30m,(1 stop),04/11/2019,14
+1:45am,8:50am,$904 ,Cathay Pacific,41h 5m,(1 stop),04/11/2019,14
+1:45am,10:50am,$904 ,Cathay Pacific,43h 5m,(1 stop),04/11/2019,14
+10:20pm,5:50pm,$933 ,Etihad Airways,29h 30m,(1 stop),04/11/2019,14
+10:20pm,6:30am,$933 ,Etihad Airways,42h 10m,(1 stop),04/11/2019,14
+1:55pm,6:35am,"$1,023 ",Delta,26h 40m,(2 stops),04/11/2019,14
+12:03pm,6:35am,"$1,023 ",Delta,28h 32m,(2 stops),04/11/2019,14
+10:30am,6:35am,"$1,023 ",Delta,30h 5m,(2 stops),04/11/2019,14
+7:21pm,6:55am,"$1,029 ",United,21h 34m,(1 stop),04/11/2019,14
+12:20pm,6:55am,"$1,052 ",United,28h 35m,(2 stops),04/11/2019,14
+6:55am,6:55am,"$1,087 ",United,34h 0m,(1 stop),04/11/2019,14
+9:55am,9:40am,"$1,092 ",Qantas Airways,33h 45m,(2 stops),04/11/2019,14
+9:55am,6:30am,"$1,092 ",Qantas Airways,30h 35m,(1 stop),04/11/2019,14
+6:25pm,7:30am,"$1,094 ",Virgin Australia,23h 5m,(1 stop),04/11/2019,14
+1:55pm,7:30am,"$1,099 ",Delta,27h 35m,(2 stops),04/11/2019,14
+1:00pm,7:25am,"$1,099 ",American Airlines,28h 25m,(2 stops),04/11/2019,14
+1:00pm,7:25am,"$1,099 ",American Airlines,28h 25m,(2 stops),04/11/2019,14
+11:50am,6:35am,"$1,099 ",Delta,28h 45m,(2 stops),04/11/2019,14
+12:03pm,7:30am,"$1,099 ",Delta,29h 27m,(2 stops),04/11/2019,14
+11:45am,7:25am,"$1,099 ",American Airlines,29h 40m,(2 stops),04/11/2019,14
+11:45am,7:25am,"$1,099 ",American Airlines,29h 40m,(2 stops),04/11/2019,14
+10:30am,6:35am,"$1,099 ",Delta,30h 5m,(2 stops),04/11/2019,14
+8:15am,7:25am,"$1,099 ",American Airlines,33h 10m,(2 stops),04/11/2019,14
+8:15am,7:25am,"$1,099 ",American Airlines,33h 10m,(2 stops),04/11/2019,14
+6:25pm,7:30am,"$1,104 ",Multiple Airlines,23h 5m,(1 stop),04/11/2019,14
+4:20pm,7:30am,"$1,104 ",Multiple Airlines,25h 10m,(1 stop),04/11/2019,14
+12:00pm,7:30am,"$1,104 ",Multiple Airlines,29h 30m,(1 stop),04/11/2019,14
+1:30am,7:40pm,"$1,116 ",China Southern Airlines,28h 10m,(1 stop),04/11/2019,14
+1:55pm,7:30am,"$1,117 ",Delta,27h 35m,(2 stops),04/11/2019,14
+12:03pm,6:35am,"$1,117 ",Delta,28h 32m,(2 stops),04/11/2019,14
+11:45am,7:25am,"$1,117 ",American Airlines,29h 40m,(2 stops),04/11/2019,14
+10:00am,6:35am,"$1,117 ",Delta,30h 35m,(2 stops),04/11/2019,14
+6:25pm,7:00am,"$1,160 ",United,22h 35m,(1 stop),04/11/2019,14
+4:20pm,7:00am,"$1,160 ",United,24h 40m,(1 stop),04/11/2019,14
+12:00pm,7:00am,"$1,160 ",United,29h 0m,(1 stop),04/11/2019,14
+2:50pm,6:55am,"$1,165 ",United,26h 5m,(2 stops),04/11/2019,14
+1:51pm,6:55am,"$1,165 ",United,27h 4m,(2 stops),04/11/2019,14
+12:20pm,6:55am,"$1,165 ",United,28h 35m,(2 stops),04/11/2019,14
+12:00pm,7:30am,"$1,207 ",Virgin Australia,29h 30m,(1 stop),04/11/2019,14
+3:38pm,6:35am,"$1,212 ",Delta,24h 57m,(2 stops),04/11/2019,14
+11:50am,6:35am,"$1,212 ",Delta,28h 45m,(2 stops),04/11/2019,14
+10:30am,6:35am,"$1,212 ",Delta,30h 5m,(2 stops),04/11/2019,14
+10:30am,6:35am,"$1,212 ",Delta,30h 5m,(2 stops),04/11/2019,14
+10:00am,6:35am,"$1,212 ",Delta,30h 35m,(2 stops),04/11/2019,14
+12:00pm,9:10am,"$1,221 ",Virgin Australia,31h 10m,(2 stops),04/11/2019,14
+12:00pm,9:40am,"$1,221 ",Virgin Australia,31h 40m,(2 stops),04/11/2019,14
+8:15am,6:10am,"$1,224 ",Japan Airlines,31h 55m,(2 stops),04/11/2019,14
+6:50pm,6:05am,"$1,234 ",Multiple Airlines,21h 15m,(1 stop),04/11/2019,14
+4:20pm,6:05am,"$1,234 ",Multiple Airlines,23h 45m,(1 stop),04/11/2019,14
+5:25pm,8:40am,"$1,264 ",Air New Zealand,25h 15m,(2 stops),04/11/2019,14
+5:25pm,10:40am,"$1,264 ",Air New Zealand,27h 15m,(2 stops),04/11/2019,14
+1:00pm,6:30am,"$1,360 ",Qantas Airways,27h 30m,(2 stops),04/11/2019,14
+11:30pm,8:45am,"$1,377 ",Philippine Airlines,43h 15m,(1 stop),04/11/2019,14
+8:15pm,8:20am,"$1,401 ",Air Canada,22h 5m,(1 stop),04/11/2019,14
+6:00pm,8:20am,"$1,401 ",Air Canada,24h 20m,(1 stop),04/11/2019,14
+5:00pm,8:20am,"$1,401 ",Air Canada,25h 20m,(1 stop),04/11/2019,14
+4:00pm,8:20am,"$1,401 ",Air Canada,26h 20m,(1 stop),04/11/2019,14
+8:35pm,7:15pm,"$1,478 ",Singapore Airlines,32h 40m,(2 stops),04/11/2019,14
+12:40pm,6:15am,"$1,557 ",Korean Air,27h 35m,(1 stop),04/11/2019,14
+10:15pm,10:45am,"$1,629 ",China Airlines,46h 30m,(2 stops),04/11/2019,14
+4:20pm,7:30am,"$1,832 ",Virgin Australia,25h 10m,(1 stop),04/11/2019,14
+2:45pm,2:50pm,"$2,096 ",Air China,34h 5m,(1 stop),04/11/2019,14
+11:30pm,7:40pm,$884 ,China Southern Airlines,28h 10m,(1 stop),04/12/2019,15
+11:30pm,8:50am,$919 ,Cathay Pacific,27h 20m,(1 stop),04/12/2019,15
+1:30am,8:20pm,$919 ,Cathay Pacific,28h 35m,(1 stop),04/12/2019,15
+1:30am,10:50am,$919 ,Cathay Pacific,29h 20m,(1 stop),04/12/2019,15
+3:30pm,6:15am,$919 ,Cathay Pacific,38h 30m,(1 stop),04/12/2019,15
+1:45am,8:50am,$919 ,Cathay Pacific,41h 5m,(1 stop),04/12/2019,15
+3:30pm,10:50am,$919 ,Cathay Pacific,43h 5m,(1 stop),04/12/2019,15
+1:45am,5:50pm,$933 ,Etihad Airways,29h 30m,(1 stop),04/12/2019,15
+1:45am,6:30am,$933 ,Etihad Airways,42h 10m,(1 stop),04/12/2019,15
+1:45am,8:20pm,$934 ,Cathay Pacific,38h 50m,(1 stop),04/12/2019,15
+10:20pm,6:15am,$934 ,Cathay Pacific,48h 45m,(1 stop),04/12/2019,15
+10:20pm,6:35am,$989 ,Delta,24h 57m,(2 stops),04/12/2019,15
+3:30pm,6:35am,$989 ,Delta,26h 40m,(2 stops),04/12/2019,15
+3:30pm,6:35am,$989 ,Delta,28h 32m,(2 stops),04/12/2019,15
+1:00pm,7:25am,$989 ,American Airlines,29h 40m,(2 stops),04/12/2019,15
+1:00pm,6:35am,$989 ,Delta,32h 50m,(2 stops),04/12/2019,15
+6:50pm,7:25am,$989 ,American Airlines,33h 10m,(2 stops),04/12/2019,15
+6:40pm,6:35am,$989 ,Delta,34h 5m,(2 stops),04/12/2019,15
+4:20pm,6:35am,"$1,007 ",Delta,28h 32m,(2 stops),04/12/2019,15
+11:50am,7:25am,"$1,007 ",American Airlines,29h 40m,(2 stops),04/12/2019,15
+1:00pm,7:25am,"$1,007 ",American Airlines,33h 10m,(2 stops),04/12/2019,15
+11:50am,7:25am,"$1,007 ",American Airlines,33h 10m,(2 stops),04/12/2019,15
+7:21pm,6:35am,"$1,007 ",Delta,34h 5m,(2 stops),04/12/2019,15
+5:25pm,6:35am,"$1,007 ",Delta,34h 5m,(2 stops),04/12/2019,15
+2:05pm,6:35am,"$1,007 ",Delta,34h 5m,(2 stops),04/12/2019,15
+12:40pm,7:00am,"$1,059 ",United,23h 35m,(1 stop),04/12/2019,15
+9:30am,7:00am,"$1,059 ",United,28h 20m,(1 stop),04/12/2019,15
+7:59am,7:00am,"$1,059 ",United,33h 1m,(1 stop),04/12/2019,15
+4:50pm,7:25am,"$1,067 ",American Airlines,28h 25m,(2 stops),04/12/2019,15
+2:55pm,7:25am,"$1,067 ",American Airlines,28h 25m,(2 stops),04/12/2019,15
+2:50pm,7:25am,"$1,067 ",American Airlines,29h 40m,(2 stops),04/12/2019,15
+2:50pm,6:35am,"$1,067 ",Delta,30h 5m,(2 stops),04/12/2019,15
+2:55pm,6:35am,"$1,067 ",Delta,32h 50m,(2 stops),04/12/2019,15
+2:50pm,7:25am,"$1,067 ",American Airlines,33h 10m,(2 stops),04/12/2019,15
+2:35pm,6:35am,"$1,067 ",Delta,34h 5m,(2 stops),04/12/2019,15
+1:30am,7:40pm,$884 ,China Southern Airlines,28h 10m,(1 stop),04/13/2019,16
+1:30am,8:25am,$884 ,China Southern Airlines,40h 55m,(1 stop),04/13/2019,16
+1:45am,8:20pm,$919 ,Cathay Pacific,28h 35m,(1 stop),04/13/2019,16
+1:45am,6:15am,$919 ,Cathay Pacific,38h 30m,(1 stop),04/13/2019,16
+1:45am,8:50am,$919 ,Cathay Pacific,41h 5m,(1 stop),04/13/2019,16
+1:45am,10:50am,$919 ,Cathay Pacific,43h 5m,(1 stop),04/13/2019,16
+10:20pm,5:50pm,$963 ,Etihad Airways,29h 30m,(1 stop),04/13/2019,16
+10:20pm,6:30am,$963 ,Etihad Airways,42h 10m,(1 stop),04/13/2019,16
+3:11pm,7:25am,$989 ,American Airlines,26h 14m,(2 stops),04/13/2019,16
+2:05pm,6:35am,$989 ,Delta,26h 30m,(2 stops),04/13/2019,16
+2:05pm,7:30am,$989 ,Delta,27h 25m,(2 stops),04/13/2019,16
+1:00pm,6:35am,$989 ,Delta,27h 35m,(2 stops),04/13/2019,16
+11:55am,6:35am,$989 ,Delta,28h 40m,(2 stops),04/13/2019,16
+11:45am,7:25am,$989 ,American Airlines,29h 40m,(2 stops),04/13/2019,16
+11:45am,7:25am,$989 ,American Airlines,29h 40m,(2 stops),04/13/2019,16
+10:30am,6:35am,$989 ,Delta,30h 5m,(2 stops),04/13/2019,16
+10:30am,6:35am,$989 ,Delta,30h 5m,(2 stops),04/13/2019,16
+7:56am,7:25am,$989 ,American Airlines,33h 29m,(2 stops),04/13/2019,16
+6:30am,6:35am,$989 ,Delta,34h 5m,(2 stops),04/13/2019,16
+6:30am,7:30am,$989 ,Delta,35h 0m,(2 stops),04/13/2019,16
+2:05pm,7:30am,"$1,007 ",Delta,27h 25m,(2 stops),04/13/2019,16
+11:45am,7:25am,"$1,007 ",American Airlines,29h 40m,(2 stops),04/13/2019,16
+11:45am,7:25am,"$1,007 ",American Airlines,29h 40m,(2 stops),04/13/2019,16
+10:30am,6:35am,"$1,007 ",Delta,30h 5m,(2 stops),04/13/2019,16
+10:00am,6:35am,"$1,007 ",Delta,30h 35m,(2 stops),04/13/2019,16
+7:56am,7:25am,"$1,007 ",American Airlines,33h 29m,(2 stops),04/13/2019,16
+7:56am,7:25am,"$1,007 ",American Airlines,33h 29m,(2 stops),04/13/2019,16
+7:56am,7:25am,"$1,007 ",American Airlines,33h 29m,(2 stops),04/13/2019,16
+7:56am,7:25am,"$1,007 ",American Airlines,33h 29m,(2 stops),04/13/2019,16
+6:30am,6:35am,"$1,007 ",Delta,34h 5m,(2 stops),04/13/2019,16
+6:30am,6:35am,"$1,007 ",Delta,34h 5m,(2 stops),04/13/2019,16
+6:15am,6:35am,"$1,007 ",Delta,34h 20m,(2 stops),04/13/2019,16
+6:15am,6:35am,"$1,007 ",Delta,34h 20m,(2 stops),04/13/2019,16
+6:15am,6:35am,"$1,007 ",Delta,34h 20m,(2 stops),04/13/2019,16
+6:30am,7:30am,"$1,007 ",Delta,35h 0m,(2 stops),04/13/2019,16
+6:30am,7:30am,"$1,039 ",Delta,35h 0m,(2 stops),04/13/2019,16
+7:21pm,6:55am,"$1,059 ",United,21h 34m,(1 stop),04/13/2019,16
+6:25pm,7:00am,"$1,059 ",United,22h 35m,(1 stop),04/13/2019,16
+3:45pm,6:55am,"$1,059 ",United,25h 10m,(2 stops),04/13/2019,16
+12:00pm,7:00am,"$1,059 ",United,29h 0m,(1 stop),04/13/2019,16
+2:55pm,6:55am,"$1,064 ",United,26h 0m,(2 stops),04/13/2019,16
+2:50pm,6:55am,"$1,064 ",United,26h 5m,(2 stops),04/13/2019,16
+2:50pm,6:55am,"$1,064 ",United,26h 5m,(2 stops),04/13/2019,16
+2:50pm,7:00am,"$1,064 ",United,26h 10m,(2 stops),04/13/2019,16
+1:51pm,6:55am,"$1,064 ",United,27h 4m,(2 stops),04/13/2019,16
+1:51pm,6:55am,"$1,064 ",United,27h 4m,(2 stops),04/13/2019,16
+1:51pm,7:00am,"$1,064 ",United,27h 9m,(2 stops),04/13/2019,16
+1:51pm,7:00am,"$1,064 ",United,27h 9m,(2 stops),04/13/2019,16
+12:20pm,6:55am,"$1,064 ",United,28h 35m,(2 stops),04/13/2019,16
+12:20pm,7:00am,"$1,064 ",United,28h 40m,(2 stops),04/13/2019,16
+12:20pm,7:00am,"$1,064 ",United,28h 40m,(2 stops),04/13/2019,16
+11:55am,6:35am,"$1,067 ",Delta,28h 40m,(2 stops),04/13/2019,16
+6:30am,6:35am,"$1,067 ",Delta,34h 5m,(2 stops),04/13/2019,16
+6:15am,6:35am,"$1,067 ",Delta,34h 20m,(2 stops),04/13/2019,16
+6:25pm,7:30am,"$1,072 ",Multiple Airlines,23h 5m,(1 stop),04/13/2019,16
+5:25pm,8:40am,"$1,094 ",Air New Zealand,25h 15m,(2 stops),04/13/2019,16
+5:25pm,10:40am,"$1,094 ",Air New Zealand,27h 15m,(2 stops),04/13/2019,16
+6:40pm,6:25am,"$1,124 ",Multiple Airlines,21h 45m,(1 stop),04/13/2019,16
+8:00am,7:30am,"$1,130 ",Multiple Airlines,33h 30m,(1 stop),04/13/2019,16
+7:00am,6:25am,"$1,175 ",Multiple Airlines,33h 25m,(1 stop),04/13/2019,16
+4:25pm,5:10am,"$1,230 ",China Eastern Airlines,46h 45m,(2 stops),04/13/2019,16
+12:40pm,6:15am,"$1,275 ",Korean Air,27h 35m,(1 stop),04/13/2019,16
+6:50pm,6:05am,"$1,277 ",Multiple Airlines,21h 15m,(1 stop),04/13/2019,16
+1:00pm,8:25am,"$1,304 ",Multiple Airlines,29h 25m,(1 stop),04/13/2019,16
+2:30pm,10:05pm,"$1,308 ",Emirates,41h 35m,(1 stop),04/13/2019,16
+7:56am,6:10am,"$1,329 ",Japan Airlines,32h 14m,(2 stops),04/13/2019,16
+8:00am,6:30am,"$1,339 ",Multiple Airlines,32h 30m,(1 stop),04/13/2019,16
+11:30pm,9:00pm,"$1,401 ",Philippine Airlines,31h 30m,(1 stop),04/13/2019,16
+8:15pm,8:20am,"$1,433 ",Air Canada,22h 5m,(1 stop),04/13/2019,16
+6:00pm,8:20am,"$1,433 ",Air Canada,24h 20m,(1 stop),04/13/2019,16
+4:00pm,8:20am,"$1,433 ",Air Canada,26h 20m,(1 stop),04/13/2019,16
+10:00am,8:20am,"$1,433 ",Air Canada,32h 20m,(1 stop),04/13/2019,16
+8:35pm,7:15pm,"$1,478 ",Singapore Airlines,32h 40m,(2 stops),04/13/2019,16
+10:15pm,10:45am,"$1,629 ",China Airlines,46h 30m,(2 stops),04/13/2019,16
+10:30pm,5:55am,"$1,790 ",Turkish Airlines,41h 25m,(2 stops),04/13/2019,16
+9:55am,6:30am,"$1,883 ",Qantas Airways,30h 35m,(1 stop),04/13/2019,16
+9:55am,8:10am,"$1,893 ",Qantas Airways,32h 15m,(2 stops),04/13/2019,16
+9:55am,8:25am,"$1,893 ",Qantas Airways,32h 30m,(2 stops),04/13/2019,16
+1:40pm,8:55am,"$5,709 ",All Nippon Airways,29h 15m,(1 stop),04/13/2019,16
+4:25pm,7:40am,$815 ,China Eastern Airlines,49h 15m,(3 stops),04/14/2019,17
+4:25pm,7:40am,$815 ,China Eastern Airlines,49h 15m,(3 stops),04/14/2019,17
+4:25pm,8:30am,$815 ,China Eastern Airlines,74h 5m,(3 stops),04/14/2019,17
+1:30am,7:40pm,$884 ,China Southern Airlines,28h 10m,(1 stop),04/14/2019,17
+1:30am,8:25am,$884 ,China Southern Airlines,40h 55m,(1 stop),04/14/2019,17
+3:30pm,8:50am,$919 ,Cathay Pacific,27h 20m,(1 stop),04/14/2019,17
+1:45am,8:20pm,$919 ,Cathay Pacific,28h 35m,(1 stop),04/14/2019,17
+3:30pm,10:50am,$919 ,Cathay Pacific,29h 20m,(1 stop),04/14/2019,17
+1:45am,6:15am,$919 ,Cathay Pacific,38h 30m,(1 stop),04/14/2019,17
+1:45am,8:50am,$919 ,Cathay Pacific,41h 5m,(1 stop),04/14/2019,17
+1:45am,10:50am,$919 ,Cathay Pacific,43h 5m,(1 stop),04/14/2019,17
+10:20pm,5:50pm,$933 ,Etihad Airways,29h 30m,(1 stop),04/14/2019,17
+10:20pm,6:30am,$933 ,Etihad Airways,42h 10m,(1 stop),04/14/2019,17
+3:30pm,8:20pm,$934 ,Cathay Pacific,38h 50m,(1 stop),04/14/2019,17
+3:30pm,6:15am,$934 ,Cathay Pacific,48h 45m,(1 stop),04/14/2019,17
+9:55am,6:35am,$984 ,Delta,30h 40m,(1 stop),04/14/2019,17
+3:38pm,6:35am,$989 ,Delta,24h 57m,(2 stops),04/14/2019,17
+3:30pm,6:35am,$989 ,Delta,25h 5m,(2 stops),04/14/2019,17
+1:55pm,6:35am,$989 ,Delta,26h 40m,(2 stops),04/14/2019,17
+12:03pm,6:35am,$989 ,Delta,28h 32m,(2 stops),04/14/2019,17
+11:55am,6:35am,$989 ,Delta,28h 40m,(2 stops),04/14/2019,17
+11:55am,6:35am,$989 ,Delta,28h 40m,(2 stops),04/14/2019,17
+11:55am,6:35am,$989 ,Delta,28h 40m,(2 stops),04/14/2019,17
+11:45am,7:25am,$989 ,American Airlines,29h 40m,(2 stops),04/14/2019,17
+11:45am,7:25am,$989 ,American Airlines,29h 40m,(2 stops),04/14/2019,17
+10:30am,6:35am,$989 ,Delta,30h 5m,(2 stops),04/14/2019,17
+10:30am,6:35am,$989 ,Delta,30h 5m,(2 stops),04/14/2019,17
+10:30am,6:35am,$989 ,Delta,30h 5m,(2 stops),04/14/2019,17
+10:30am,6:35am,$989 ,Delta,30h 5m,(2 stops),04/14/2019,17
+10:00am,6:35am,$989 ,Delta,30h 35m,(2 stops),04/14/2019,17
+8:15am,7:25am,$989 ,American Airlines,33h 10m,(2 stops),04/14/2019,17
+8:15am,7:25am,$989 ,American Airlines,33h 10m,(2 stops),04/14/2019,17
+6:35pm,6:25am,$998 ,Multiple Airlines,21h 50m,(1 stop),04/14/2019,17
+11:50am,6:25am,$998 ,Multiple Airlines,28h 35m,(1 stop),04/14/2019,17
+9:55am,6:30am,"$1,007 ",Qantas Airways,30h 35m,(1 stop),04/14/2019,17
+9:55am,9:10am,"$1,007 ",Qantas Airways,33h 15m,(2 stops),04/14/2019,17
+9:55am,9:40am,"$1,007 ",Qantas Airways,33h 45m,(2 stops),04/14/2019,17
+9:55am,10:10am,"$1,007 ",Qantas Airways,34h 15m,(2 stops),04/14/2019,17
+11:45am,7:25am,"$1,007 ",American Airlines,29h 40m,(2 stops),04/14/2019,17
+8:15am,7:25am,"$1,007 ",American Airlines,33h 10m,(2 stops),04/14/2019,17
+8:15am,7:25am,"$1,007 ",American Airlines,33h 10m,(2 stops),04/14/2019,17
+7:21pm,6:55am,"$1,059 ",United,21h 34m,(1 stop),04/14/2019,17
+6:50pm,6:55am,"$1,059 ",United,22h 5m,(1 stop),04/14/2019,17
+5:25pm,7:00am,"$1,059 ",United,23h 35m,(1 stop),04/14/2019,17
+2:05pm,7:00am,"$1,059 ",United,26h 55m,(1 stop),04/14/2019,17
+12:40pm,7:00am,"$1,059 ",United,28h 20m,(1 stop),04/14/2019,17
+9:00am,7:00am,"$1,059 ",United,32h 0m,(1 stop),04/14/2019,17
+7:59am,7:00am,"$1,059 ",United,33h 1m,(1 stop),04/14/2019,17
+6:25pm,7:30am,"$1,062 ",Virgin Australia,23h 5m,(1 stop),04/14/2019,17
+4:50pm,7:00am,"$1,064 ",United,24h 10m,(2 stops),04/14/2019,17
+4:15pm,6:55am,"$1,064 ",United,24h 40m,(2 stops),04/14/2019,17
+4:15pm,7:00am,"$1,064 ",United,24h 45m,(2 stops),04/14/2019,17
+3:14pm,6:55am,"$1,064 ",United,25h 41m,(2 stops),04/14/2019,17
+2:55pm,6:55am,"$1,064 ",United,26h 0m,(2 stops),04/14/2019,17
+6:25pm,7:30am,"$1,072 ",Multiple Airlines,23h 5m,(1 stop),04/14/2019,17
+4:20pm,7:30am,"$1,072 ",Multiple Airlines,25h 10m,(1 stop),04/14/2019,17
+5:25pm,8:40am,"$1,094 ",Air New Zealand,25h 15m,(2 stops),04/14/2019,17
+5:40pm,10:40am,"$1,094 ",Air New Zealand,27h 0m,(2 stops),04/14/2019,17
+5:25pm,10:40am,"$1,094 ",Air New Zealand,27h 15m,(2 stops),04/14/2019,17
+5:40pm,5:55pm,"$1,128 ",Air New Zealand,34h 15m,(2 stops),04/14/2019,17
+11:50am,6:25am,"$1,134 ",Qantas Airways,28h 35m,(1 stop),04/14/2019,17
+12:00pm,7:30am,"$1,139 ",Virgin Australia,29h 30m,(1 stop),04/14/2019,17
+8:15am,6:10am,"$1,148 ",Japan Airlines,31h 55m,(2 stops),04/14/2019,17
+12:00pm,8:35am,"$1,153 ",Virgin Australia,30h 35m,(2 stops),04/14/2019,17
+12:00pm,9:10am,"$1,153 ",Virgin Australia,31h 10m,(2 stops),04/14/2019,17
+12:00pm,9:40am,"$1,153 ",Virgin Australia,31h 40m,(2 stops),04/14/2019,17
+12:00pm,10:40am,"$1,153 ",Virgin Australia,32h 40m,(2 stops),04/14/2019,17
+10:15pm,6:55pm,"$1,226 ",China Airlines,30h 40m,(2 stops),04/14/2019,17
+2:30pm,10:05pm,"$1,308 ",Emirates,41h 35m,(1 stop),04/14/2019,17
+11:30pm,8:45am,"$1,377 ",Philippine Airlines,43h 15m,(1 stop),04/14/2019,17
+2:45pm,2:50pm,"$1,401 ",Air China,34h 5m,(1 stop),04/14/2019,17
+10:30pm,8:20am,"$1,426 ",Air Canada,43h 50m,(1 stop),04/14/2019,17
+8:15pm,8:20am,"$1,433 ",Air Canada,22h 5m,(1 stop),04/14/2019,17
+6:00pm,8:20am,"$1,433 ",Air Canada,24h 20m,(1 stop),04/14/2019,17
+4:00pm,8:20am,"$1,433 ",Air Canada,26h 20m,(1 stop),04/14/2019,17
+8:35pm,8:10pm,"$1,478 ",Singapore Airlines,33h 35m,(2 stops),04/14/2019,17
+12:40pm,6:15am,"$1,557 ",Korean Air,27h 35m,(1 stop),04/14/2019,17
+1:45pm,7:30am,"$2,136 ",Asiana Airlines,27h 45m,(1 stop),04/14/2019,17
+1:40pm,8:55am,"$5,709 ",All Nippon Airways,29h 15m,(1 stop),04/14/2019,17
+1:30am,7:40pm,$884 ,China Southern Airlines,28h 10m,(1 stop),04/15/2019,18
+1:30am,8:25am,$884 ,China Southern Airlines,40h 55m,(1 stop),04/15/2019,18
+10:15pm,10:45am,$899 ,China Airlines,46h 30m,(2 stops),04/15/2019,18
+1:45am,8:20pm,$904 ,Cathay Pacific,28h 35m,(1 stop),04/15/2019,18
+1:45am,6:15am,$904 ,Cathay Pacific,38h 30m,(1 stop),04/15/2019,18
+1:45am,8:50am,$904 ,Cathay Pacific,41h 5m,(1 stop),04/15/2019,18
+1:45am,10:50am,$904 ,Cathay Pacific,43h 5m,(1 stop),04/15/2019,18
+12:03pm,7:30am,$944 ,Delta,29h 27m,(2 stops),04/15/2019,18
+11:45am,7:25am,$944 ,American Airlines,29h 40m,(2 stops),04/15/2019,18
+11:45am,7:25am,$944 ,American Airlines,29h 40m,(2 stops),04/15/2019,18
+10:30am,7:30am,$944 ,Delta,31h 0m,(2 stops),04/15/2019,18
+8:15am,7:25am,$944 ,American Airlines,33h 10m,(2 stops),04/15/2019,18
+8:15am,7:25am,$944 ,American Airlines,33h 10m,(2 stops),04/15/2019,18
+7:45am,7:30am,$944 ,Delta,33h 45m,(2 stops),04/15/2019,18
+6:25pm,7:30am,$948 ,Multiple Airlines,23h 5m,(1 stop),04/15/2019,18
+4:20pm,7:30am,$948 ,Multiple Airlines,25h 10m,(1 stop),04/15/2019,18
+12:00pm,7:30am,$948 ,Multiple Airlines,29h 30m,(1 stop),04/15/2019,18
+6:50pm,6:05am,$954 ,Multiple Airlines,21h 15m,(1 stop),04/15/2019,18
+6:40pm,6:25am,$954 ,Multiple Airlines,21h 45m,(1 stop),04/15/2019,18
+4:20pm,6:05am,$954 ,Multiple Airlines,23h 45m,(1 stop),04/15/2019,18
+4:20pm,6:30am,$954 ,Multiple Airlines,24h 10m,(1 stop),04/15/2019,18
+12:00pm,6:30am,$954 ,Multiple Airlines,28h 30m,(1 stop),04/15/2019,18
+4:25pm,12:35pm,$962 ,China Eastern Airlines,30h 10m,(1 stop),04/15/2019,18
+11:45am,7:25am,$962 ,American Airlines,29h 40m,(2 stops),04/15/2019,18
+8:15am,7:25am,$962 ,American Airlines,33h 10m,(2 stops),04/15/2019,18
+8:15am,7:25am,$962 ,American Airlines,33h 10m,(2 stops),04/15/2019,18
+9:55am,6:30am,$963 ,Qantas Airways,30h 35m,(1 stop),04/15/2019,18
+9:55am,9:10am,$964 ,Qantas Airways,33h 15m,(2 stops),04/15/2019,18
+9:55am,9:10am,$964 ,Qantas Airways,33h 15m,(2 stops),04/15/2019,18
+9:55am,9:40am,$964 ,Qantas Airways,33h 45m,(2 stops),04/15/2019,18
+9:55am,9:40am,$964 ,Qantas Airways,33h 45m,(2 stops),04/15/2019,18
+9:55am,8:10am,$972 ,Qantas Airways,32h 15m,(2 stops),04/15/2019,18
+9:55am,8:40am,$972 ,Qantas Airways,32h 45m,(2 stops),04/15/2019,18
+1:00pm,8:25am,$994 ,Multiple Airlines,29h 25m,(1 stop),04/15/2019,18
+8:00am,7:30am,"$1,003 ",Multiple Airlines,33h 30m,(1 stop),04/15/2019,18
+6:25pm,7:30am,"$1,018 ",Virgin Australia,23h 5m,(1 stop),04/15/2019,18
+12:00pm,7:30am,"$1,018 ",Virgin Australia,29h 30m,(1 stop),04/15/2019,18
+11:55am,7:30am,"$1,023 ",Delta,29h 35m,(2 stops),04/15/2019,18
+7:21pm,6:55am,"$1,029 ",United,21h 34m,(1 stop),04/15/2019,18
+6:50pm,6:55am,"$1,029 ",United,22h 5m,(1 stop),04/15/2019,18
+5:25pm,7:00am,"$1,029 ",United,23h 35m,(1 stop),04/15/2019,18
+4:20pm,6:55am,"$1,029 ",United,24h 35m,(1 stop),04/15/2019,18
+2:05pm,7:00am,"$1,029 ",United,26h 55m,(1 stop),04/15/2019,18
+12:40pm,7:00am,"$1,029 ",United,28h 20m,(1 stop),04/15/2019,18
+9:30am,7:00am,"$1,029 ",United,31h 30m,(1 stop),04/15/2019,18
+7:59am,7:00am,"$1,029 ",United,33h 1m,(1 stop),04/15/2019,18
+12:00pm,8:35am,"$1,032 ",Virgin Australia,30h 35m,(2 stops),04/15/2019,18
+12:00pm,9:10am,"$1,032 ",Virgin Australia,31h 10m,(2 stops),04/15/2019,18
+12:00pm,9:40am,"$1,032 ",Virgin Australia,31h 40m,(2 stops),04/15/2019,18
+4:50pm,7:00am,"$1,034 ",United,24h 10m,(2 stops),04/15/2019,18
+4:15pm,7:00am,"$1,034 ",United,24h 45m,(2 stops),04/15/2019,18
+3:14pm,6:55am,"$1,034 ",United,25h 41m,(2 stops),04/15/2019,18
+2:55pm,6:55am,"$1,034 ",United,26h 0m,(2 stops),04/15/2019,18
+11:55am,7:30am,"$1,041 ",Delta,29h 35m,(2 stops),04/15/2019,18
+10:19am,7:30am,"$1,041 ",Delta,31h 11m,(2 stops),04/15/2019,18
+7:45am,7:30am,"$1,041 ",Delta,33h 45m,(2 stops),04/15/2019,18
+7:45am,7:30am,"$1,041 ",Delta,33h 45m,(2 stops),04/15/2019,18
+7:45am,7:30am,"$1,041 ",Delta,33h 45m,(2 stops),04/15/2019,18
+6:30am,6:35am,"$1,041 ",Delta,34h 5m,(2 stops),04/15/2019,18
+5:25pm,8:40am,"$1,046 ",Air New Zealand,25h 15m,(2 stops),04/15/2019,18
+5:25pm,10:40am,"$1,046 ",Air New Zealand,27h 15m,(2 stops),04/15/2019,18
+3:30pm,7:30am,"$1,099 ",Delta,26h 0m,(2 stops),04/15/2019,18
+1:55pm,6:35am,"$1,099 ",Delta,26h 40m,(2 stops),04/15/2019,18
+1:55pm,7:30am,"$1,099 ",Delta,27h 35m,(2 stops),04/15/2019,18
+10:30am,6:35am,"$1,099 ",Delta,30h 5m,(2 stops),04/15/2019,18
+10:30am,7:30am,"$1,099 ",Delta,31h 0m,(2 stops),04/15/2019,18
+10:30am,7:30am,"$1,099 ",Delta,31h 0m,(2 stops),04/15/2019,18
+8:15am,6:10am,"$1,133 ",Japan Airlines,31h 55m,(2 stops),04/15/2019,18
+2:30pm,10:05pm,"$1,263 ",Emirates,41h 35m,(1 stop),04/15/2019,18
+5:55pm,5:50pm,"$1,349 ",Etihad Airways,33h 55m,(2 stops),04/15/2019,18
+11:30pm,9:00pm,"$1,377 ",Philippine Airlines,31h 30m,(1 stop),04/15/2019,18
+8:15pm,8:20am,"$1,401 ",Air Canada,22h 5m,(1 stop),04/15/2019,18
+6:00pm,8:20am,"$1,401 ",Air Canada,24h 20m,(1 stop),04/15/2019,18
+4:00pm,8:20am,"$1,401 ",Air Canada,26h 20m,(1 stop),04/15/2019,18
+12:00pm,8:20am,"$1,401 ",Air Canada,30h 20m,(1 stop),04/15/2019,18
+8:35pm,7:15pm,"$1,478 ",Singapore Airlines,32h 40m,(2 stops),04/15/2019,18
+12:40pm,6:15am,"$1,557 ",Korean Air,27h 35m,(1 stop),04/15/2019,18
+1:45pm,7:15am,"$2,136 ",Asiana Airlines,27h 30m,(1 stop),04/15/2019,18
+1:40pm,8:55am,"$5,485 ",All Nippon Airways,29h 15m,(1 stop),04/15/2019,18
+4:25pm,7:40am,$828 ,China Eastern Airlines,73h 15m,(2 stops),04/16/2019,19
+1:30am,7:40pm,$884 ,China Southern Airlines,28h 10m,(1 stop),04/16/2019,19
+1:30am,8:25am,$884 ,China Southern Airlines,40h 55m,(1 stop),04/16/2019,19
+1:45am,8:20pm,$904 ,Cathay Pacific,28h 35m,(1 stop),04/16/2019,19
+1:45am,6:15am,$904 ,Cathay Pacific,38h 30m,(1 stop),04/16/2019,19
+1:45am,8:50am,$904 ,Cathay Pacific,41h 5m,(1 stop),04/16/2019,19
+10:20pm,5:50pm,$933 ,Etihad Airways,29h 30m,(1 stop),04/16/2019,19
+3:30pm,6:35am,$944 ,Delta,25h 5m,(2 stops),04/16/2019,19
+3:30pm,7:30am,$944 ,Delta,26h 0m,(2 stops),04/16/2019,19
+1:55pm,6:35am,$944 ,Delta,26h 40m,(2 stops),04/16/2019,19
+1:55pm,7:30am,$944 ,Delta,27h 35m,(2 stops),04/16/2019,19
+12:03pm,6:35am,$944 ,Delta,28h 32m,(2 stops),04/16/2019,19
+11:55am,6:35am,$944 ,Delta,28h 40m,(2 stops),04/16/2019,19
+11:55am,6:35am,$944 ,Delta,28h 40m,(2 stops),04/16/2019,19
+12:03pm,7:30am,$944 ,Delta,29h 27m,(2 stops),04/16/2019,19
+11:55am,7:30am,$944 ,Delta,29h 35m,(2 stops),04/16/2019,19
+11:55am,7:30am,$944 ,Delta,29h 35m,(2 stops),04/16/2019,19
+11:45am,7:25am,$944 ,American Airlines,29h 40m,(2 stops),04/16/2019,19
+11:45am,7:25am,$944 ,American Airlines,29h 40m,(2 stops),04/16/2019,19
+10:30am,6:35am,$944 ,Delta,30h 5m,(2 stops),04/16/2019,19
+10:30am,6:35am,$944 ,Delta,30h 5m,(2 stops),04/16/2019,19
+10:30am,6:35am,$944 ,Delta,30h 5m,(2 stops),04/16/2019,19
+10:30am,6:35am,$944 ,Delta,30h 5m,(2 stops),04/16/2019,19
+10:30am,7:30am,$944 ,Delta,31h 0m,(2 stops),04/16/2019,19
+7:56am,7:25am,$944 ,American Airlines,33h 29m,(2 stops),04/16/2019,19
+7:56am,7:25am,$944 ,American Airlines,33h 29m,(2 stops),04/16/2019,19
+6:50pm,6:05am,$954 ,Multiple Airlines,21h 15m,(1 stop),04/16/2019,19
+4:20pm,6:05am,$954 ,Multiple Airlines,23h 45m,(1 stop),04/16/2019,19
+11:45am,7:25am,$962 ,American Airlines,29h 40m,(2 stops),04/16/2019,19
+7:56am,7:25am,$962 ,American Airlines,33h 29m,(2 stops),04/16/2019,19
+8:00am,6:30am,"$1,011 ",Multiple Airlines,32h 30m,(1 stop),04/16/2019,19
+8:00am,6:05am,"$1,012 ",Multiple Airlines,32h 5m,(1 stop),04/16/2019,19
+6:25pm,7:30am,"$1,018 ",Virgin Australia,23h 5m,(1 stop),04/16/2019,19
+6:25pm,7:30am,"$1,027 ",Multiple Airlines,23h 5m,(1 stop),04/16/2019,19
+4:20pm,7:30am,"$1,027 ",Multiple Airlines,25h 10m,(1 stop),04/16/2019,19
+7:21pm,6:55am,"$1,029 ",United,21h 34m,(1 stop),04/16/2019,19
+6:50pm,6:55am,"$1,029 ",United,22h 5m,(1 stop),04/16/2019,19
+6:25pm,7:00am,"$1,029 ",United,22h 35m,(1 stop),04/16/2019,19
+4:20pm,6:55am,"$1,029 ",United,24h 35m,(1 stop),04/16/2019,19
+4:20pm,7:00am,"$1,029 ",United,24h 40m,(1 stop),04/16/2019,19
+12:00pm,7:00am,"$1,029 ",United,29h 0m,(1 stop),04/16/2019,19
+3:14pm,6:55am,"$1,034 ",United,25h 41m,(2 stops),04/16/2019,19
+2:55pm,6:55am,"$1,034 ",United,26h 0m,(2 stops),04/16/2019,19
+2:50pm,6:55am,"$1,034 ",United,26h 5m,(2 stops),04/16/2019,19
+2:50pm,6:55am,"$1,034 ",United,26h 5m,(2 stops),04/16/2019,19
+5:25pm,8:40am,"$1,046 ",Air New Zealand,25h 15m,(2 stops),04/16/2019,19
+5:25pm,10:40am,"$1,046 ",Air New Zealand,27h 15m,(2 stops),04/16/2019,19
+4:00pm,8:40am,"$1,067 ",Air New Zealand,26h 40m,(2 stops),04/16/2019,19
+9:55am,6:30am,"$1,092 ",Qantas Airways,30h 35m,(1 stop),04/16/2019,19
+9:55am,9:10am,"$1,102 ",Qantas Airways,33h 15m,(2 stops),04/16/2019,19
+9:55am,9:40am,"$1,102 ",Qantas Airways,33h 45m,(2 stops),04/16/2019,19
+7:56am,6:10am,"$1,133 ",Japan Airlines,32h 14m,(2 stops),04/16/2019,19
+12:00pm,7:30am,"$1,207 ",Virgin Australia,29h 30m,(1 stop),04/16/2019,19
+12:00pm,8:35am,"$1,221 ",Virgin Australia,30h 35m,(2 stops),04/16/2019,19
+12:00pm,9:10am,"$1,221 ",Virgin Australia,31h 10m,(2 stops),04/16/2019,19
+12:00pm,9:40am,"$1,221 ",Virgin Australia,31h 40m,(2 stops),04/16/2019,19
+12:40pm,6:15am,"$1,275 ",Korean Air,27h 35m,(1 stop),04/16/2019,19
+7:00pm,6:55pm,"$1,369 ",China Airlines,33h 55m,(2 stops),04/16/2019,19
+11:30pm,8:45am,"$1,377 ",Philippine Airlines,43h 15m,(1 stop),04/16/2019,19
+8:15pm,8:20am,"$1,401 ",Air Canada,22h 5m,(1 stop),04/16/2019,19
+6:00pm,8:20am,"$1,401 ",Air Canada,24h 20m,(1 stop),04/16/2019,19
+4:00pm,8:20am,"$1,401 ",Air Canada,26h 20m,(1 stop),04/16/2019,19
+12:00pm,8:20am,"$1,401 ",Air Canada,30h 20m,(1 stop),04/16/2019,19
+8:35pm,7:15pm,"$1,478 ",Singapore Airlines,32h 40m,(2 stops),04/16/2019,19
+2:45pm,2:50pm,"$1,625 ",Air China,34h 5m,(1 stop),04/16/2019,19
+3:30pm,8:50am,$904 ,Cathay Pacific,27h 20m,(1 stop),04/17/2019,20
+1:45am,8:20pm,$904 ,Cathay Pacific,28h 35m,(1 stop),04/17/2019,20
+1:45am,6:15am,$904 ,Cathay Pacific,38h 30m,(1 stop),04/17/2019,20
+1:45am,8:50am,$904 ,Cathay Pacific,41h 5m,(1 stop),04/17/2019,20
+3:30pm,8:20pm,$919 ,Cathay Pacific,38h 50m,(1 stop),04/17/2019,20
+3:30pm,6:15am,$919 ,Cathay Pacific,48h 45m,(1 stop),04/17/2019,20
+10:30am,7:30am,$944 ,Delta,31h 0m,(2 stops),04/17/2019,20
+10:30am,7:30am,$944 ,Delta,31h 0m,(2 stops),04/17/2019,20
+8:15am,7:25am,$944 ,American Airlines,33h 10m,(2 stops),04/17/2019,20
+7:45am,7:30am,$944 ,Delta,33h 45m,(2 stops),04/17/2019,20
+6:50pm,6:05am,$954 ,Multiple Airlines,21h 15m,(1 stop),04/17/2019,20
+4:20pm,6:05am,$954 ,Multiple Airlines,23h 45m,(1 stop),04/17/2019,20
+12:03pm,7:30am,$962 ,Delta,29h 27m,(2 stops),04/17/2019,20
+8:15am,7:25am,$962 ,American Airlines,33h 10m,(2 stops),04/17/2019,20
+8:15am,7:25am,$962 ,American Airlines,33h 10m,(2 stops),04/17/2019,20
+7:45am,7:30am,$962 ,Delta,33h 45m,(2 stops),04/17/2019,20
+1:30am,7:40pm,"$1,004 ",China Southern Airlines,28h 10m,(1 stop),04/17/2019,20
+8:00am,6:05am,"$1,012 ",Multiple Airlines,32h 5m,(1 stop),04/17/2019,20
+6:25pm,7:30am,"$1,018 ",Virgin Australia,23h 5m,(1 stop),04/17/2019,20
+10:00am,7:30am,"$1,023 ",Delta,31h 30m,(2 stops),04/17/2019,20
+6:15am,6:35am,"$1,023 ",Delta,34h 20m,(2 stops),04/17/2019,20
+6:25pm,7:30am,"$1,027 ",Multiple Airlines,23h 5m,(1 stop),04/17/2019,20
+4:20pm,7:30am,"$1,027 ",Multiple Airlines,25h 10m,(1 stop),04/17/2019,20
+5:25pm,7:00am,"$1,029 ",United,23h 35m,(1 stop),04/17/2019,20
+12:40pm,7:00am,"$1,029 ",United,28h 20m,(1 stop),04/17/2019,20
+7:59am,7:00am,"$1,029 ",United,33h 1m,(1 stop),04/17/2019,20
+4:50pm,7:00am,"$1,034 ",United,24h 10m,(2 stops),04/17/2019,20
+2:55pm,7:00am,"$1,034 ",United,26h 5m,(2 stops),04/17/2019,20
+2:50pm,7:00am,"$1,034 ",United,26h 10m,(2 stops),04/17/2019,20
+1:51pm,7:00am,"$1,034 ",United,27h 9m,(2 stops),04/17/2019,20
+10:00am,7:30am,"$1,041 ",Delta,31h 30m,(2 stops),04/17/2019,20
+6:15am,6:35am,"$1,041 ",Delta,34h 20m,(2 stops),04/17/2019,20
+6:15am,6:35am,"$1,041 ",Delta,34h 20m,(2 stops),04/17/2019,20
+3:30pm,10:50am,"$1,050 ",Cathay Pacific,29h 20m,(1 stop),04/17/2019,20
+1:45am,10:50am,"$1,050 ",Cathay Pacific,43h 5m,(1 stop),04/17/2019,20
+12:20pm,6:55am,"$1,052 ",United,28h 35m,(2 stops),04/17/2019,20
+6:40pm,6:25am,"$1,082 ",Multiple Airlines,21h 45m,(1 stop),04/17/2019,20
+11:50am,6:25am,"$1,082 ",Multiple Airlines,28h 35m,(1 stop),04/17/2019,20
+8:00am,7:30am,"$1,085 ",Multiple Airlines,33h 30m,(1 stop),04/17/2019,20
+11:50am,6:25am,"$1,092 ",Qantas Airways,28h 35m,(1 stop),04/17/2019,20
+12:00pm,7:30am,"$1,094 ",Virgin Australia,29h 30m,(1 stop),04/17/2019,20
+3:38pm,7:30am,"$1,099 ",Delta,25h 52m,(2 stops),04/17/2019,20
+11:55am,6:35am,"$1,099 ",Delta,28h 40m,(2 stops),04/17/2019,20
+12:03pm,7:30am,"$1,099 ",Delta,29h 27m,(2 stops),04/17/2019,20
+11:55am,7:30am,"$1,099 ",Delta,29h 35m,(2 stops),04/17/2019,20
+11:45am,7:25am,"$1,099 ",American Airlines,29h 40m,(2 stops),04/17/2019,20
+11:45am,7:25am,"$1,099 ",American Airlines,29h 40m,(2 stops),04/17/2019,20
+10:30am,6:35am,"$1,099 ",Delta,30h 5m,(2 stops),04/17/2019,20
+10:30am,6:35am,"$1,099 ",Delta,30h 5m,(2 stops),04/17/2019,20
+10:30am,6:35am,"$1,099 ",Delta,30h 5m,(2 stops),04/17/2019,20
+10:00am,6:35am,"$1,099 ",Delta,30h 35m,(2 stops),04/17/2019,20
+10:30am,7:30am,"$1,099 ",Delta,31h 0m,(2 stops),04/17/2019,20
+10:30am,7:30am,"$1,099 ",Delta,31h 0m,(2 stops),04/17/2019,20
+7:45am,6:35am,"$1,099 ",Delta,32h 50m,(2 stops),04/17/2019,20
+7:45am,6:35am,"$1,099 ",Delta,32h 50m,(2 stops),04/17/2019,20
+8:15am,7:25am,"$1,099 ",American Airlines,33h 10m,(2 stops),04/17/2019,20
+7:45am,7:30am,"$1,099 ",Delta,33h 45m,(2 stops),04/17/2019,20
+12:00pm,7:30am,"$1,104 ",Multiple Airlines,29h 30m,(1 stop),04/17/2019,20
+1:30am,8:25am,"$1,116 ",China Southern Airlines,40h 55m,(1 stop),04/17/2019,20
+11:45am,7:25am,"$1,117 ",American Airlines,29h 40m,(2 stops),04/17/2019,20
+8:15am,6:10am,"$1,133 ",Japan Airlines,31h 55m,(2 stops),04/17/2019,20
+7:21pm,6:55am,"$1,160 ",United,21h 34m,(1 stop),04/17/2019,20
+2:05pm,7:00am,"$1,160 ",United,26h 55m,(1 stop),04/17/2019,20
+9:30am,7:00am,"$1,160 ",United,31h 30m,(1 stop),04/17/2019,20
+7:00pm,10:45am,"$1,163 ",China Airlines,49h 45m,(2 stops),04/17/2019,20
+2:30pm,10:05pm,"$1,263 ",Emirates,41h 35m,(1 stop),04/17/2019,20
+5:40pm,2:30pm,"$1,298 ",Air New Zealand,30h 50m,(2 stops),04/17/2019,20
+5:40pm,5:55pm,"$1,298 ",Air New Zealand,34h 15m,(2 stops),04/17/2019,20
+11:30pm,8:45am,"$1,377 ",Philippine Airlines,43h 15m,(1 stop),04/17/2019,20
+8:15pm,8:20am,"$1,401 ",Air Canada,22h 5m,(1 stop),04/17/2019,20
+6:00pm,8:20am,"$1,401 ",Air Canada,24h 20m,(1 stop),04/17/2019,20
+1:00pm,9:00am,"$1,523 ",Multiple Airlines,30h 0m,(1 stop),04/17/2019,20
+5:55pm,5:50pm,"$1,911 ",Etihad Airways,33h 55m,(2 stops),04/17/2019,20
+4:25pm,12:35pm,"$2,041 ",China Eastern Airlines,30h 10m,(1 stop),04/17/2019,20
+2:45pm,2:50pm,"$2,096 ",Air China,34h 5m,(1 stop),04/17/2019,20
+1:45pm,7:45am,"$2,268 ",Asiana Airlines,28h 0m,(1 stop),04/17/2019,20
+12:40pm,7:45am,"$2,860 ",Multiple Airlines,29h 5m,(1 stop),04/17/2019,20
+8:35pm,7:15pm,"$4,598 ",Singapore Airlines,32h 40m,(2 stops),04/17/2019,20
+1:40pm,8:55am,"$5,485 ",All Nippon Airways,29h 15m,(1 stop),04/17/2019,20
+1:45am,8:20pm,$904 ,Cathay Pacific,28h 35m,(1 stop),04/18/2019,21
+1:45am,6:15am,$904 ,Cathay Pacific,38h 30m,(1 stop),04/18/2019,21
+1:45am,8:50am,$904 ,Cathay Pacific,41h 5m,(1 stop),04/18/2019,21
+1:45am,10:50am,$904 ,Cathay Pacific,43h 5m,(1 stop),04/18/2019,21
+6:25pm,7:30am,"$1,018 ",Virgin Australia,23h 5m,(1 stop),04/18/2019,21
+7:21pm,6:55am,"$1,029 ",United,21h 34m,(1 stop),04/18/2019,21
+6:25pm,7:00am,"$1,029 ",United,22h 35m,(1 stop),04/18/2019,21
+4:20pm,7:00am,"$1,029 ",United,24h 40m,(1 stop),04/18/2019,21
+12:00pm,7:00am,"$1,029 ",United,29h 0m,(1 stop),04/18/2019,21
+2:55pm,6:55am,"$1,034 ",United,26h 0m,(2 stops),04/18/2019,21
+2:50pm,6:55am,"$1,034 ",United,26h 5m,(2 stops),04/18/2019,21
+2:50pm,6:55am,"$1,034 ",United,26h 5m,(2 stops),04/18/2019,21
+2:50pm,7:00am,"$1,034 ",United,26h 10m,(2 stops),04/18/2019,21
+1:51pm,6:55am,"$1,034 ",United,27h 4m,(2 stops),04/18/2019,21
+1:51pm,6:55am,"$1,034 ",United,27h 4m,(2 stops),04/18/2019,21
+1:51pm,6:55am,"$1,034 ",United,27h 4m,(2 stops),04/18/2019,21
+1:51pm,7:00am,"$1,034 ",United,27h 9m,(2 stops),04/18/2019,21
+1:51pm,7:00am,"$1,034 ",United,27h 9m,(2 stops),04/18/2019,21
+12:20pm,6:55am,"$1,034 ",United,28h 35m,(2 stops),04/18/2019,21
+12:20pm,6:55am,"$1,052 ",United,28h 35m,(2 stops),04/18/2019,21
+6:40pm,6:25am,"$1,082 ",Multiple Airlines,21h 45m,(1 stop),04/18/2019,21
+11:50am,6:25am,"$1,082 ",Multiple Airlines,28h 35m,(1 stop),04/18/2019,21
+8:00am,7:00am,"$1,087 ",United,33h 0m,(1 stop),04/18/2019,21
+6:55am,6:55am,"$1,087 ",United,34h 0m,(1 stop),04/18/2019,21
+11:50am,6:25am,"$1,092 ",Qantas Airways,28h 35m,(1 stop),04/18/2019,21
+4:20pm,7:30am,"$1,094 ",Virgin Australia,25h 10m,(1 stop),04/18/2019,21
+12:00pm,7:30am,"$1,094 ",Virgin Australia,29h 30m,(1 stop),04/18/2019,21
+11:55am,6:35am,"$1,099 ",Delta,28h 40m,(2 stops),04/18/2019,21
+11:55am,6:35am,"$1,099 ",Delta,28h 40m,(2 stops),04/18/2019,21
+11:45am,7:25am,"$1,099 ",American Airlines,29h 40m,(2 stops),04/18/2019,21
+11:45am,7:25am,"$1,099 ",American Airlines,29h 40m,(2 stops),04/18/2019,21
+10:30am,6:35am,"$1,099 ",Delta,30h 5m,(2 stops),04/18/2019,21
+8:15am,7:25am,"$1,099 ",American Airlines,33h 10m,(2 stops),04/18/2019,21
+8:15am,7:25am,"$1,099 ",American Airlines,33h 10m,(2 stops),04/18/2019,21
+6:25pm,7:30am,"$1,104 ",Multiple Airlines,23h 5m,(1 stop),04/18/2019,21
+4:20pm,7:30am,"$1,104 ",Multiple Airlines,25h 10m,(1 stop),04/18/2019,21
+12:00pm,7:30am,"$1,104 ",Multiple Airlines,29h 30m,(1 stop),04/18/2019,21
+1:30am,7:40pm,"$1,116 ",China Southern Airlines,28h 10m,(1 stop),04/18/2019,21
+1:30am,8:25am,"$1,116 ",China Southern Airlines,40h 55m,(1 stop),04/18/2019,21
+11:45am,7:25am,"$1,117 ",American Airlines,29h 40m,(2 stops),04/18/2019,21
+7:45am,6:35am,"$1,117 ",Delta,32h 50m,(2 stops),04/18/2019,21
+8:15am,7:25am,"$1,117 ",American Airlines,33h 10m,(2 stops),04/18/2019,21
+8:15am,7:25am,"$1,117 ",American Airlines,33h 10m,(2 stops),04/18/2019,21
+8:15am,7:25am,"$1,117 ",American Airlines,33h 10m,(2 stops),04/18/2019,21
+8:15am,6:10am,"$1,133 ",Japan Airlines,31h 55m,(2 stops),04/18/2019,21
+7:00am,6:25am,"$1,134 ",Multiple Airlines,33h 25m,(1 stop),04/18/2019,21
+6:50pm,6:55am,"$1,160 ",United,22h 5m,(1 stop),04/18/2019,21
+10:30am,6:35am,"$1,212 ",Delta,30h 5m,(2 stops),04/18/2019,21
+10:30am,6:35am,"$1,212 ",Delta,30h 5m,(2 stops),04/18/2019,21
+10:30am,6:35am,"$1,212 ",Delta,30h 5m,(2 stops),04/18/2019,21
+7:45am,6:35am,"$1,212 ",Delta,32h 50m,(2 stops),04/18/2019,21
+7:45am,6:35am,"$1,212 ",Delta,32h 50m,(2 stops),04/18/2019,21
+6:30am,6:35am,"$1,212 ",Delta,34h 5m,(2 stops),04/18/2019,21
+6:30am,6:35am,"$1,212 ",Delta,34h 5m,(2 stops),04/18/2019,21
+6:00am,6:35am,"$1,212 ",Delta,34h 35m,(2 stops),04/18/2019,21
+6:00am,6:35am,"$1,212 ",Delta,34h 35m,(2 stops),04/18/2019,21
+7:45am,6:35am,"$1,230 ",Delta,32h 50m,(2 stops),04/18/2019,21
+6:30am,6:35am,"$1,230 ",Delta,34h 5m,(2 stops),04/18/2019,21
+6:30am,6:35am,"$1,230 ",Delta,34h 5m,(2 stops),04/18/2019,21
+4:20pm,6:30am,"$1,234 ",Multiple Airlines,24h 10m,(1 stop),04/18/2019,21
+8:00am,8:40am,"$1,264 ",Air New Zealand,34h 40m,(2 stops),04/18/2019,21
+10:20pm,5:50pm,"$1,351 ",Etihad Airways,29h 30m,(1 stop),04/18/2019,21
+8:15pm,8:20am,"$1,401 ",Air Canada,22h 5m,(1 stop),04/18/2019,21
+6:00pm,8:20am,"$1,401 ",Air Canada,24h 20m,(1 stop),04/18/2019,21
+4:00pm,8:20am,"$1,401 ",Air Canada,26h 20m,(1 stop),04/18/2019,21
+12:00pm,8:20am,"$1,401 ",Air Canada,30h 20m,(1 stop),04/18/2019,21
+1:00pm,9:00am,"$1,523 ",Multiple Airlines,30h 0m,(1 stop),04/18/2019,21
+4:25pm,7:40am,"$1,538 ",China Eastern Airlines,73h 15m,(2 stops),04/18/2019,21
+1:00pm,8:25am,"$1,580 ",Multiple Airlines,29h 25m,(1 stop),04/18/2019,21
+4:20pm,8:40am,"$1,628 ",Air New Zealand,26h 20m,(2 stops),04/18/2019,21
+4:20pm,10:40am,"$1,628 ",Air New Zealand,28h 20m,(2 stops),04/18/2019,21
+10:15pm,10:45am,"$1,629 ",China Airlines,46h 30m,(2 stops),04/18/2019,21
+1:00pm,6:30am,"$1,646 ",Qantas Airways,27h 30m,(2 stops),04/18/2019,21
+11:30pm,8:45am,"$3,141 ",Philippine Airlines,43h 15m,(1 stop),04/18/2019,21
+8:35pm,7:15pm,"$3,167 ",Singapore Airlines,32h 40m,(2 stops),04/18/2019,21
+12:40pm,7:30am,"$3,392 ",Multiple Airlines,28h 50m,(1 stop),04/18/2019,21
+3:30pm,8:50am,$919 ,Cathay Pacific,27h 20m,(1 stop),04/19/2019,22
+1:45am,8:20pm,$919 ,Cathay Pacific,28h 35m,(1 stop),04/19/2019,22
+3:30pm,10:50am,$919 ,Cathay Pacific,29h 20m,(1 stop),04/19/2019,22
+1:45am,6:15am,$919 ,Cathay Pacific,38h 30m,(1 stop),04/19/2019,22
+1:45am,8:50am,$919 ,Cathay Pacific,41h 5m,(1 stop),04/19/2019,22
+1:45am,10:50am,$919 ,Cathay Pacific,43h 5m,(1 stop),04/19/2019,22
+10:15pm,6:55pm,$926 ,China Airlines,30h 40m,(2 stops),04/19/2019,22
+10:20pm,5:50pm,$933 ,Etihad Airways,29h 30m,(1 stop),04/19/2019,22
+10:20pm,6:30am,$933 ,Etihad Airways,42h 10m,(1 stop),04/19/2019,22
+3:30pm,8:20pm,$934 ,Cathay Pacific,38h 50m,(1 stop),04/19/2019,22
+3:30pm,6:15am,$934 ,Cathay Pacific,48h 45m,(1 stop),04/19/2019,22
+3:11pm,7:25am,$989 ,American Airlines,26h 14m,(2 stops),04/19/2019,22
+1:00pm,7:25am,$989 ,American Airlines,28h 25m,(2 stops),04/19/2019,22
+11:45am,7:25am,$989 ,American Airlines,29h 40m,(2 stops),04/19/2019,22
+11:45am,7:25am,$989 ,American Airlines,29h 40m,(2 stops),04/19/2019,22
+8:15am,7:25am,$989 ,American Airlines,33h 10m,(2 stops),04/19/2019,22
+8:15am,7:25am,$989 ,American Airlines,33h 10m,(2 stops),04/19/2019,22
+6:25pm,7:30am,$993 ,Multiple Airlines,23h 5m,(1 stop),04/19/2019,22
+6:40pm,6:25am,$998 ,Multiple Airlines,21h 45m,(1 stop),04/19/2019,22
+11:45am,7:25am,"$1,007 ",American Airlines,29h 40m,(2 stops),04/19/2019,22
+11:45am,7:25am,"$1,007 ",American Airlines,29h 40m,(2 stops),04/19/2019,22
+8:15am,7:25am,"$1,007 ",American Airlines,33h 10m,(2 stops),04/19/2019,22
+8:15am,7:25am,"$1,007 ",American Airlines,33h 10m,(2 stops),04/19/2019,22
+8:15am,7:25am,"$1,007 ",American Airlines,33h 10m,(2 stops),04/19/2019,22
+7:00am,6:25am,"$1,048 ",Multiple Airlines,33h 25m,(1 stop),04/19/2019,22
+7:21pm,6:55am,"$1,059 ",United,21h 34m,(1 stop),04/19/2019,22
+5:25pm,7:00am,"$1,059 ",United,23h 35m,(1 stop),04/19/2019,22
+12:40pm,7:00am,"$1,059 ",United,28h 20m,(1 stop),04/19/2019,22
+7:59am,7:00am,"$1,059 ",United,33h 1m,(1 stop),04/19/2019,22
+6:25pm,7:30am,"$1,062 ",Virgin Australia,23h 5m,(1 stop),04/19/2019,22
+4:20pm,7:30am,"$1,062 ",Virgin Australia,25h 10m,(1 stop),04/19/2019,22
+4:50pm,7:00am,"$1,064 ",United,24h 10m,(2 stops),04/19/2019,22
+2:55pm,6:55am,"$1,064 ",United,26h 0m,(2 stops),04/19/2019,22
+2:55pm,7:00am,"$1,064 ",United,26h 5m,(2 stops),04/19/2019,22
+2:50pm,7:00am,"$1,064 ",United,26h 10m,(2 stops),04/19/2019,22
+2:35pm,7:00am,"$1,064 ",United,26h 25m,(2 stops),04/19/2019,22
+1:51pm,7:00am,"$1,064 ",United,27h 9m,(2 stops),04/19/2019,22
+3:38pm,7:30am,"$1,067 ",Delta,25h 52m,(2 stops),04/19/2019,22
+4:20pm,7:30am,"$1,072 ",Multiple Airlines,25h 10m,(1 stop),04/19/2019,22
+6:50pm,6:05am,"$1,124 ",Multiple Airlines,21h 15m,(1 stop),04/19/2019,22
+11:50am,6:25am,"$1,124 ",Multiple Airlines,28h 35m,(1 stop),04/19/2019,22
+1:55pm,7:30am,"$1,162 ",Delta,27h 35m,(2 stops),04/19/2019,22
+12:03pm,7:30am,"$1,162 ",Delta,29h 27m,(2 stops),04/19/2019,22
+5:40pm,7:30am,"$1,256 ",Delta,23h 50m,(2 stops),04/19/2019,22
+3:38pm,6:35am,"$1,256 ",Delta,24h 57m,(2 stops),04/19/2019,22
+3:38pm,7:30am,"$1,256 ",Delta,25h 52m,(2 stops),04/19/2019,22
+1:55pm,7:30am,"$1,256 ",Delta,27h 35m,(2 stops),04/19/2019,22
+12:03pm,6:35am,"$1,274 ",Delta,28h 32m,(2 stops),04/19/2019,22
+12:03pm,7:30am,"$1,274 ",Delta,29h 27m,(2 stops),04/19/2019,22
+11:50am,6:25am,"$1,289 ",Qantas Airways,28h 35m,(1 stop),04/19/2019,22
+2:30pm,10:05pm,"$1,308 ",Emirates,41h 35m,(1 stop),04/19/2019,22
+4:20pm,10:40am,"$1,312 ",Air New Zealand,28h 20m,(2 stops),04/19/2019,22
+4:20pm,10:40am,"$1,312 ",Air New Zealand,28h 20m,(2 stops),04/19/2019,22
+8:35pm,7:15pm,"$1,328 ",Singapore Airlines,32h 40m,(2 stops),04/19/2019,22
+4:20pm,2:30pm,"$1,346 ",Air New Zealand,32h 10m,(2 stops),04/19/2019,22
+1:30am,7:40pm,"$1,348 ",China Southern Airlines,28h 10m,(1 stop),04/19/2019,22
+1:30am,8:25am,"$1,348 ",China Southern Airlines,40h 55m,(1 stop),04/19/2019,22
+9:55am,6:30am,"$1,399 ",Qantas Airways,30h 35m,(1 stop),04/19/2019,22
+11:30pm,9:00pm,"$1,401 ",Philippine Airlines,31h 30m,(1 stop),04/19/2019,22
+8:15pm,8:20am,"$1,433 ",Air Canada,22h 5m,(1 stop),04/19/2019,22
+6:00pm,8:20am,"$1,433 ",Air Canada,24h 20m,(1 stop),04/19/2019,22
+4:00pm,8:20am,"$1,433 ",Air Canada,26h 20m,(1 stop),04/19/2019,22
+12:00pm,8:20am,"$1,433 ",Air Canada,30h 20m,(1 stop),04/19/2019,22
+1:55pm,6:35am,"$1,537 ",Delta,26h 40m,(2 stops),04/19/2019,22
+12:03pm,6:35am,"$1,537 ",Delta,28h 32m,(2 stops),04/19/2019,22
+11:55am,6:35am,"$1,537 ",Delta,28h 40m,(2 stops),04/19/2019,22
+12:03pm,7:30am,"$1,537 ",Delta,29h 27m,(2 stops),04/19/2019,22
+10:30am,6:35am,"$1,537 ",Delta,30h 5m,(2 stops),04/19/2019,22
+3:30pm,6:35am,"$1,545 ",Delta,25h 5m,(2 stops),04/19/2019,22
+11:55am,6:35am,"$1,545 ",Delta,28h 40m,(2 stops),04/19/2019,22
+11:55am,6:35am,"$1,545 ",Delta,28h 40m,(2 stops),04/19/2019,22
+7:45am,6:10am,"$1,672 ",Japan Airlines,32h 25m,(2 stops),04/19/2019,22
+8:15am,6:10am,"$1,853 ",Japan Airlines,31h 55m,(2 stops),04/19/2019,22
+1:00pm,12:35pm,"$2,003 ",Multiple Airlines,33h 35m,(1 stop),04/19/2019,22
+4:25pm,12:35pm,"$2,026 ",China Eastern Airlines,30h 10m,(1 stop),04/19/2019,22
+1:00pm,8:25am,"$2,032 ",Multiple Airlines,29h 25m,(1 stop),04/19/2019,22
+2:30pm,10:00am,"$2,378 ",Malaysia Airlines,53h 30m,(2 stops),04/19/2019,22
+2:30pm,7:35pm,"$2,378 ",Malaysia Airlines,63h 5m,(2 stops),04/19/2019,22
+12:40pm,6:15am,"$2,802 ",Korean Air,27h 35m,(1 stop),04/19/2019,22
+1:30am,7:40pm,$884 ,China Southern Airlines,28h 10m,(1 stop),04/20/2019,23
+1:30am,8:25am,$884 ,China Southern Airlines,40h 55m,(1 stop),04/20/2019,23
+1:45am,8:20pm,$919 ,Cathay Pacific,28h 35m,(1 stop),04/20/2019,23
+1:45am,6:15am,$919 ,Cathay Pacific,38h 30m,(1 stop),04/20/2019,23
+1:45am,8:50am,$919 ,Cathay Pacific,41h 5m,(1 stop),04/20/2019,23
+4:25pm,7:40am,$815 ,Cathay Pacific,27h 20m,(1 stop),04/21/2019,24
+4:25pm,7:40am,$815 ,Cathay Pacific,28h 35m,(1 stop),04/21/2019,24
+4:25pm,8:30am,$815 ,Cathay Pacific,29h 20m,(1 stop),04/21/2019,24
+1:30am,7:40pm,$884 ,Cathay Pacific,38h 30m,(1 stop),04/21/2019,24
+1:30am,8:25am,$884 ,Cathay Pacific,41h 5m,(1 stop),04/21/2019,24
+1:45am,8:20pm,$904 ,Cathay Pacific,28h 35m,(1 stop),04/22/2019,25
+3:11pm,7:25am,$944 ,American Airlines,26h 14m,(2 stops),04/22/2019,25
+11:45am,7:25am,$944 ,American Airlines,29h 40m,(2 stops),04/22/2019,25
+11:45am,7:25am,$944 ,American Airlines,29h 40m,(2 stops),04/22/2019,25
+8:15am,7:25am,$944 ,American Airlines,33h 10m,(2 stops),04/22/2019,25
+8:15am,7:25am,$944 ,American Airlines,33h 10m,(2 stops),04/22/2019,25
+6:50pm,6:05am,$954 ,Multiple Airlines,21h 15m,(1 stop),04/22/2019,25
+6:40pm,6:25am,$954 ,Multiple Airlines,21h 45m,(1 stop),04/22/2019,25
+12:00pm,6:30am,$954 ,Multiple Airlines,28h 30m,(1 stop),04/22/2019,25
+11:50am,6:25am,$954 ,Multiple Airlines,28h 35m,(1 stop),04/22/2019,25
+11:45am,7:25am,$962 ,American Airlines,29h 40m,(2 stops),04/22/2019,25
+11:45am,7:25am,$962 ,American Airlines,29h 40m,(2 stops),04/22/2019,25
+8:15am,7:25am,$962 ,American Airlines,33h 10m,(2 stops),04/22/2019,25
+8:15am,7:25am,$962 ,American Airlines,33h 10m,(2 stops),04/22/2019,25
+8:15am,7:25am,$962 ,American Airlines,33h 10m,(2 stops),04/22/2019,25
+8:15am,7:25am,$962 ,American Airlines,33h 10m,(2 stops),04/22/2019,25
+7:00am,6:25am,"$1,004 ",Multiple Airlines,33h 25m,(1 stop),04/22/2019,25
+8:00am,6:30am,"$1,011 ",Multiple Airlines,32h 30m,(1 stop),04/22/2019,25
+8:00am,6:05am,"$1,012 ",Multiple Airlines,32h 5m,(1 stop),04/22/2019,25
+7:21pm,6:55am,"$1,029 ",United,21h 34m,(1 stop),04/22/2019,25
+6:50pm,6:55am,"$1,029 ",United,22h 5m,(1 stop),04/22/2019,25
+5:25pm,7:00am,"$1,029 ",United,23h 35m,(1 stop),04/22/2019,25
+4:20pm,6:55am,"$1,029 ",United,24h 35m,(1 stop),04/22/2019,25
+2:05pm,7:00am,"$1,029 ",United,26h 55m,(1 stop),04/22/2019,25
+12:40pm,7:00am,"$1,029 ",United,28h 20m,(1 stop),04/22/2019,25
+9:30am,7:00am,"$1,029 ",United,31h 30m,(1 stop),04/22/2019,25
+7:59am,7:00am,"$1,029 ",United,33h 1m,(1 stop),04/22/2019,25
+4:20pm,8:35am,"$1,032 ",Virgin Australia,26h 15m,(2 stops),04/22/2019,25
+4:20pm,9:10am,"$1,032 ",Virgin Australia,26h 50m,(2 stops),04/22/2019,25
+4:20pm,9:40am,"$1,032 ",Virgin Australia,27h 20m,(2 stops),04/22/2019,25
+4:20pm,10:40am,"$1,032 ",Virgin Australia,28h 20m,(2 stops),04/22/2019,25
+4:20pm,11:40am,"$1,032 ",Virgin Australia,29h 20m,(2 stops),04/22/2019,25
+4:20pm,12:40pm,"$1,032 ",Virgin Australia,30h 20m,(2 stops),04/22/2019,25
+12:00pm,8:35am,"$1,032 ",Virgin Australia,30h 35m,(2 stops),04/22/2019,25
+12:00pm,9:10am,"$1,032 ",Virgin Australia,31h 10m,(2 stops),04/22/2019,25
+4:20pm,1:40pm,"$1,032 ",Virgin Australia,31h 20m,(2 stops),04/22/2019,25
+12:00pm,9:40am,"$1,032 ",Virgin Australia,31h 40m,(2 stops),04/22/2019,25
+4:50pm,7:00am,"$1,034 ",United,24h 10m,(2 stops),04/22/2019,25
+4:15pm,7:00am,"$1,034 ",United,24h 45m,(2 stops),04/22/2019,25
+3:14pm,6:55am,"$1,034 ",United,25h 41m,(2 stops),04/22/2019,25
+7:45am,7:30am,"$1,041 ",Delta,33h 45m,(2 stops),04/22/2019,25
+12:00pm,8:40am,"$1,046 ",Air New Zealand,30h 40m,(2 stops),04/22/2019,25
+12:00pm,10:40am,"$1,046 ",Air New Zealand,32h 40m,(2 stops),04/22/2019,25
+12:00pm,10:40am,"$1,046 ",Air New Zealand,32h 40m,(2 stops),04/22/2019,25
+11:50am,6:25am,"$1,092 ",Qantas Airways,28h 35m,(1 stop),04/22/2019,25
+9:55am,6:30am,"$1,092 ",Qantas Airways,30h 35m,(1 stop),04/22/2019,25
+9:55am,8:10am,"$1,102 ",Qantas Airways,32h 15m,(2 stops),04/22/2019,25
+7:45am,7:30am,"$1,117 ",Delta,33h 45m,(2 stops),04/22/2019,25
+12:03pm,7:30am,"$1,212 ",Delta,29h 27m,(2 stops),04/22/2019,25
+10:30am,7:30am,"$1,212 ",Delta,31h 0m,(2 stops),04/22/2019,25
+10:30am,7:30am,"$1,212 ",Delta,31h 0m,(2 stops),04/22/2019,25
+1:55pm,7:30am,"$1,230 ",Delta,27h 35m,(2 stops),04/22/2019,25
+10:30am,7:30am,"$1,230 ",Delta,31h 0m,(2 stops),04/22/2019,25
+2:30pm,10:05pm,"$1,263 ",Emirates,41h 35m,(1 stop),04/22/2019,25
+8:35pm,7:15pm,"$1,328 ",Singapore Airlines,32h 40m,(2 stops),04/22/2019,25
+1:30am,7:40pm,"$1,348 ",China Southern Airlines,28h 10m,(1 stop),04/22/2019,25
+1:30am,8:25am,"$1,348 ",China Southern Airlines,40h 55m,(1 stop),04/22/2019,25
+10:15pm,10:45am,"$1,369 ",China Airlines,46h 30m,(2 stops),04/22/2019,25
+11:30pm,9:00pm,"$1,377 ",Philippine Airlines,31h 30m,(1 stop),04/22/2019,25
+8:15pm,8:20am,"$1,401 ",Air Canada,22h 5m,(1 stop),04/22/2019,25
+6:00pm,8:20am,"$1,401 ",Air Canada,24h 20m,(1 stop),04/22/2019,25
+4:00pm,8:20am,"$1,401 ",Air Canada,26h 20m,(1 stop),04/22/2019,25
+12:00pm,8:20am,"$1,401 ",Air Canada,30h 20m,(1 stop),04/22/2019,25
+3:30pm,6:35am,"$1,493 ",Delta,25h 5m,(2 stops),04/22/2019,25
+3:30pm,7:30am,"$1,493 ",Delta,26h 0m,(2 stops),04/22/2019,25
+1:55pm,6:35am,"$1,493 ",Delta,26h 40m,(2 stops),04/22/2019,25
+1:55pm,7:30am,"$1,493 ",Delta,27h 35m,(2 stops),04/22/2019,25
+12:03pm,6:35am,"$1,493 ",Delta,28h 32m,(2 stops),04/22/2019,25
+11:55am,6:35am,"$1,493 ",Delta,28h 40m,(2 stops),04/22/2019,25
+10:30am,6:35am,"$1,493 ",Delta,30h 5m,(2 stops),04/22/2019,25
+10:30am,6:35am,"$1,493 ",Delta,30h 5m,(2 stops),04/22/2019,25
+10:30am,6:35am,"$1,493 ",Delta,30h 5m,(2 stops),04/22/2019,25
+2:45pm,8:30am,"$1,611 ",Multiple Airlines,51h 45m,(2 stops),04/22/2019,25
+4:25pm,12:35pm,"$1,622 ",China Eastern Airlines,30h 10m,(1 stop),04/22/2019,25
+5:55pm,5:50pm,"$1,911 ",Etihad Airways,33h 55m,(2 stops),04/22/2019,25
+1:45pm,7:15am,"$2,531 ",Asiana Airlines,27h 30m,(1 stop),04/22/2019,25
+12:40pm,6:15am,"$2,802 ",Korean Air,27h 35m,(1 stop),04/22/2019,25
+8:15am,6:10am,"$5,255 ",Japan Airlines,31h 55m,(2 stops),04/22/2019,25
+1:40pm,8:55am,"$5,485 ",All Nippon Airways,29h 15m,(1 stop),04/22/2019,25
+3:30pm,7:30am,$937 ,Delta,26h 0m,(2 stops),04/23/2019,26
+3:11pm,7:25am,$944 ,American Airlines,26h 14m,(2 stops),04/23/2019,26
+1:55pm,6:35am,$944 ,Delta,26h 40m,(2 stops),04/23/2019,26
+1:55pm,7:30am,$944 ,Delta,27h 35m,(2 stops),04/23/2019,26
+12:03pm,7:30am,$944 ,Delta,29h 27m,(2 stops),04/23/2019,26
+11:55am,7:30am,$944 ,Delta,29h 35m,(2 stops),04/23/2019,26
+11:45am,7:25am,$944 ,American Airlines,29h 40m,(2 stops),04/23/2019,26
+11:45am,7:25am,$944 ,American Airlines,29h 40m,(2 stops),04/23/2019,26
+10:30am,7:30am,$944 ,Delta,31h 0m,(2 stops),04/23/2019,26
+10:30am,7:30am,$944 ,Delta,31h 0m,(2 stops),04/23/2019,26
+10:30am,7:30am,$944 ,Delta,31h 0m,(2 stops),04/23/2019,26
+10:30am,7:30am,$944 ,Delta,31h 0m,(2 stops),04/23/2019,26
+10:00am,7:30am,$944 ,Delta,31h 30m,(2 stops),04/23/2019,26
+7:56am,7:25am,$944 ,American Airlines,33h 29m,(2 stops),04/23/2019,26
+7:56am,7:25am,$944 ,American Airlines,33h 29m,(2 stops),04/23/2019,26
+6:25pm,7:30am,$944 ,Multiple Airlines,23h 5m,(1 stop),04/23/2019,26
+4:20pm,7:30am,$948 ,Multiple Airlines,25h 10m,(1 stop),04/23/2019,26
+12:00pm,7:30am,$948 ,Multiple Airlines,29h 30m,(1 stop),04/23/2019,26
+6:50pm,6:05am,$948 ,Multiple Airlines,21h 15m,(1 stop),04/23/2019,26
+4:20pm,6:30am,$954 ,Multiple Airlines,24h 10m,(1 stop),04/23/2019,26
+12:00pm,6:30am,$954 ,Multiple Airlines,28h 30m,(1 stop),04/23/2019,26
+1:55pm,7:30am,$954 ,Delta,27h 35m,(2 stops),04/23/2019,26
+11:45am,7:25am,$962 ,American Airlines,29h 40m,(2 stops),04/23/2019,26
+11:45am,7:25am,$962 ,American Airlines,29h 40m,(2 stops),04/23/2019,26
+10:30am,7:30am,$962 ,Delta,31h 0m,(2 stops),04/23/2019,26
+10:00am,7:30am,$962 ,Delta,31h 30m,(2 stops),04/23/2019,26
+7:56am,7:25am,$962 ,American Airlines,33h 29m,(2 stops),04/23/2019,26
+7:56am,7:25am,$962 ,American Airlines,33h 29m,(2 stops),04/23/2019,26
+7:56am,7:25am,$962 ,American Airlines,33h 29m,(2 stops),04/23/2019,26
+7:56am,7:25am,$962 ,American Airlines,33h 29m,(2 stops),04/23/2019,26
+6:30am,6:35am,$962 ,Delta,34h 5m,(2 stops),04/23/2019,26
+8:00am,6:30am,$962 ,Multiple Airlines,32h 30m,(1 stop),04/23/2019,26
+8:00am,6:05am,"$1,011 ",Multiple Airlines,32h 5m,(1 stop),04/23/2019,26
+6:25pm,7:30am,"$1,012 ",Virgin Australia,23h 5m,(1 stop),04/23/2019,26
+12:00pm,8:40am,"$1,018 ",Air New Zealand,30h 40m,(2 stops),04/23/2019,26
+3:30pm,6:35am,"$1,019 ",Delta,25h 5m,(2 stops),04/23/2019,26
+11:55am,7:30am,"$1,023 ",Delta,29h 35m,(2 stops),04/23/2019,26
+10:30am,6:35am,"$1,023 ",Delta,30h 5m,(2 stops),04/23/2019,26
+10:30am,6:35am,"$1,023 ",Delta,30h 5m,(2 stops),04/23/2019,26
+10:30am,6:35am,"$1,023 ",Delta,30h 5m,(2 stops),04/23/2019,26
+7:45am,6:35am,"$1,023 ",Delta,32h 50m,(2 stops),04/23/2019,26
+6:00am,6:35am,"$1,023 ",Delta,34h 35m,(2 stops),04/23/2019,26
+7:21pm,6:55am,"$1,023 ",United,21h 34m,(1 stop),04/23/2019,26
+6:25pm,7:00am,"$1,029 ",United,22h 35m,(1 stop),04/23/2019,26
+4:20pm,7:00am,"$1,029 ",United,24h 40m,(1 stop),04/23/2019,26
+12:00pm,7:00am,"$1,029 ",United,29h 0m,(1 stop),04/23/2019,26
+2:55pm,6:55am,"$1,029 ",United,26h 0m,(2 stops),04/23/2019,26
+2:50pm,6:55am,"$1,034 ",United,26h 5m,(2 stops),04/23/2019,26
+2:50pm,6:55am,"$1,034 ",United,26h 5m,(2 stops),04/23/2019,26
+1:51pm,6:55am,"$1,034 ",United,27h 4m,(2 stops),04/23/2019,26
+1:51pm,6:55am,"$1,034 ",United,27h 4m,(2 stops),04/23/2019,26
+1:51pm,6:55am,"$1,034 ",United,27h 4m,(2 stops),04/23/2019,26
+1:51pm,7:00am,"$1,034 ",United,27h 9m,(2 stops),04/23/2019,26
+1:51pm,7:00am,"$1,034 ",United,27h 9m,(2 stops),04/23/2019,26
+12:20pm,6:55am,"$1,034 ",United,28h 35m,(2 stops),04/23/2019,26
+12:20pm,6:55am,"$1,034 ",United,28h 35m,(2 stops),04/23/2019,26
+5:25pm,8:40am,"$1,034 ",Air New Zealand,25h 15m,(2 stops),04/23/2019,26
+1:45am,8:20pm,"$1,046 ",Cathay Pacific,28h 35m,(1 stop),04/23/2019,26
+1:45am,6:15am,"$1,050 ",Cathay Pacific,38h 30m,(1 stop),04/23/2019,26
+9:55am,6:30am,"$1,050 ",Qantas Airways,30h 35m,(1 stop),04/23/2019,26
+4:20pm,7:30am,"$1,092 ",Virgin Australia,25h 10m,(1 stop),04/23/2019,26
+12:00pm,7:30am,"$1,094 ",Virgin Australia,29h 30m,(1 stop),04/23/2019,26
+1:00pm,6:30am,"$1,094 ",Qantas Airways,27h 30m,(2 stops),04/23/2019,26
+4:20pm,8:35am,"$1,097 ",Virgin Australia,26h 15m,(2 stops),04/23/2019,26
+4:20pm,9:40am,"$1,108 ",Virgin Australia,27h 20m,(2 stops),04/23/2019,26
+10:20pm,5:50pm,"$1,108 ",Etihad Airways,29h 30m,(1 stop),04/23/2019,26
+10:20pm,6:30am,"$1,239 ",Etihad Airways,42h 10m,(1 stop),04/23/2019,26
+1:30am,7:40pm,"$1,239 ",China Southern Airlines,28h 10m,(1 stop),04/23/2019,26
+10:15pm,6:55pm,"$1,348 ",China Airlines,30h 40m,(2 stops),04/23/2019,26
+7:00pm,6:55pm,"$1,369 ",China Airlines,33h 55m,(2 stops),04/23/2019,26
+11:30pm,8:45am,"$1,369 ",Philippine Airlines,43h 15m,(1 stop),04/23/2019,26
+8:15pm,8:20am,"$1,377 ",Air Canada,22h 5m,(1 stop),04/23/2019,26
+6:00pm,8:20am,"$1,401 ",Air Canada,24h 20m,(1 stop),04/23/2019,26
+4:00pm,8:20am,"$1,401 ",Air Canada,26h 20m,(1 stop),04/23/2019,26
+12:00pm,8:20am,"$1,401 ",Air Canada,30h 20m,(1 stop),04/23/2019,26
+8:35pm,7:15pm,"$1,401 ",Singapore Airlines,32h 40m,(2 stops),04/23/2019,26
+2:45pm,2:50pm,"$1,678 ",Air China,34h 5m,(1 stop),04/23/2019,26
+12:40pm,6:15am,"$1,730 ",Korean Air,27h 35m,(1 stop),04/23/2019,26
+7:56am,6:10am,"$3,261 ",Japan Airlines,32h 14m,(2 stops),04/23/2019,26
+3:11pm,7:25am,$939 ,American Airlines,26h 14m,(2 stops),04/24/2019,27
+11:45am,7:25am,$944 ,American Airlines,29h 40m,(2 stops),04/24/2019,27
+11:45am,7:25am,$944 ,American Airlines,29h 40m,(2 stops),04/24/2019,27
+8:15am,7:25am,$944 ,American Airlines,33h 10m,(2 stops),04/24/2019,27
+8:15am,7:25am,$944 ,American Airlines,33h 10m,(2 stops),04/24/2019,27
+6:50pm,6:05am,$944 ,Multiple Airlines,21h 15m,(1 stop),04/24/2019,27
+4:20pm,6:05am,$954 ,Multiple Airlines,23h 45m,(1 stop),04/24/2019,27
+11:45am,7:25am,$954 ,American Airlines,29h 40m,(2 stops),04/24/2019,27
+11:45am,7:25am,$962 ,American Airlines,29h 40m,(2 stops),04/24/2019,27
+8:15am,7:25am,$962 ,American Airlines,33h 10m,(2 stops),04/24/2019,27
+8:15am,7:25am,$962 ,American Airlines,33h 10m,(2 stops),04/24/2019,27
+8:15am,7:25am,$962 ,American Airlines,33h 10m,(2 stops),04/24/2019,27
+8:15am,7:25am,$962 ,American Airlines,33h 10m,(2 stops),04/24/2019,27
+8:00am,6:05am,$962 ,Multiple Airlines,32h 5m,(1 stop),04/24/2019,27
+6:25pm,7:30am,"$1,012 ",Virgin Australia,23h 5m,(1 stop),04/24/2019,27
+12:03pm,7:30am,"$1,018 ",Delta,29h 27m,(2 stops),04/24/2019,27
+11:55am,7:30am,"$1,023 ",Delta,29h 35m,(2 stops),04/24/2019,27
+10:30am,6:35am,"$1,023 ",Delta,30h 5m,(2 stops),04/24/2019,27
+10:30am,7:30am,"$1,023 ",Delta,31h 0m,(2 stops),04/24/2019,27
+10:30am,7:30am,"$1,023 ",Delta,31h 0m,(2 stops),04/24/2019,27
+6:25pm,7:30am,"$1,023 ",Multiple Airlines,23h 5m,(1 stop),04/24/2019,27
+4:20pm,7:30am,"$1,027 ",Multiple Airlines,25h 10m,(1 stop),04/24/2019,27
+12:00pm,7:30am,"$1,027 ",Multiple Airlines,29h 30m,(1 stop),04/24/2019,27
+5:25pm,7:00am,"$1,027 ",United,23h 35m,(1 stop),04/24/2019,27
+4:50pm,7:00am,"$1,029 ",United,24h 10m,(2 stops),04/24/2019,27
+4:50pm,7:00am,"$1,034 ",United,24h 10m,(2 stops),04/24/2019,27
+2:55pm,7:00am,"$1,034 ",United,26h 5m,(2 stops),04/24/2019,27
+12:03pm,7:30am,"$1,034 ",Delta,29h 27m,(2 stops),04/24/2019,27
+6:15am,6:35am,"$1,041 ",Delta,34h 20m,(2 stops),04/24/2019,27
+12:20pm,7:00am,"$1,041 ",United,28h 40m,(2 stops),04/24/2019,27
+11:45am,7:00am,"$1,052 ",United,29h 15m,(2 stops),04/24/2019,27
+10:21am,7:00am,"$1,052 ",United,30h 39m,(2 stops),04/24/2019,27
+8:30am,7:00am,"$1,052 ",United,32h 30m,(2 stops),04/24/2019,27
+8:05am,7:00am,"$1,052 ",United,32h 55m,(2 stops),04/24/2019,27
+6:40pm,6:25am,"$1,052 ",Multiple Airlines,21h 45m,(1 stop),04/24/2019,27
+4:20pm,6:30am,"$1,082 ",Multiple Airlines,24h 10m,(1 stop),04/24/2019,27
+12:00pm,6:30am,"$1,082 ",Multiple Airlines,28h 30m,(1 stop),04/24/2019,27
+11:50am,6:25am,"$1,082 ",Multiple Airlines,28h 35m,(1 stop),04/24/2019,27
+8:00am,7:30am,"$1,082 ",Multiple Airlines,33h 30m,(1 stop),04/24/2019,27
+11:50am,6:25am,"$1,085 ",Qantas Airways,28h 35m,(1 stop),04/24/2019,27
+9:55am,6:30am,"$1,092 ",Qantas Airways,30h 35m,(1 stop),04/24/2019,27
+4:20pm,7:30am,"$1,092 ",Virgin Australia,25h 10m,(1 stop),04/24/2019,27
+12:00pm,7:30am,"$1,094 ",Virgin Australia,29h 30m,(1 stop),04/24/2019,27
+1:00pm,6:30am,"$1,094 ",Qantas Airways,27h 30m,(2 stops),04/24/2019,27
+1:55pm,6:35am,"$1,097 ",Delta,26h 40m,(2 stops),04/24/2019,27
+10:30am,6:35am,"$1,099 ",Delta,30h 5m,(2 stops),04/24/2019,27
+6:15am,6:35am,"$1,099 ",Delta,34h 20m,(2 stops),04/24/2019,27
+6:00am,6:35am,"$1,099 ",Delta,34h 35m,(2 stops),04/24/2019,27
+4:20pm,8:35am,"$1,099 ",Virgin Australia,26h 15m,(2 stops),04/24/2019,27
+4:20pm,9:40am,"$1,108 ",Virgin Australia,27h 20m,(2 stops),04/24/2019,27
+1:30am,7:40pm,"$1,108 ",China Southern Airlines,28h 10m,(1 stop),04/24/2019,27
+10:19am,6:35am,"$1,116 ",Delta,30h 16m,(2 stops),04/24/2019,27
+7:45am,7:30am,"$1,117 ",Delta,33h 45m,(2 stops),04/24/2019,27
+6:03am,6:35am,"$1,117 ",Delta,34h 32m,(2 stops),04/24/2019,27
+5:40pm,7:30am,"$1,117 ",Delta,23h 50m,(2 stops),04/24/2019,27
+3:38pm,7:30am,"$1,212 ",Delta,25h 52m,(2 stops),04/24/2019,27
+1:55pm,7:30am,"$1,212 ",Delta,27h 35m,(2 stops),04/24/2019,27
+10:30am,7:30am,"$1,212 ",Delta,31h 0m,(2 stops),04/24/2019,27
+1:45am,8:20pm,"$1,212 ",Cathay Pacific,28h 35m,(1 stop),04/24/2019,27
+2:30pm,10:05pm,"$1,244 ",Emirates,41h 35m,(1 stop),04/24/2019,27
+5:40pm,10:40am,"$1,263 ",Air New Zealand,27h 0m,(2 stops),04/24/2019,27
+11:16am,10:40am,"$1,361 ",Air New Zealand,33h 24m,(2 stops),04/24/2019,27
+8:00am,8:40am,"$1,361 ",Air New Zealand,34h 40m,(2 stops),04/24/2019,27
+5:40pm,2:30pm,"$1,361 ",Air New Zealand,30h 50m,(2 stops),04/24/2019,27
+8:15pm,8:20am,"$1,395 ",Air Canada,22h 5m,(1 stop),04/24/2019,27
+6:00pm,8:20am,"$1,401 ",Air Canada,24h 20m,(1 stop),04/24/2019,27
+5:55pm,8:20am,"$1,401 ",Air Canada,24h 25m,(2 stops),04/24/2019,27
+4:00pm,8:20am,"$1,401 ",Air Canada,26h 20m,(1 stop),04/24/2019,27
+3:30pm,8:50am,"$1,401 ",Cathay Pacific,27h 20m,(1 stop),04/24/2019,27
+1:45am,6:15am,"$1,438 ",Cathay Pacific,38h 30m,(1 stop),04/24/2019,27
+2:45pm,2:50pm,"$1,438 ",Air China,34h 5m,(1 stop),04/24/2019,27
+8:35pm,7:15pm,"$1,834 ",Singapore Airlines,32h 40m,(2 stops),04/24/2019,27
+10:15pm,10:45am,"$2,003 ",China Airlines,46h 30m,(2 stops),04/24/2019,27
+5:55pm,5:50pm,"$2,006 ",Etihad Airways,33h 55m,(2 stops),04/24/2019,27
+12:40pm,6:15am,"$2,773 ",Korean Air,27h 35m,(1 stop),04/24/2019,27
+4:25pm,12:35pm,"$2,802 ",China Eastern Airlines,30h 10m,(1 stop),04/24/2019,27
+11:30pm,8:45am,"$2,994 ",Philippine Airlines,43h 15m,(1 stop),04/24/2019,27
+1:45pm,7:15am,"$3,141 ",Asiana Airlines,27h 30m,(1 stop),04/24/2019,27
+1:40pm,8:55am,"$3,540 ",All Nippon Airways,29h 15m,(1 stop),04/24/2019,27
+6:40pm,6:25am,"$1,069 ",Multiple Airlines,21h 45m,(1 stop),04/25/2019,28
+12:00pm,6:30am,"$1,082 ",Multiple Airlines,28h 30m,(1 stop),04/25/2019,28
+11:50am,6:25am,"$1,082 ",Multiple Airlines,28h 35m,(1 stop),04/25/2019,28
+11:50am,6:25am,"$1,082 ",Qantas Airways,28h 35m,(1 stop),04/25/2019,28
+7:00am,6:25am,"$1,092 ",Multiple Airlines,33h 25m,(1 stop),04/25/2019,28
+8:00am,6:30am,"$1,134 ",Multiple Airlines,32h 30m,(1 stop),04/25/2019,28
+6:25pm,7:30am,"$1,141 ",Virgin Australia,23h 5m,(1 stop),04/25/2019,28
+12:00pm,7:30am,"$1,207 ",Virgin Australia,29h 30m,(1 stop),04/25/2019,28
+3:11pm,7:25am,"$1,207 ",American Airlines,26h 14m,(2 stops),04/25/2019,28
+1:00pm,7:25am,"$1,209 ",American Airlines,28h 25m,(2 stops),04/25/2019,28
+1:00pm,7:25am,"$1,209 ",American Airlines,28h 25m,(2 stops),04/25/2019,28
+11:45am,7:25am,"$1,209 ",American Airlines,29h 40m,(2 stops),04/25/2019,28
+11:45am,7:25am,"$1,209 ",American Airlines,29h 40m,(2 stops),04/25/2019,28
+8:15am,7:25am,"$1,209 ",American Airlines,33h 10m,(2 stops),04/25/2019,28
+8:15am,7:25am,"$1,209 ",American Airlines,33h 10m,(2 stops),04/25/2019,28
+11:55am,7:30am,"$1,209 ",Delta,29h 35m,(2 stops),04/25/2019,28
+11:55am,7:30am,"$1,212 ",Delta,29h 35m,(2 stops),04/25/2019,28
+10:30am,7:30am,"$1,212 ",Delta,31h 0m,(2 stops),04/25/2019,28
+6:25pm,7:30am,"$1,212 ",Multiple Airlines,23h 5m,(1 stop),04/25/2019,28
+4:20pm,7:30am,"$1,218 ",Multiple Airlines,25h 10m,(1 stop),04/25/2019,28
+12:00pm,7:30am,"$1,218 ",Multiple Airlines,29h 30m,(1 stop),04/25/2019,28
+12:00pm,8:40am,"$1,218 ",Virgin Australia,30h 40m,(2 stops),04/25/2019,28
+12:00pm,9:10am,"$1,221 ",Virgin Australia,31h 10m,(2 stops),04/25/2019,28
+12:00pm,9:40am,"$1,221 ",Virgin Australia,31h 40m,(2 stops),04/25/2019,28
+12:00pm,10:40am,"$1,221 ",Virgin Australia,32h 40m,(2 stops),04/25/2019,28
+12:00pm,11:40am,"$1,221 ",Virgin Australia,33h 40m,(2 stops),04/25/2019,28
+12:00pm,12:40pm,"$1,221 ",Virgin Australia,34h 40m,(2 stops),04/25/2019,28
+11:45am,7:25am,"$1,221 ",American Airlines,29h 40m,(2 stops),04/25/2019,28
+11:45am,7:25am,"$1,227 ",American Airlines,29h 40m,(2 stops),04/25/2019,28
+10:59am,7:25am,"$1,227 ",American Airlines,30h 26m,(2 stops),04/25/2019,28
+8:15am,7:25am,"$1,227 ",American Airlines,33h 10m,(2 stops),04/25/2019,28
+8:15am,7:25am,"$1,227 ",American Airlines,33h 10m,(2 stops),04/25/2019,28
+12:03pm,7:30am,"$1,227 ",Delta,29h 27m,(2 stops),04/25/2019,28
+10:00am,7:30am,"$1,230 ",Delta,31h 30m,(2 stops),04/25/2019,28
+10:00am,7:30am,"$1,230 ",Delta,31h 30m,(2 stops),04/25/2019,28
+4:20pm,6:30am,"$1,230 ",Multiple Airlines,24h 10m,(1 stop),04/25/2019,28
+9:55am,6:30am,"$1,234 ",Qantas Airways,30h 35m,(1 stop),04/25/2019,28
+1:00pm,6:30am,"$1,246 ",Qantas Airways,27h 30m,(2 stops),04/25/2019,28
+5:25pm,8:40am,"$1,250 ",Air New Zealand,25h 15m,(2 stops),04/25/2019,28
+7:59am,8:40am,"$1,482 ",Air New Zealand,34h 41m,(2 stops),04/25/2019,28
+3:38pm,7:30am,"$1,482 ",Delta,25h 52m,(2 stops),04/25/2019,28
+3:38pm,7:30am,"$1,493 ",Delta,25h 52m,(2 stops),04/25/2019,28
+3:30pm,7:30am,"$1,493 ",Delta,26h 0m,(2 stops),04/25/2019,28
+1:55pm,7:30am,"$1,493 ",Delta,27h 35m,(2 stops),04/25/2019,28
+12:03pm,7:30am,"$1,493 ",Delta,29h 27m,(2 stops),04/25/2019,28
+10:00am,7:30am,"$1,493 ",Delta,31h 30m,(2 stops),04/25/2019,28
+5:40pm,7:30am,"$1,493 ",Delta,23h 50m,(2 stops),04/25/2019,28
+11:55am,6:35am,"$1,500 ",Delta,28h 40m,(2 stops),04/25/2019,28
+10:30am,6:35am,"$1,500 ",Delta,30h 5m,(2 stops),04/25/2019,28
+8:30am,8:20am,"$1,500 ",Air Canada,33h 50m,(1 stop),04/25/2019,28
+8:00am,8:20am,"$1,635 ",Air Canada,34h 20m,(1 stop),04/25/2019,28
+7:00am,8:20am,"$1,635 ",Air Canada,35h 20m,(1 stop),04/25/2019,28
+10:30pm,8:20am,"$1,635 ",Air Canada,43h 50m,(1 stop),04/25/2019,28
+1:45am,8:20pm,"$1,667 ",Cathay Pacific,28h 35m,(1 stop),04/25/2019,28
+2:45pm,2:50pm,"$1,729 ",Air China,34h 5m,(1 stop),04/25/2019,28
+12:40pm,6:15am,"$2,514 ",Korean Air,27h 35m,(1 stop),04/25/2019,28
+1:30am,7:40pm,"$2,802 ",China Southern Airlines,28h 10m,(1 stop),04/25/2019,28
+1:30am,8:25am,"$3,013 ",China Southern Airlines,40h 55m,(1 stop),04/25/2019,28
+11:30pm,8:45am,"$3,013 ",Philippine Airlines,43h 15m,(1 stop),04/25/2019,28
+7:21pm,6:55am,"$3,141 ",United,21h 34m,(1 stop),04/25/2019,28
+6:50pm,6:55am,"$3,291 ",United,22h 5m,(1 stop),04/25/2019,28
+6:25pm,7:00am,"$3,291 ",United,22h 35m,(1 stop),04/25/2019,28
+4:20pm,6:55am,"$3,291 ",United,24h 35m,(1 stop),04/25/2019,28
+4:20pm,7:00am,"$3,291 ",United,24h 40m,(1 stop),04/25/2019,28
+12:00pm,7:00am,"$3,291 ",United,29h 0m,(1 stop),04/25/2019,28
+4:20pm,6:55am,"$3,291 ",United,24h 35m,(2 stops),04/25/2019,28
+3:14pm,7:00am,"$3,296 ",United,25h 46m,(2 stops),04/25/2019,28
+2:55pm,6:55am,"$3,296 ",United,26h 0m,(2 stops),04/25/2019,28
+2:50pm,6:55am,"$3,296 ",United,26h 5m,(2 stops),04/25/2019,28
+2:50pm,6:55am,"$3,296 ",United,26h 5m,(2 stops),04/25/2019,28
+2:55pm,7:00am,"$3,296 ",United,26h 5m,(2 stops),04/25/2019,28
+2:50pm,7:00am,"$3,296 ",United,26h 10m,(2 stops),04/25/2019,28
+1:51pm,6:55am,"$3,296 ",United,27h 4m,(2 stops),04/25/2019,28
+1:51pm,6:55am,"$3,296 ",United,27h 4m,(2 stops),04/25/2019,28
+1:51pm,7:00am,"$3,296 ",United,27h 9m,(2 stops),04/25/2019,28
+1:51pm,7:00am,"$3,296 ",United,27h 9m,(2 stops),04/25/2019,28
+10:20pm,5:50pm,"$3,296 ",Etihad Airways,29h 30m,(1 stop),04/25/2019,28
+8:35pm,7:15pm,"$3,712 ",Singapore Airlines,32h 40m,(2 stops),04/25/2019,28
+3:30pm,8:50am,$919 ,Cathay Pacific,27h 20m,(1 stop),04/26/2019,29
+1:45am,8:20pm,$919 ,Cathay Pacific,28h 35m,(1 stop),04/26/2019,29
+3:30pm,10:50am,$919 ,Cathay Pacific,29h 20m,(1 stop),04/26/2019,29
+1:45am,6:15am,$919 ,Cathay Pacific,38h 30m,(1 stop),04/26/2019,29
+1:45am,8:50am,$919 ,Cathay Pacific,41h 5m,(1 stop),04/26/2019,29
+6:50pm,6:05am,"$1,109 ",Multiple Airlines,21h 15m,(1 stop),04/27/2019,30
+12:00pm,6:30am,"$1,124 ",Multiple Airlines,28h 30m,(1 stop),04/27/2019,30
+9:55am,9:40am,"$1,124 ",Qantas Airways,33h 45m,(2 stops),04/27/2019,30
+9:55am,10:10am,"$1,133 ",Qantas Airways,34h 15m,(2 stops),04/27/2019,30
+9:55am,10:10am,"$1,133 ",Qantas Airways,34h 15m,(2 stops),04/27/2019,30
+9:55am,10:40am,"$1,133 ",Qantas Airways,34h 45m,(2 stops),04/27/2019,30
+9:55am,6:30am,"$1,133 ",Qantas Airways,30h 35m,(1 stop),04/27/2019,30
+1:00pm,6:30am,"$1,134 ",Qantas Airways,27h 30m,(2 stops),04/27/2019,30
+9:55am,8:10am,"$1,139 ",Qantas Airways,32h 15m,(2 stops),04/27/2019,30
+9:55am,8:25am,"$1,144 ",Qantas Airways,32h 30m,(2 stops),04/27/2019,30
+9:55am,8:40am,"$1,144 ",Qantas Airways,32h 45m,(2 stops),04/27/2019,30
+9:55am,9:10am,"$1,144 ",Qantas Airways,33h 15m,(2 stops),04/27/2019,30
+9:55am,9:10am,"$1,144 ",Qantas Airways,33h 15m,(2 stops),04/27/2019,30
+9:55am,9:40am,"$1,144 ",Qantas Airways,33h 45m,(2 stops),04/27/2019,30
+10:20pm,6:30am,"$1,144 ",Etihad Airways,42h 10m,(1 stop),04/27/2019,30
+6:25pm,7:30am,"$1,246 ",Virgin Australia,23h 5m,(1 stop),04/27/2019,30
+12:00pm,7:30am,"$1,251 ",Virgin Australia,29h 30m,(1 stop),04/27/2019,30
+5:40pm,7:30am,"$1,251 ",Delta,23h 50m,(2 stops),04/27/2019,30
+1:00pm,7:30am,"$1,256 ",Delta,28h 30m,(2 stops),04/27/2019,30
+10:19am,7:30am,"$1,256 ",Delta,31h 11m,(2 stops),04/27/2019,30
+10:19am,7:30am,"$1,256 ",Delta,31h 11m,(2 stops),04/27/2019,30
+6:25pm,7:30am,"$1,256 ",Multiple Airlines,23h 5m,(1 stop),04/27/2019,30
+4:20pm,7:30am,"$1,263 ",Multiple Airlines,25h 10m,(1 stop),04/27/2019,30
+12:00pm,7:30am,"$1,263 ",Multiple Airlines,29h 30m,(1 stop),04/27/2019,30
+2:05pm,7:30am,"$1,263 ",Delta,27h 25m,(2 stops),04/27/2019,30
+1:00pm,7:30am,"$1,274 ",Delta,28h 30m,(2 stops),04/27/2019,30
+10:19am,7:30am,"$1,274 ",Delta,31h 11m,(2 stops),04/27/2019,30
+10:00am,7:30am,"$1,274 ",Delta,31h 30m,(2 stops),04/27/2019,30
+6:30am,7:30am,"$1,274 ",Delta,35h 0m,(2 stops),04/27/2019,30
+2:30pm,10:05pm,"$1,307 ",Emirates,41h 35m,(1 stop),04/27/2019,30
+2:30pm,6:05am,"$1,308 ",Emirates,49h 35m,(1 stop),04/27/2019,30
+8:00am,7:30am,"$1,308 ",Multiple Airlines,33h 30m,(1 stop),04/27/2019,30
+10:15pm,10:45am,"$1,324 ",China Airlines,46h 30m,(2 stops),04/27/2019,30
+5:25pm,8:40am,"$1,396 ",Air New Zealand,25h 15m,(2 stops),04/27/2019,30
+5:25pm,10:40am,"$1,409 ",Air New Zealand,27h 15m,(2 stops),04/27/2019,30
+8:15pm,8:20am,"$1,409 ",Air Canada,22h 5m,(1 stop),04/27/2019,30
+6:00pm,8:20am,"$1,433 ",Air Canada,24h 20m,(1 stop),04/27/2019,30
+4:50pm,8:20am,"$1,433 ",Air Canada,25h 30m,(2 stops),04/27/2019,30
+4:00pm,8:20am,"$1,433 ",Air Canada,26h 20m,(1 stop),04/27/2019,30
+11:30pm,8:45am,"$1,433 ",Philippine Airlines,43h 15m,(1 stop),04/27/2019,30
+2:05pm,7:30am,"$1,514 ",Delta,27h 25m,(2 stops),04/27/2019,30
+10:30am,7:30am,"$1,537 ",Delta,31h 0m,(2 stops),04/27/2019,30
+1:00pm,6:35am,"$1,537 ",Delta,27h 35m,(2 stops),04/27/2019,30
+10:19am,6:35am,"$1,545 ",Delta,30h 16m,(2 stops),04/27/2019,30
+10:30am,7:30am,"$1,545 ",Delta,31h 0m,(2 stops),04/27/2019,30
+7:56am,6:10am,"$1,545 ",Japan Airlines,32h 14m,(2 stops),04/27/2019,30
+8:35pm,7:15pm,"$1,971 ",Singapore Airlines,32h 40m,(2 stops),04/27/2019,30
+1:45am,8:20pm,"$2,003 ",Cathay Pacific,28h 35m,(1 stop),04/27/2019,30
+2:45pm,2:50pm,"$2,133 ",Air China,34h 5m,(1 stop),04/27/2019,30
+3:11pm,7:25am,"$2,372 ",American Airlines,26h 14m,(2 stops),04/27/2019,30
+1:00pm,7:25am,"$2,795 ",American Airlines,28h 25m,(2 stops),04/27/2019,30
+1:00pm,7:25am,"$2,795 ",American Airlines,28h 25m,(2 stops),04/27/2019,30
+11:45am,7:25am,"$2,795 ",American Airlines,29h 40m,(2 stops),04/27/2019,30
+11:45am,7:25am,"$2,795 ",American Airlines,29h 40m,(2 stops),04/27/2019,30
+11:28am,7:25am,"$2,795 ",American Airlines,29h 57m,(2 stops),04/27/2019,30
+7:56am,7:25am,"$2,795 ",American Airlines,33h 29m,(2 stops),04/27/2019,30
+12:40pm,6:15am,"$2,795 ",Korean Air,27h 35m,(1 stop),04/27/2019,30
+1:30am,7:40pm,"$2,802 ",China Southern Airlines,28h 10m,(1 stop),04/27/2019,30
+1:30am,8:25am,"$3,013 ",China Southern Airlines,40h 55m,(1 stop),04/27/2019,30
+7:21pm,6:55am,"$3,013 ",United,21h 34m,(1 stop),04/27/2019,30
+6:50pm,6:55am,"$3,291 ",United,22h 5m,(1 stop),04/27/2019,30
+4:20pm,6:55am,"$3,291 ",United,24h 35m,(1 stop),04/27/2019,30
+3:45pm,6:55am,"$3,291 ",United,25h 10m,(2 stops),04/27/2019,30
+5:25pm,8:40am,"$3,291 ",United,25h 15m,(2 stops),04/27/2019,30
+7:21pm,10:40am,"$3,295 ",United,25h 19m,(2 stops),04/27/2019,30
+6:50pm,10:40am,"$3,295 ",United,25h 50m,(2 stops),04/27/2019,30
+5:25pm,10:40am,"$3,295 ",United,27h 15m,(2 stops),04/27/2019,30
+4:55pm,6:55am,"$3,295 ",United,24h 0m,(2 stops),04/27/2019,30
+4:20pm,6:55am,"$3,296 ",United,24h 35m,(2 stops),04/27/2019,30
+4:15pm,6:55am,"$3,296 ",United,24h 40m,(2 stops),04/27/2019,30
+3:14pm,6:55am,"$3,296 ",United,25h 41m,(2 stops),04/27/2019,30
+2:55pm,6:55am,"$3,296 ",United,26h 0m,(2 stops),04/27/2019,30
+2:50pm,6:55am,"$3,296 ",United,26h 5m,(2 stops),04/27/2019,30
+2:50pm,6:55am,"$3,296 ",United,26h 5m,(2 stops),04/27/2019,30
+1:51pm,6:55am,"$3,296 ",United,27h 4m,(2 stops),04/27/2019,30
+1:51pm,6:55am,"$3,296 ",United,27h 4m,(2 stops),04/27/2019,30
+12:20pm,6:55am,"$3,296 ",United,28h 35m,(2 stops),04/27/2019,30
+12:20pm,6:55am,"$3,296 ",United,28h 35m,(2 stops),04/27/2019,30
+1:00pm,9:00am,"$3,296 ",Multiple Airlines,30h 0m,(1 stop),04/27/2019,30
+10:20pm,6:30am,$933 ,Etihad Airways,42h 10m,(1 stop),04/28/2019,31
+7:56am,7:25am,$989 ,American Airlines,33h 29m,(2 stops),04/28/2019,31
+7:56am,7:25am,$989 ,American Airlines,33h 29m,(2 stops),04/28/2019,31
+6:50pm,6:05am,$998 ,Multiple Airlines,21h 15m,(1 stop),04/28/2019,31
+6:00pm,11:25am,$999 ,Qantas Airways,27h 25m,(2 stops),04/28/2019,31
+6:00pm,11:55am,$999 ,Qantas Airways,27h 55m,(2 stops),04/28/2019,31
+6:00pm,12:25pm,$999 ,Qantas Airways,28h 25m,(2 stops),04/28/2019,31
+6:00pm,1:25pm,$999 ,Qantas Airways,29h 25m,(2 stops),04/28/2019,31
+6:00pm,2:25pm,$999 ,Qantas Airways,30h 25m,(2 stops),04/28/2019,31
+6:00pm,3:25pm,$999 ,Qantas Airways,31h 25m,(2 stops),04/28/2019,31
+6:00pm,3:55pm,$999 ,Qantas Airways,31h 55m,(2 stops),04/28/2019,31
+6:00pm,4:25pm,$999 ,Qantas Airways,32h 25m,(2 stops),04/28/2019,31
+7:56am,7:25am,"$1,007 ",American Airlines,33h 29m,(2 stops),04/28/2019,31
+7:56am,7:25am,"$1,007 ",American Airlines,33h 29m,(2 stops),04/28/2019,31
+7:56am,7:25am,"$1,007 ",American Airlines,33h 29m,(2 stops),04/28/2019,31
+7:56am,7:25am,"$1,007 ",American Airlines,33h 29m,(2 stops),04/28/2019,31
+6:00pm,10:25am,"$1,009 ",Qantas Airways,26h 25m,(2 stops),04/28/2019,31
+6:00pm,10:55am,"$1,009 ",Qantas Airways,26h 55m,(2 stops),04/28/2019,31
+6:00pm,9:10am,"$1,016 ",Qantas Airways,25h 10m,(2 stops),04/28/2019,31
+6:00pm,9:40am,"$1,016 ",Qantas Airways,25h 40m,(2 stops),04/28/2019,31
+6:00pm,10:10am,"$1,016 ",Qantas Airways,26h 10m,(2 stops),04/28/2019,31
+7:21pm,6:55am,"$1,059 ",United,21h 34m,(1 stop),04/28/2019,31
+6:50pm,6:55am,"$1,059 ",United,22h 5m,(1 stop),04/28/2019,31
+5:25pm,7:00am,"$1,059 ",United,23h 35m,(1 stop),04/28/2019,31
+12:40pm,7:00am,"$1,059 ",United,28h 20m,(1 stop),04/28/2019,31
+7:59am,7:00am,"$1,059 ",United,33h 1m,(1 stop),04/28/2019,31
+4:50pm,7:00am,"$1,064 ",United,24h 10m,(2 stops),04/28/2019,31
+2:55pm,6:55am,"$1,064 ",United,26h 0m,(2 stops),04/28/2019,31
+2:50pm,6:55am,"$1,064 ",United,26h 5m,(2 stops),04/28/2019,31
+2:50pm,6:55am,"$1,064 ",United,26h 5m,(2 stops),04/28/2019,31
+3:11pm,7:25am,"$1,067 ",American Airlines,26h 14m,(2 stops),04/28/2019,31
+4:00pm,8:40am,"$1,067 ",Air New Zealand,26h 40m,(2 stops),04/28/2019,31
+4:00pm,10:40am,"$1,067 ",Air New Zealand,28h 40m,(2 stops),04/28/2019,31
+6:25pm,7:30am,"$1,139 ",Virgin Australia,23h 5m,(1 stop),04/28/2019,31
+4:20pm,7:30am,"$1,139 ",Virgin Australia,25h 10m,(1 stop),04/28/2019,31
+12:00pm,7:30am,"$1,139 ",Virgin Australia,29h 30m,(1 stop),04/28/2019,31
+4:20pm,11:40am,"$1,153 ",Virgin Australia,29h 20m,(2 stops),04/28/2019,31
+4:20pm,2:40pm,"$1,153 ",Virgin Australia,32h 20m,(2 stops),04/28/2019,31
+4:20pm,3:40pm,"$1,153 ",Virgin Australia,33h 20m,(2 stops),04/28/2019,31
+12:00pm,11:40am,"$1,153 ",Virgin Australia,33h 40m,(2 stops),04/28/2019,31
+10:15pm,6:55pm,"$1,226 ",China Airlines,30h 40m,(2 stops),04/28/2019,31
+8:00pm,6:55pm,"$1,226 ",China Airlines,32h 55m,(2 stops),04/28/2019,31
+10:20pm,5:50pm,"$1,239 ",Etihad Airways,29h 30m,(1 stop),04/28/2019,31
+4:20pm,10:25am,"$1,255 ",Virgin Australia,28h 5m,(2 stops),04/28/2019,31
+4:20pm,11:25am,"$1,255 ",Virgin Australia,29h 5m,(2 stops),04/28/2019,31
+4:20pm,12:25pm,"$1,255 ",Virgin Australia,30h 5m,(2 stops),04/28/2019,31
+4:20pm,1:25pm,"$1,255 ",Virgin Australia,31h 5m,(2 stops),04/28/2019,31
+4:20pm,8:35am,"$1,265 ",Virgin Australia,26h 15m,(2 stops),04/28/2019,31
+3:30pm,8:20pm,"$1,274 ",Cathay Pacific,38h 50m,(1 stop),04/28/2019,31
+3:30pm,6:15am,"$1,274 ",Cathay Pacific,48h 45m,(1 stop),04/28/2019,31
+2:30pm,10:05pm,"$1,308 ",Emirates,41h 35m,(1 stop),04/28/2019,31
+2:30pm,6:05am,"$1,308 ",Emirates,49h 35m,(1 stop),04/28/2019,31
+10:30pm,8:20am,"$1,426 ",Air Canada,43h 50m,(1 stop),04/28/2019,31
+8:15pm,8:20am,"$1,433 ",Air Canada,22h 5m,(1 stop),04/28/2019,31
+6:00pm,8:20am,"$1,433 ",Air Canada,24h 20m,(1 stop),04/28/2019,31
+4:00pm,8:20am,"$1,433 ",Air Canada,26h 20m,(1 stop),04/28/2019,31
+4:25pm,8:30am,"$1,524 ",China Eastern Airlines,74h 5m,(3 stops),04/28/2019,31
+11:55am,7:30am,"$1,545 ",Delta,29h 35m,(2 stops),04/28/2019,31
+10:30am,7:30am,"$1,545 ",Delta,31h 0m,(2 stops),04/28/2019,31
+10:30am,7:30am,"$1,545 ",Delta,31h 0m,(2 stops),04/28/2019,31
+10:30am,7:30am,"$1,545 ",Delta,31h 0m,(2 stops),04/28/2019,31
+8:35pm,7:15pm,"$1,678 ",Singapore Airlines,32h 40m,(2 stops),04/28/2019,31
+2:45pm,2:50pm,"$2,372 ",Air China,34h 5m,(1 stop),04/28/2019,31
+1:00pm,8:25am,"$2,447 ",Multiple Airlines,29h 25m,(1 stop),04/28/2019,31
+3:38pm,6:35am,"$2,475 ",Delta,24h 57m,(2 stops),04/28/2019,31
+3:38pm,7:30am,"$2,475 ",Delta,25h 52m,(2 stops),04/28/2019,31
+3:38pm,7:30am,"$2,475 ",Delta,25h 52m,(2 stops),04/28/2019,31
+1:55pm,6:35am,"$2,475 ",Delta,26h 40m,(2 stops),04/28/2019,31
+11:55am,6:35am,"$2,475 ",Delta,28h 40m,(2 stops),04/28/2019,31
+11:55am,6:35am,"$2,475 ",Delta,28h 40m,(2 stops),04/28/2019,31
+11:55am,6:35am,"$2,475 ",Delta,28h 40m,(2 stops),04/28/2019,31
+10:30am,6:35am,"$2,475 ",Delta,30h 5m,(2 stops),04/28/2019,31
+10:30am,6:35am,"$2,475 ",Delta,30h 5m,(2 stops),04/28/2019,31
+10:30am,6:35am,"$2,475 ",Delta,30h 5m,(2 stops),04/28/2019,31
+10:30am,6:35am,"$2,475 ",Delta,30h 5m,(2 stops),04/28/2019,31
+1:30am,7:40pm,"$3,013 ",China Southern Airlines,28h 10m,(1 stop),04/28/2019,31
+11:30pm,8:45am,"$3,141 ",Philippine Airlines,43h 15m,(1 stop),04/28/2019,31
+12:40pm,7:30am,"$3,392 ",Multiple Airlines,28h 50m,(1 stop),04/28/2019,31
